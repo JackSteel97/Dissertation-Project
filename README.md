@@ -1,5 +1,5 @@
 # Introduction 
-A dissertation project for Jack Steel
+A dissertation project for Jack Steel. Some configs such as db connection strings have been ommited.
 
 # Abstract
 This project presents a successful proof of concept design and a successful implementation of the A*
