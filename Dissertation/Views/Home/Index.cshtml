@@ -1,0 +1,133 @@
+﻿@{
+    ViewData["Title"] = "Home";
+}
+
+@section Scripts {
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/locale/en-gb.js"></script>
+    <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"></script>
+    <script src="~/js/leaflet-arrows.js" asp-append-version="true"></script>
+    <script src="~/js/LeafletHeatmap.js" asp-append-version="true"></script>
+    <script src="~/js/shared.js" asp-append-version="true"></script>
+    <script src="~/js/home.js" asp-append-version="true"></script>
+}
+
+@section Styles {
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css" />
+    <link rel="stylesheet" href="~/css/home.css" asp-append-version="true" />
+}
+
+<div id="home-app">
+    <b-alert class="text-center w-100" variant="info" :show="loading">
+        <b-spinner label="Loading"></b-spinner>
+        <p class="mb-0">Please wait...</p>
+    </b-alert>
+
+    <b-row>
+        <b-col col cols="12" md="6" lg="4">
+            <h4 class="text-center">Route Planner</h4>
+            <div role="complementary" id="locationSelectors" class="center-block m-2">
+                <vue-multiselect id="destinationSelect"
+                                 v-model="routePlanner.selectedDestination"
+                                 :options="locationOptions"
+                                 aria-label="Select a destination, type to search."
+                                 :options-limit="1000"
+                                 :allow-empty="false"
+                                 :show-labels="false"
+                                 placeholder="Select a destination, type to search"
+                                 track-by="name"
+                                 label="name"
+                                 group-values="children"
+                                 group-label="name"
+                                 v-on:input="destinationChanged"
+                                 :loading="loading"
+                                 class="mb-2">
+                </vue-multiselect>
+
+                <vue-multiselect id="startSelect"
+                                 v-model="routePlanner.selectedStart"
+                                 :options="locationOptions"
+                                 aria-label="Select a starting point, type to search."
+                                 :options-limit="1000"
+                                 :allow-empty="false"
+                                 :show-labels="false"
+                                 placeholder="Select a starting point, type to search"
+                                 track-by="name"
+                                 label="name"
+                                 group-values="children"
+                                 group-label="name"
+                                 v-on:input="startChanged"
+                                 :loading="loading">
+                </vue-multiselect>
+
+                <b-input-group class="mt-2" prepend="Route Start Time">
+                    <flat-pickr id="starting-time-picker"
+                                v-model="startingTime.selectedTime"
+                                :config="startingTime.config"
+                                placeholder="Select a starting time"
+                                name="startingTIme">
+                    </flat-pickr>
+                </b-input-group>
+            </div>
+            <div class="center-block">
+                <b-btn v-show="routeDetails.totalDistance"
+                       aria-label="Toggle Congestion."
+                       :variant="congestionViz.visible ? 'danger' : 'primary'"
+                       class="float-left mb-2"
+                       v-on:click="toggleCongestionViz"
+                       :disabled="loadingCongestionViz">
+                    {{congestionViz.visible ? 'Hide' : 'Show'}} Congestion View
+                </b-btn>
+                <b-btn aria-label="Get Route."
+                       variant="success"
+                       class="float-right mb-2"
+                       v-on:click="getRoute">
+                    Get Route
+                </b-btn>
+            </div>
+        </b-col>
+
+        <b-col v-show="routeDetails.totalDistance" col cols="12" md="6" lg="4">
+            <h4 class="text-center">Route Details</h4>
+            <b-alert show variant="success">The shortest route is shown on the map in green.</b-alert>
+            <div class="d-block text-center">
+                <p>Distance: {{routeDetails.totalDistance}}</p>
+                <p>Estimated Duration: {{routeDetails.walkingTime}}</p>
+            </div>
+        </b-col>
+
+        <b-col v-show="adjustedRouteDetails.totalDistance" col cols="12" md="6" lg="4">
+            <h4 class="text-center">Adjusted Route Details</h4>
+            <b-alert show variant="warning">This route is shown in orange. Under the current conditions it may be faster than the normal route.</b-alert>
+            <div class="d-block text-center">
+                <p>Distance: {{adjustedRouteDetails.totalDistance}}</p>
+                <p>Estimated Duration: {{adjustedRouteDetails.walkingTime}}</p>
+            </div>
+        </b-col>
+    </b-row>
+
+    <b-row v-show="route.drawableRoutes.length > 0">
+        <b-col>
+            <b-btn v-show="route.currentRouteSection > 0"
+                   aria-label="Previous Section."
+                   variant="secondary"
+                   class="float-right"
+                   v-on:click="decrementRouteSection">
+                Previous Section
+            </b-btn>
+        </b-col>
+        <b-col class="text-center">
+            <p>Currently showing section {{route.currentRouteSection+1}} of {{route.drawableRoutes.length}}</p>
+        </b-col>
+        <b-col>
+            <b-btn v-show="route.currentRouteSection < route.drawableRoutes.length-1"
+                   aria-label="Next Section."
+                   variant="secondary"
+                   v-on:click="incrementRouteSection">
+                Next Section
+            </b-btn>
+        </b-col>
+    </b-row>
+
+    <div aria-label="Visual Map." id="map" class="mb-5"></div>
+</div>

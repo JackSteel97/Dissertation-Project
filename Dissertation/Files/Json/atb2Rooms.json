@@ -1,0 +1,3729 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54976946891,
+              53.22901963092
+            ],
+            [
+              -0.54975283382,
+              53.22903999426
+            ],
+            [
+              -0.54972100128,
+              53.22903065463
+            ],
+            [
+              -0.5497375074,
+              53.22901027465
+            ],
+            [
+              -0.54976946891,
+              53.22901963092
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "ATB",
+        "geometry_type": "Polygon",
+        "level": "2",
+        "node_type": "Block",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54959523965,
+              53.22894380758
+            ],
+            [
+              -0.54961474293,
+              53.22894945432
+            ],
+            [
+              -0.54964741155,
+              53.22895891281
+            ],
+            [
+              -0.54961403817,
+              53.22899969732
+            ],
+            [
+              -0.54956171984,
+              53.22898455531
+            ],
+            [
+              -0.54959523965,
+              53.22894380758
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "ATB",
+        "geometry_type": "Polygon",
+        "level": "2",
+        "node_type": "Block",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54924606296,
+              53.22889298047
+            ],
+            [
+              -0.54913088263,
+              53.22886001931
+            ],
+            [
+              -0.54916391705,
+              53.22881906745
+            ],
+            [
+              -0.5492153736,
+              53.22883398829
+            ],
+            [
+              -0.54927917386,
+              53.22885231642
+            ],
+            [
+              -0.54924606296,
+              53.22889298047
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "ATB",
+        "geometry_type": "Polygon",
+        "level": "2",
+        "node_type": "Block",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54876580501,
+              53.22879872898
+            ],
+            [
+              -0.54879985621,
+              53.22880842504
+            ],
+            [
+              -0.54878549107,
+              53.22882650421
+            ],
+            [
+              -0.54875135567,
+              53.22881691296
+            ],
+            [
+              -0.54876580501,
+              53.22879872898
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "ATB",
+        "connected_nodes": "c_atb2_067, l_atb2_154, l_atb1_153, l_atb3_153",
+        "geometry_type": "Polygon",
+        "id": "l_atb2_153",
+        "level": "2",
+        "name": "Lift",
+        "node_type": "lift",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54904044427,
+              53.22880867674
+            ],
+            [
+              -0.54902385373,
+              53.2288289393
+            ],
+            [
+              -0.54899144703,
+              53.22881978285
+            ],
+            [
+              -0.54900804995,
+              53.22879928697
+            ],
+            [
+              -0.54904044427,
+              53.22880867674
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "ATB",
+        "connected_nodes": "c_atb2_002, l_atb1_159, l_atb3_159",
+        "geometry_type": "Polygon",
+        "id": "l_atb2_159",
+        "level": "2",
+        "name": "Lift",
+        "node_type": "lift",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54881560339,
+              53.22878860778
+            ],
+            [
+              -0.54878141649,
+              53.22877908248
+            ],
+            [
+              -0.54876580501,
+              53.22879872898
+            ],
+            [
+              -0.54879985621,
+              53.22880842504
+            ],
+            [
+              -0.54881560339,
+              53.22878860778
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "ATB",
+        "connected_nodes": "c_atb2_067, l_atb2_153, l_atb1_154, l_atb3_154",
+        "geometry_type": "Polygon",
+        "id": "l_atb2_154",
+        "level": "2",
+        "name": "Lift",
+        "node_type": "lift",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54933232932,
+              53.22868794343
+            ],
+            [
+              -0.54929008946,
+              53.22874053536
+            ],
+            [
+              -0.54924722708,
+              53.22872821206
+            ],
+            [
+              -0.5492894626,
+              53.22867564549
+            ],
+            [
+              -0.54933232932,
+              53.22868794343
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "ATB",
+        "connected_nodes": "c_atb2_010",
+        "geometry_type": "Polygon",
+        "id": "r_atb2_210",
+        "level": "2",
+        "name": "ATB2210 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54974709654,
+              53.22919868228
+            ],
+            [
+              -0.54970357217,
+              53.22918613863
+            ],
+            [
+              -0.5497223801,
+              53.22916227157
+            ],
+            [
+              -0.54976598484,
+              53.22917479902
+            ],
+            [
+              -0.54974709654,
+              53.22919868228
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "ATB",
+        "connected_nodes": "c_atb2_031",
+        "geometry_type": "Polygon",
+        "id": "r_atb2_125",
+        "level": "2",
+        "name": "ATB2125 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54885323919,
+              53.2288639947
+            ],
+            [
+              -0.54883297885,
+              53.22888866951
+            ],
+            [
+              -0.54877197255,
+              53.22887072251
+            ],
+            [
+              -0.54880344948,
+              53.2288315501
+            ],
+            [
+              -0.54886515686,
+              53.22884888842
+            ],
+            [
+              -0.54885323919,
+              53.2288639947
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "ATB",
+        "connected_nodes": "c_atb2_051",
+        "geometry_type": "Polygon",
+        "id": "r_atb2_144",
+        "level": "2",
+        "name": "ATB2144 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.5494852082,
+              53.22912320647
+            ],
+            [
+              -0.54944131356,
+              53.22911055609
+            ],
+            [
+              -0.54946039512,
+              53.22908646686
+            ],
+            [
+              -0.54950431959,
+              53.22909907043
+            ],
+            [
+              -0.5494852082,
+              53.22912320647
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "ATB",
+        "connected_nodes": "c_atb2_038",
+        "geometry_type": "Polygon",
+        "id": "r_atb2_131",
+        "level": "2",
+        "name": "ATB2131 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54983454145,
+              53.22906593533
+            ],
+            [
+              -0.54989365594,
+              53.22908294251
+            ],
+            [
+              -0.54986880561,
+              53.22911385183
+            ],
+            [
+              -0.54980970824,
+              53.22909686623
+            ],
+            [
+              -0.54983454145,
+              53.22906593533
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "ATB",
+        "connected_nodes": "c_atb2_029",
+        "geometry_type": "Polygon",
+        "id": "r_atb2_121",
+        "level": "2",
+        "name": "ATB2121 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54970357217,
+              53.22918613863
+            ],
+            [
+              -0.54965999449,
+              53.22917357962
+            ],
+            [
+              -0.5496791039,
+              53.22914966442
+            ],
+            [
+              -0.5497223801,
+              53.22916227157
+            ],
+            [
+              -0.54970357217,
+              53.22918613863
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "ATB",
+        "connected_nodes": "c_atb2_033",
+        "geometry_type": "Polygon",
+        "id": "r_atb2_126",
+        "level": "2",
+        "name": "ATB2126 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.5492894626,
+              53.22867564549
+            ],
+            [
+              -0.54924722708,
+              53.22872821206
+            ],
+            [
+              -0.54920435955,
+              53.22871590262
+            ],
+            [
+              -0.54924661488,
+              53.22866334174
+            ],
+            [
+              -0.5492894626,
+              53.22867564549
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "ATB",
+        "connected_nodes": "c_atb2_009",
+        "geometry_type": "Polygon",
+        "id": "r_atb2_209",
+        "level": "2",
+        "name": "ATB2209 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54980970824,
+              53.22909686623
+            ],
+            [
+              -0.54986880561,
+              53.22911385183
+            ],
+            [
+              -0.54984397241,
+              53.2291447827
+            ],
+            [
+              -0.54978481654,
+              53.22912777516
+            ],
+            [
+              -0.54980970824,
+              53.22909686623
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "ATB",
+        "connected_nodes": "c_atb2_030",
+        "geometry_type": "Polygon",
+        "id": "r_atb2_122",
+        "level": "2",
+        "name": "ATB2122 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.5491827911,
+              53.22903608657
+            ],
+            [
+              -0.54913453029,
+              53.22902214579
+            ],
+            [
+              -0.54915377705,
+              53.22899827091
+            ],
+            [
+              -0.54920203786,
+              53.22901221169
+            ],
+            [
+              -0.5491827911,
+              53.22903608657
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "ATB",
+        "connected_nodes": "c_atb2_044",
+        "geometry_type": "Polygon",
+        "id": "r_atb2_136",
+        "level": "2",
+        "name": "ATB2136 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.5499215317,
+              53.22885779358
+            ],
+            [
+              -0.54998633835,
+              53.22887639691
+            ],
+            [
+              -0.54994399812,
+              53.22892941126
+            ],
+            [
+              -0.54987921718,
+              53.22891070101
+            ],
+            [
+              -0.5499215317,
+              53.22885779358
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "ATB",
+        "connected_nodes": "c_atb2_022",
+        "geometry_type": "Polygon",
+        "id": "r_atb2_231",
+        "level": "2",
+        "name": "ATB2231 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54901179306,
+              53.22892532874
+            ],
+            [
+              -0.54893985171,
+              53.22890441167
+            ],
+            [
+              -0.54896372121,
+              53.22887420116
+            ],
+            [
+              -0.54893030391,
+              53.22886440315
+            ],
+            [
+              -0.54895758334,
+              53.22883011011
+            ],
+            [
+              -0.54906363178,
+              53.22886113695
+            ],
+            [
+              -0.54901179306,
+              53.22892532874
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "ATB",
+        "connected_nodes": "c_atb2_054",
+        "geometry_type": "Polygon",
+        "id": "r_atb2_101",
+        "level": "2",
+        "name": "ATB2101 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54924661488,
+              53.22866334174
+            ],
+            [
+              -0.54920435955,
+              53.22871590262
+            ],
+            [
+              -0.54916158367,
+              53.22870357941
+            ],
+            [
+              -0.549203839,
+              53.22865101852
+            ],
+            [
+              -0.54924661488,
+              53.22866334174
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "ATB",
+        "connected_nodes": "c_atb2_008",
+        "geometry_type": "Polygon",
+        "id": "r_atb2_208",
+        "level": "2",
+        "name": "ATB2208 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54965999449,
+              53.22917357962
+            ],
+            [
+              -0.54961646894,
+              53.22916103563
+            ],
+            [
+              -0.54963569364,
+              53.22913678642
+            ],
+            [
+              -0.5496791039,
+              53.22914966442
+            ],
+            [
+              -0.54965999449,
+              53.22917357962
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "ATB",
+        "connected_nodes": "c_atb2_034",
+        "geometry_type": "Polygon",
+        "id": "r_atb2_127",
+        "level": "2",
+        "name": "ATB2127 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54944131356,
+              53.22911055609
+            ],
+            [
+              -0.54939732217,
+              53.22909787783
+            ],
+            [
+              -0.54941633639,
+              53.22907377557
+            ],
+            [
+              -0.54946039512,
+              53.22908646686
+            ],
+            [
+              -0.54944131356,
+              53.22911055609
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "ATB",
+        "connected_nodes": "c_atb2_039",
+        "geometry_type": "Polygon",
+        "id": "r_atb2_132",
+        "level": "2",
+        "name": "ATB2132 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54896271869,
+              53.22894301167
+            ],
+            [
+              -0.54894310049,
+              53.22896696159
+            ],
+            [
+              -0.54891169094,
+              53.2289579432
+            ],
+            [
+              -0.54893085153,
+              53.22893377361
+            ],
+            [
+              -0.54896271869,
+              53.22894301167
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "ATB",
+        "connected_nodes": "c_atb2_047",
+        "geometry_type": "Polygon",
+        "id": "r_atb2_140",
+        "level": "2",
+        "name": "ATB2140 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54972053459,
+              53.22880004222
+            ],
+            [
+              -0.54978994542,
+              53.22881987643
+            ],
+            [
+              -0.54974724495,
+              53.22887261357
+            ],
+            [
+              -0.5496780613,
+              53.22885260244
+            ],
+            [
+              -0.54972053459,
+              53.22880004222
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "ATB",
+        "connected_nodes": "c_atb2_019",
+        "geometry_type": "Polygon",
+        "id": "r_atb2_223",
+        "level": "2",
+        "name": "ATB2223 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54941793683,
+              53.22871266916
+            ],
+            [
+              -0.5493756967,
+              53.22876524042
+            ],
+            [
+              -0.54933292311,
+              53.22875284145
+            ],
+            [
+              -0.54937515863,
+              53.22870027491
+            ],
+            [
+              -0.54941793683,
+              53.22871266916
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "ATB",
+        "connected_nodes": "c_atb2_014",
+        "geometry_type": "Polygon",
+        "id": "r_atb2_215",
+        "level": "2",
+        "name": "ATB2215 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54978481654,
+              53.22912777516
+            ],
+            [
+              -0.54984397241,
+              53.2291447827
+            ],
+            [
+              -0.5498220751,
+              53.22917186123
+            ],
+            [
+              -0.5497629606,
+              53.22915485409
+            ],
+            [
+              -0.54978481654,
+              53.22912777516
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "ATB",
+        "connected_nodes": "c_atb2_032",
+        "geometry_type": "Polygon",
+        "id": "r_atb2_123",
+        "level": "2",
+        "name": "ATB2123 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54915377705,
+              53.22899827091
+            ],
+            [
+              -0.54913453029,
+              53.22902214579
+            ],
+            [
+              -0.5490090492,
+              53.22898589694
+            ],
+            [
+              -0.54902829596,
+              53.22896202203
+            ],
+            [
+              -0.54915377705,
+              53.22899827091
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "ATB",
+        "connected_nodes": "c_atb2_044",
+        "geometry_type": "Polygon",
+        "id": "r_atb2_137",
+        "level": "2",
+        "name": "ATB2137 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54891169094,
+              53.2289579432
+            ],
+            [
+              -0.54893085153,
+              53.22893377361
+            ],
+            [
+              -0.54888543875,
+              53.22892060878
+            ],
+            [
+              -0.54886618372,
+              53.22894487705
+            ],
+            [
+              -0.54891169094,
+              53.2289579432
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "ATB",
+        "connected_nodes": "c_atb2_068",
+        "geometry_type": "Polygon",
+        "id": "r_atb2_141",
+        "level": "2",
+        "name": "ATB2141 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54946076153,
+              53.22872500538
+            ],
+            [
+              -0.54941852601,
+              53.22877757189
+            ],
+            [
+              -0.5493756967,
+              53.22876524042
+            ],
+            [
+              -0.54941793683,
+              53.22871266916
+            ],
+            [
+              -0.54946076153,
+              53.22872500538
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "ATB",
+        "connected_nodes": "c_atb2_015",
+        "geometry_type": "Polygon",
+        "id": "r_atb2_216",
+        "level": "2",
+        "name": "ATB2216 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54902861753,
+              53.22874308507
+            ],
+            [
+              -0.54890384568,
+              53.22870666172
+            ],
+            [
+              -0.5488809,
+              53.2287352
+            ],
+            [
+              -0.54900600399,
+              53.22877111764
+            ],
+            [
+              -0.54902861753,
+              53.22874308507
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "ATB",
+        "connected_nodes": "c_atb2_003",
+        "geometry_type": "Polygon",
+        "id": "r_atb2_201",
+        "level": "2",
+        "name": "ATB2201 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.549203839,
+              53.22865101852
+            ],
+            [
+              -0.54916158367,
+              53.22870357941
+            ],
+            [
+              -0.54912094025,
+              53.22869188981
+            ],
+            [
+              -0.54916317577,
+              53.22863932319
+            ],
+            [
+              -0.549203839,
+              53.22865101852
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "ATB",
+        "connected_nodes": "c_atb2_007",
+        "geometry_type": "Polygon",
+        "id": "r_atb2_207",
+        "level": "2",
+        "name": "ATB2207 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54939732217,
+              53.22909787783
+            ],
+            [
+              -0.54935348509,
+              53.22908524403
+            ],
+            [
+              -0.54937254177,
+              53.22906112739
+            ],
+            [
+              -0.54941633639,
+              53.22907377557
+            ],
+            [
+              -0.54939732217,
+              53.22909787783
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "ATB",
+        "connected_nodes": "c_atb2_040",
+        "geometry_type": "Polygon",
+        "id": "r_atb2_133",
+        "level": "2",
+        "name": "ATB2133 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54974724495,
+              53.22887261357
+            ],
+            [
+              -0.54978994542,
+              53.22881987643
+            ],
+            [
+              -0.54985999713,
+              53.22884001728
+            ],
+            [
+              -0.54981736607,
+              53.22889274596
+            ],
+            [
+              -0.54974724495,
+              53.22887261357
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "ATB",
+        "connected_nodes": "c_atb2_020",
+        "geometry_type": "Polygon",
+        "id": "r_atb2_229",
+        "level": "2",
+        "name": "ATB2229 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.5490090492,
+              53.22898589694
+            ],
+            [
+              -0.54897592014,
+              53.22897638485
+            ],
+            [
+              -0.54899521972,
+              53.22895243348
+            ],
+            [
+              -0.54902829596,
+              53.22896202203
+            ],
+            [
+              -0.5490090492,
+              53.22898589694
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "ATB",
+        "connected_nodes": "c_atb2_045",
+        "geometry_type": "Polygon",
+        "id": "r_atb2_138",
+        "level": "2",
+        "name": "ATB2138 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54937515863,
+              53.22870027491
+            ],
+            [
+              -0.54933292311,
+              53.22875284145
+            ],
+            [
+              -0.54929008946,
+              53.22874053536
+            ],
+            [
+              -0.54933232932,
+              53.22868794343
+            ],
+            [
+              -0.54937515863,
+              53.22870027491
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "ATB",
+        "connected_nodes": "c_atb2_012",
+        "geometry_type": "Polygon",
+        "id": "r_atb2_212",
+        "level": "2",
+        "name": "ATB2212 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54961646894,
+              53.22916103563
+            ],
+            [
+              -0.54957284428,
+              53.22914846307
+            ],
+            [
+              -0.54959192083,
+              53.22912423021
+            ],
+            [
+              -0.54963569364,
+              53.22913678642
+            ],
+            [
+              -0.54961646894,
+              53.22916103563
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "ATB",
+        "connected_nodes": "c_atb2_035",
+        "geometry_type": "Polygon",
+        "id": "r_atb2_128",
+        "level": "2",
+        "name": "ATB2128 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54984007286,
+              53.22896156663
+            ],
+            [
+              -0.54980665522,
+              53.22900341198
+            ],
+            [
+              -0.54982769351,
+              53.2290094603
+            ],
+            [
+              -0.5499294,
+              53.2290387
+            ],
+            [
+              -0.54996277822,
+              53.22899696336
+            ],
+            [
+              -0.54984007286,
+              53.22896156663
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "ATB",
+        "connected_nodes": "c_atb2_023",
+        "geometry_type": "Polygon",
+        "id": "r_atb2_234",
+        "level": "2",
+        "name": "ATB2234 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54935348509,
+              53.22908524403
+            ],
+            [
+              -0.54930972307,
+              53.22907265358
+            ],
+            [
+              -0.5493286271,
+              53.22904856545
+            ],
+            [
+              -0.54937254177,
+              53.22906112739
+            ],
+            [
+              -0.54935348509,
+              53.22908524403
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "ATB",
+        "connected_nodes": "c_atb2_041",
+        "geometry_type": "Polygon",
+        "id": "r_atb2_134",
+        "level": "2",
+        "name": "ATB2134 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54999449393,
+              53.22895776493
+            ],
+            [
+              -0.54993486887,
+              53.22894115416
+            ],
+            [
+              -0.54994399812,
+              53.22892941126
+            ],
+            [
+              -0.54998633835,
+              53.22887639691
+            ],
+            [
+              -0.5500461,
+              53.2288936
+            ],
+            [
+              -0.54999449393,
+              53.22895776493
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "ATB",
+        "connected_nodes": "c_atb2_022",
+        "geometry_type": "Polygon",
+        "id": "r_atb2_232",
+        "level": "2",
+        "name": "ATB2232 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54888543875,
+              53.22892060878
+            ],
+            [
+              -0.54889620463,
+              53.22890726942
+            ],
+            [
+              -0.54883297885,
+              53.22888866951
+            ],
+            [
+              -0.54877197255,
+              53.22887072251
+            ],
+            [
+              -0.5487413,
+              53.2289089
+            ],
+            [
+              -0.54886618372,
+              53.22894487705
+            ],
+            [
+              -0.54888543875,
+              53.22892060878
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "ATB",
+        "connected_nodes": "c_atb2_048",
+        "geometry_type": "Polygon",
+        "id": "r_atb2_142",
+        "level": "2",
+        "name": "ATB2142 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.5497908,
+              53.2292112
+            ],
+            [
+              -0.54974709654,
+              53.22919868228
+            ],
+            [
+              -0.54976598484,
+              53.22917479902
+            ],
+            [
+              -0.54980975678,
+              53.2291873556
+            ],
+            [
+              -0.5497908,
+              53.2292112
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "ATB",
+        "connected_nodes": "c_atb2_032",
+        "geometry_type": "Polygon",
+        "id": "r_atb2_124",
+        "level": "2",
+        "name": "ATB2124 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54952901713,
+              53.22913583215
+            ],
+            [
+              -0.5494852082,
+              53.22912320647
+            ],
+            [
+              -0.54950431959,
+              53.22909907043
+            ],
+            [
+              -0.54954803017,
+              53.22911177968
+            ],
+            [
+              -0.54952901713,
+              53.22913583215
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "ATB",
+        "connected_nodes": "c_atb2_037",
+        "geometry_type": "Polygon",
+        "id": "r_atb2_130",
+        "level": "2",
+        "name": "ATB2130 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54897592014,
+              53.22897638485
+            ],
+            [
+              -0.54894310049,
+              53.22896696159
+            ],
+            [
+              -0.54896271869,
+              53.22894301167
+            ],
+            [
+              -0.54899521972,
+              53.22895243348
+            ],
+            [
+              -0.54897592014,
+              53.22897638485
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "ATB",
+        "connected_nodes": "c_atb2_046",
+        "geometry_type": "Polygon",
+        "id": "r_atb2_139",
+        "level": "2",
+        "name": "ATB2139 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54916317577,
+              53.22863932319
+            ],
+            [
+              -0.54912094025,
+              53.22869188981
+            ],
+            [
+              -0.54907993571,
+              53.22867984578
+            ],
+            [
+              -0.54912193715,
+              53.22862740247
+            ],
+            [
+              -0.54916317577,
+              53.22863932319
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "ATB",
+        "connected_nodes": "c_atb2_006",
+        "geometry_type": "Polygon",
+        "id": "r_atb2_205",
+        "level": "2",
+        "name": "ATB2205 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54957284428,
+              53.22914846307
+            ],
+            [
+              -0.54952901713,
+              53.22913583215
+            ],
+            [
+              -0.54954803017,
+              53.22911177968
+            ],
+            [
+              -0.54959192083,
+              53.22912423021
+            ],
+            [
+              -0.54957284428,
+              53.22914846307
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "ATB",
+        "connected_nodes": "c_atb2_036",
+        "geometry_type": "Polygon",
+        "id": "r_atb2_129",
+        "level": "2",
+        "name": "ATB2129 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54930972307,
+              53.22907265358
+            ],
+            [
+              -0.54926606623,
+              53.22906000013
+            ],
+            [
+              -0.5492848783,
+              53.22903586549
+            ],
+            [
+              -0.5493286271,
+              53.22904856545
+            ],
+            [
+              -0.54930972307,
+              53.22907265358
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "ATB",
+        "connected_nodes": "c_atb2_042",
+        "geometry_type": "Polygon",
+        "id": "r_atb2_135",
+        "level": "2",
+        "name": "ATB2135 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54981736607,
+              53.22889274596
+            ],
+            [
+              -0.54985999713,
+              53.22884001728
+            ],
+            [
+              -0.5499215317,
+              53.22885779358
+            ],
+            [
+              -0.54987921718,
+              53.22891070101
+            ],
+            [
+              -0.54981736607,
+              53.22889274596
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "ATB",
+        "connected_nodes": "c_atb2_020",
+        "geometry_type": "Polygon",
+        "id": "r_atb2_230",
+        "level": "2",
+        "name": "ATB2230 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54889620463,
+              53.22890726942
+            ],
+            [
+              -0.54891666386,
+              53.22888236596
+            ],
+            [
+              -0.54885323919,
+              53.2288639947
+            ],
+            [
+              -0.54883297885,
+              53.22888866951
+            ],
+            [
+              -0.54889620463,
+              53.22890726942
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "ATB",
+        "connected_nodes": "c_atb2_051",
+        "geometry_type": "Polygon",
+        "id": "r_atb2_143",
+        "level": "2",
+        "name": "ATB2143 (Digital Aquarium)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54913376423,
+              53.22870980005
+            ],
+            [
+              -0.54928140946,
+              53.2287524503
+            ],
+            [
+              -0.54926027937,
+              53.22877854077
+            ],
+            [
+              -0.5492153736,
+              53.22883398829
+            ],
+            [
+              -0.54916391705,
+              53.22881906745
+            ],
+            [
+              -0.5491049511,
+              53.22880194438
+            ],
+            [
+              -0.54906771583,
+              53.22879113166
+            ],
+            [
+              -0.54909206153,
+              53.22876115254
+            ],
+            [
+              -0.54911279774,
+              53.22873561809
+            ],
+            [
+              -0.54913376423,
+              53.22870980005
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "ATB",
+        "connected_nodes": "c_atb2_011",
+        "geometry_type": "Polygon",
+        "id": "r_atb2_211",
+        "level": "2",
+        "name": "ATB2211 (Photo Studio)",
+        "node_type": "room",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54936700906,
+              53.22884048401
+            ],
+            [
+              -0.54934256394,
+              53.22887052671
+            ],
+            [
+              -0.54929994919,
+              53.22885828462
+            ],
+            [
+              -0.54932480098,
+              53.22882796312
+            ],
+            [
+              -0.54936700906,
+              53.22884048401
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "ATB",
+        "connected_nodes": "c_atb2_064",
+        "geometry_type": "Polygon",
+        "id": "r_atb2_241",
+        "level": "2",
+        "name": "ATB2241 (Suite)",
+        "node_type": "room",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54960683375,
+              53.22883174311
+            ],
+            [
+              -0.54964922824,
+              53.22877928454
+            ],
+            [
+              -0.54972053459,
+              53.22880004222
+            ],
+            [
+              -0.5496780613,
+              53.22885260244
+            ],
+            [
+              -0.54960683375,
+              53.22883174311
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "ATB",
+        "connected_nodes": "c_atb2_018",
+        "geometry_type": "Polygon",
+        "id": "r_atb2_222",
+        "level": "2",
+        "name": "ATB2222 (Domestic Film Set)",
+        "node_type": "room",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54912064693,
+              53.22896882976
+            ],
+            [
+              -0.54900387203,
+              53.22893497872
+            ],
+            [
+              -0.54901179306,
+              53.22892532874
+            ],
+            [
+              -0.54906363178,
+              53.22886113695
+            ],
+            [
+              -0.54918119825,
+              53.22889514493
+            ],
+            [
+              -0.54912064693,
+              53.22896882976
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "ATB",
+        "connected_nodes": "c_atb2_056",
+        "geometry_type": "Polygon",
+        "id": "r_atb2_102",
+        "level": "2",
+        "name": "ATB2102 (Lincoln Sound Theatre)",
+        "node_type": "room",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54974549896,
+              53.2288867996
+            ],
+            [
+              -0.54968012784,
+              53.22886791133
+            ],
+            [
+              -0.54965290532,
+              53.22890186117
+            ],
+            [
+              -0.54971811936,
+              53.22892059896
+            ],
+            [
+              -0.54974549896,
+              53.2288867996
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "ATB",
+        "connected_nodes": "c_atb2_019, r_atb2_227",
+        "geometry_type": "Polygon",
+        "id": "r_atb2_228",
+        "level": "2",
+        "name": "ATB2228 (Sound Lounge)",
+        "node_type": "room",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54978135741,
+              53.22893824439
+            ],
+            [
+              -0.54971811936,
+              53.22892059896
+            ],
+            [
+              -0.54974549896,
+              53.2288867996
+            ],
+            [
+              -0.54980827042,
+              53.22890502104
+            ],
+            [
+              -0.54978135741,
+              53.22893824439
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "ATB",
+        "connected_nodes": "c_atb2_019, r_atb2_226, r_atb2_225",
+        "geometry_type": "Polygon",
+        "id": "r_atb2_224",
+        "level": "2",
+        "name": "ATB2224 (Suite)",
+        "node_type": "room",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54948077956,
+              53.22873076428
+            ],
+            [
+              -0.54943804228,
+              53.22878295713
+            ],
+            [
+              -0.54960683375,
+              53.22883174311
+            ],
+            [
+              -0.54964922824,
+              53.22877928454
+            ],
+            [
+              -0.54948077956,
+              53.22873076428
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "ATB",
+        "connected_nodes": "c_atb2_017",
+        "geometry_type": "Polygon",
+        "id": "r_atb2_217",
+        "level": "2",
+        "name": "ATB2217 (Audio Suite)",
+        "node_type": "room",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54947796072,
+              53.22896031368
+            ],
+            [
+              -0.5495113554,
+              53.22891972084
+            ],
+            [
+              -0.54944914277,
+              53.22890174211
+            ],
+            [
+              -0.54936275014,
+              53.22887677563
+            ],
+            [
+              -0.5493299472,
+              53.22891747547
+            ],
+            [
+              -0.54947796072,
+              53.22896031368
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "ATB",
+        "connected_nodes": "c_atb2_060",
+        "geometry_type": "Polygon",
+        "id": "r_atb2_109",
+        "level": "2",
+        "name": "ATB2109 (Video Editing Suite)",
+        "node_type": "room",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54957574848,
+              53.22910086214
+            ],
+            [
+              -0.54963564672,
+              53.2290262673
+            ],
+            [
+              -0.54971507279,
+              53.22904914595
+            ],
+            [
+              -0.54965430656,
+              53.22912356444
+            ],
+            [
+              -0.54957574848,
+              53.22910086214
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "ATB",
+        "connected_nodes": "c_atb2_063",
+        "geometry_type": "Polygon",
+        "id": "r_atb2_119",
+        "level": "2",
+        "name": "ATB2119 (Media Lab 2)",
+        "node_type": "room",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54911279774,
+              53.22873561809
+            ],
+            [
+              -0.54906946655,
+              53.2287230531
+            ],
+            [
+              -0.54909022922,
+              53.22869722409
+            ],
+            [
+              -0.54913376423,
+              53.22870980005
+            ],
+            [
+              -0.54911279774,
+              53.22873561809
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "ATB",
+        "connected_nodes": "c_atb2_005",
+        "geometry_type": "Polygon",
+        "id": "r_atb2_206",
+        "level": "2",
+        "name": "ATB2206 (Sound Labs)",
+        "node_type": "room",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54951489281,
+              53.22882016844
+            ],
+            [
+              -0.54959756269,
+              53.22884405503
+            ],
+            [
+              -0.54957020419,
+              53.22887791933
+            ],
+            [
+              -0.54948761601,
+              53.22885400979
+            ],
+            [
+              -0.54949410015,
+              53.22884596515
+            ],
+            [
+              -0.54951489281,
+              53.22882016844
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "ATB",
+        "connected_nodes": "c_atb2_018, r_atb2_220",
+        "geometry_type": "Polygon",
+        "id": "r_atb2_221",
+        "level": "2",
+        "name": "ATB2221 (Suite)",
+        "node_type": "room",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54974164871,
+              53.2289861276
+            ],
+            [
+              -0.54976641806,
+              53.22895625919
+            ],
+            [
+              -0.54981037007,
+              53.22896879871
+            ],
+            [
+              -0.54978601113,
+              53.22899907216
+            ],
+            [
+              -0.54975414232,
+              53.22898973563
+            ],
+            [
+              -0.54974164871,
+              53.2289861276
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "ATB",
+        "connected_nodes": "c_atb2_024",
+        "geometry_type": "Polygon",
+        "id": "r_atb2_235",
+        "level": "2",
+        "name": "ATB2235 (Meeting Room)",
+        "node_type": "room",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54934524768,
+              53.22880301621
+            ],
+            [
+              -0.54936575128,
+              53.22877734337
+            ],
+            [
+              -0.54940854589,
+              53.22878948884
+            ],
+            [
+              -0.549387575,
+              53.22881520875
+            ],
+            [
+              -0.54934524768,
+              53.22880301621
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "ATB",
+        "connected_nodes": "c_atb2_065",
+        "geometry_type": "Polygon",
+        "id": "r_atb2_237",
+        "level": "2",
+        "name": "ATB2237 (Suite)",
+        "node_type": "room",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54943207967,
+              53.22905934364
+            ],
+            [
+              -0.54949215578,
+              53.22898493476
+            ],
+            [
+              -0.54963564672,
+              53.2290262673
+            ],
+            [
+              -0.54957574848,
+              53.22910086214
+            ],
+            [
+              -0.54943207967,
+              53.22905934364
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "ATB",
+        "connected_nodes": "c_atb2_062",
+        "geometry_type": "Polygon",
+        "id": "r_atb2_118",
+        "level": "2",
+        "name": "ATB2118 (Media Lab 3)",
+        "node_type": "room",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54909206153,
+              53.22876115254
+            ],
+            [
+              -0.54904889122,
+              53.22874864905
+            ],
+            [
+              -0.54906946655,
+              53.2287230531
+            ],
+            [
+              -0.54911279774,
+              53.22873561809
+            ],
+            [
+              -0.54909206153,
+              53.22876115254
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "ATB",
+        "connected_nodes": "c_atb2_005",
+        "geometry_type": "Polygon",
+        "id": "r_atb2_204",
+        "level": "2",
+        "name": "ATB2204 (Sound Labs)",
+        "node_type": "room",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54971811936,
+              53.22892059896
+            ],
+            [
+              -0.54967956158,
+              53.22896819743
+            ],
+            [
+              -0.54964741155,
+              53.22895891281
+            ],
+            [
+              -0.54961474293,
+              53.22894945432
+            ],
+            [
+              -0.54965290532,
+              53.22890186117
+            ],
+            [
+              -0.54971811936,
+              53.22892059896
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "ATB",
+        "connected_nodes": "r_atb2_228",
+        "geometry_type": "Polygon",
+        "id": "r_atb2_227",
+        "level": "2",
+        "name": "ATB2227 (Critical Listening Suite)",
+        "node_type": "room",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54993486887,
+              53.22894115416
+            ],
+            [
+              -0.5498714442,
+              53.22892319117
+            ],
+            [
+              -0.54984007286,
+              53.22896156663
+            ],
+            [
+              -0.54996277822,
+              53.22899696336
+            ],
+            [
+              -0.54999449393,
+              53.22895776493
+            ],
+            [
+              -0.54993486887,
+              53.22894115416
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "ATB",
+        "connected_nodes": "c_atb2_023",
+        "geometry_type": "Polygon",
+        "id": "r_atb2_233",
+        "level": "2",
+        "name": "ATB2233 (Production Office/Seminar Room)",
+        "node_type": "room",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54947796072,
+              53.22896031368
+            ],
+            [
+              -0.54956171984,
+              53.22898455531
+            ],
+            [
+              -0.54959523965,
+              53.22894380758
+            ],
+            [
+              -0.54953171119,
+              53.22892556586
+            ],
+            [
+              -0.5495113554,
+              53.22891972084
+            ],
+            [
+              -0.54947796072,
+              53.22896031368
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "ATB",
+        "connected_nodes": "c_atb2_061",
+        "geometry_type": "Polygon",
+        "id": "r_atb2_117",
+        "level": "2",
+        "name": "ATB2117 (Seminar Room)",
+        "node_type": "room",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54943207967,
+              53.22905934364
+            ],
+            [
+              -0.5492985762,
+              53.22902076276
+            ],
+            [
+              -0.54935859094,
+              53.2289464614
+            ],
+            [
+              -0.54949215578,
+              53.22898493476
+            ],
+            [
+              -0.54943207967,
+              53.22905934364
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "ATB",
+        "connected_nodes": "c_atb2_060",
+        "geometry_type": "Polygon",
+        "id": "r_atb2_110",
+        "level": "2",
+        "name": "ATB2110 (Video Edit Suites)",
+        "node_type": "room",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54957020419,
+              53.22887791933
+            ],
+            [
+              -0.54953171119,
+              53.22892556586
+            ],
+            [
+              -0.5495113554,
+              53.22891972084
+            ],
+            [
+              -0.54944914277,
+              53.22890174211
+            ],
+            [
+              -0.54947348508,
+              53.22887154152
+            ],
+            [
+              -0.54948761601,
+              53.22885400979
+            ],
+            [
+              -0.54957020419,
+              53.22887791933
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "ATB",
+        "connected_nodes": "r_atb2_221",
+        "geometry_type": "Polygon",
+        "id": "r_atb2_220",
+        "level": "2",
+        "name": "ATB2220 (Suite)",
+        "node_type": "room",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54947348508,
+              53.22887154152
+            ],
+            [
+              -0.54938707284,
+              53.22884659751
+            ],
+            [
+              -0.54936275014,
+              53.22887677563
+            ],
+            [
+              -0.54944914277,
+              53.22890174211
+            ],
+            [
+              -0.54947348508,
+              53.22887154152
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "ATB",
+        "connected_nodes": "c_atb2_064",
+        "geometry_type": "Polygon",
+        "id": "r_atb2_240",
+        "level": "2",
+        "name": "ATB2240 (Suite)",
+        "node_type": "room",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54936575128,
+              53.22877734337
+            ],
+            [
+              -0.54930164463,
+              53.22875907412
+            ],
+            [
+              -0.54928100289,
+              53.22878451026
+            ],
+            [
+              -0.54934524768,
+              53.22880301621
+            ],
+            [
+              -0.54936575128,
+              53.22877734337
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "ATB",
+        "connected_nodes": "c_atb2_013",
+        "geometry_type": "Polygon",
+        "id": "r_atb2_213",
+        "level": "2",
+        "name": "ATB2213 (VR Room)",
+        "node_type": "room",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54902861753,
+              53.22874308507
+            ],
+            [
+              -0.54908014374,
+              53.22867921123
+            ],
+            [
+              -0.54912193715,
+              53.22862740247
+            ],
+            [
+              -0.5489966,
+              53.2285913
+            ],
+            [
+              -0.54890384568,
+              53.22870666172
+            ],
+            [
+              -0.54902861753,
+              53.22874308507
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "ATB",
+        "category": "LectureFlat",
+        "connected_nodes": "c_atb2_004",
+        "geometry_type": "Polygon",
+        "id": "r_atb2_203",
+        "level": "2",
+        "name": "ATB2203 (Lecture Room)",
+        "node_type": "room",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54929994919,
+              53.22885828462
+            ],
+            [
+              -0.54932480098,
+              53.22882796312
+            ],
+            [
+              -0.54934524768,
+              53.22880301621
+            ],
+            [
+              -0.54928100289,
+              53.22878451026
+            ],
+            [
+              -0.54926027937,
+              53.22877854077
+            ],
+            [
+              -0.5492153736,
+              53.22883398829
+            ],
+            [
+              -0.54927917386,
+              53.22885231642
+            ],
+            [
+              -0.54929994919,
+              53.22885828462
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "ATB",
+        "connected_nodes": "c_atb2_013",
+        "geometry_type": "Polygon",
+        "id": "r_atb2_214",
+        "level": "2",
+        "name": "ATB2214 (Media Lab)",
+        "node_type": "room",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54981037007,
+              53.22896879871
+            ],
+            [
+              -0.54976641806,
+              53.22895625919
+            ],
+            [
+              -0.54978135741,
+              53.22893824439
+            ],
+            [
+              -0.54980827042,
+              53.22890502104
+            ],
+            [
+              -0.54985179852,
+              53.22891765648
+            ],
+            [
+              -0.54981037007,
+              53.22896879871
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "ATB",
+        "connected_nodes": "r_atb2_224",
+        "geometry_type": "Polygon",
+        "id": "r_atb2_225",
+        "level": "2",
+        "name": "ATB2225 (Suite)",
+        "node_type": "room",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54925765706,
+              53.2290085153
+            ],
+            [
+              -0.54912064693,
+              53.22896882976
+            ],
+            [
+              -0.54918119825,
+              53.22889514493
+            ],
+            [
+              -0.54931767146,
+              53.22893462196
+            ],
+            [
+              -0.54925765706,
+              53.2290085153
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "ATB",
+        "connected_nodes": "c_atb2_058",
+        "geometry_type": "Polygon",
+        "id": "r_atb2_108",
+        "level": "2",
+        "name": "ATB2108 (Design Lab)",
+        "node_type": "room",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54909206153,
+              53.22876115254
+            ],
+            [
+              -0.54906771583,
+              53.22879113166
+            ],
+            [
+              -0.54905701058,
+              53.22878802297
+            ],
+            [
+              -0.5490247586,
+              53.22877867028
+            ],
+            [
+              -0.54904889122,
+              53.22874864905
+            ],
+            [
+              -0.54909206153,
+              53.22876115254
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "ATB",
+        "connected_nodes": "c_atb2_003",
+        "geometry_type": "Polygon",
+        "id": "r_atb2_202",
+        "level": "2",
+        "name": "ATB2202 (Sound Labs)",
+        "node_type": "room",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54968012784,
+              53.22886791133
+            ],
+            [
+              -0.54959756269,
+              53.22884405503
+            ],
+            [
+              -0.54957020419,
+              53.22887791933
+            ],
+            [
+              -0.54965290532,
+              53.22890186117
+            ],
+            [
+              -0.54968012784,
+              53.22886791133
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "ATB",
+        "connected_nodes": "c_atb2_018, r_atb2_219",
+        "geometry_type": "Polygon",
+        "id": "r_atb2_218",
+        "level": "2",
+        "name": "ATB2218 (Suite)",
+        "node_type": "room",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54949410015,
+              53.22884596515
+            ],
+            [
+              -0.54940762252,
+              53.22882110071
+            ],
+            [
+              -0.54938707284,
+              53.22884659751
+            ],
+            [
+              -0.54947348508,
+              53.22887154152
+            ],
+            [
+              -0.54948761601,
+              53.22885400979
+            ],
+            [
+              -0.54949410015,
+              53.22884596515
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "ATB",
+        "connected_nodes": "c_atb2_064",
+        "geometry_type": "Polygon",
+        "id": "r_atb2_238",
+        "level": "2",
+        "name": "ATB2238 (Suite)",
+        "node_type": "room",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54934256394,
+              53.22887052671
+            ],
+            [
+              -0.54930914664,
+              53.22891135172
+            ],
+            [
+              -0.54924606296,
+              53.22889298047
+            ],
+            [
+              -0.54927917386,
+              53.22885231642
+            ],
+            [
+              -0.54929994919,
+              53.22885828462
+            ],
+            [
+              -0.54934256394,
+              53.22887052671
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "ATB",
+        "connected_nodes": "c_atb2_057",
+        "geometry_type": "Polygon",
+        "id": "r_atb2_107",
+        "level": "2",
+        "name": "ATB2107 (Post Production Finishing Suite)",
+        "node_type": "room",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54974164871,
+              53.2289861276
+            ],
+            [
+              -0.54976641806,
+              53.22895625919
+            ],
+            [
+              -0.54978135741,
+              53.22893824439
+            ],
+            [
+              -0.54971811936,
+              53.22892059896
+            ],
+            [
+              -0.54967956158,
+              53.22896819743
+            ],
+            [
+              -0.54970188928,
+              53.22897464546
+            ],
+            [
+              -0.54974164871,
+              53.2289861276
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "ATB",
+        "connected_nodes": "r_atb2_224",
+        "geometry_type": "Polygon",
+        "id": "r_atb2_226",
+        "level": "2",
+        "name": "ATB2226 (Suite)",
+        "node_type": "room",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54965430656,
+              53.22912356444
+            ],
+            [
+              -0.54971507279,
+              53.22904914595
+            ],
+            [
+              -0.54979369783,
+              53.22907179384
+            ],
+            [
+              -0.54973368309,
+              53.22914650324
+            ],
+            [
+              -0.54965430656,
+              53.22912356444
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "ATB",
+        "connected_nodes": "c_atb2_030",
+        "geometry_type": "Polygon",
+        "id": "r_atb2_120",
+        "level": "2",
+        "name": "ATB2120 (Media Lab 1)",
+        "node_type": "room",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54936700906,
+              53.22884048401
+            ],
+            [
+              -0.54932480098,
+              53.22882796312
+            ],
+            [
+              -0.54934524768,
+              53.22880301621
+            ],
+            [
+              -0.549387575,
+              53.22881520875
+            ],
+            [
+              -0.54936700906,
+              53.22884048401
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "ATB",
+        "connected_nodes": "c_atb2_064",
+        "geometry_type": "Polygon",
+        "id": "r_atb2_239",
+        "level": "2",
+        "name": "ATB2239 (Suite)",
+        "node_type": "room",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54965290532,
+              53.22890186117
+            ],
+            [
+              -0.54961474293,
+              53.22894945432
+            ],
+            [
+              -0.54959523965,
+              53.22894380758
+            ],
+            [
+              -0.54953171119,
+              53.22892556586
+            ],
+            [
+              -0.54957020419,
+              53.22887791933
+            ],
+            [
+              -0.54965290532,
+              53.22890186117
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "ATB",
+        "connected_nodes": "r_atb2_218",
+        "geometry_type": "Polygon",
+        "id": "r_atb2_219",
+        "level": "2",
+        "name": "ATB2219 (Suite)",
+        "node_type": "room",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54949410015,
+              53.22884596515
+            ],
+            [
+              -0.54951489281,
+              53.22882016844
+            ],
+            [
+              -0.54942849414,
+              53.22879520446
+            ],
+            [
+              -0.54940762252,
+              53.22882110071
+            ],
+            [
+              -0.54949410015,
+              53.22884596515
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "ATB",
+        "connected_nodes": "c_atb2_065",
+        "geometry_type": "Polygon",
+        "id": "r_atb2_236",
+        "level": "2",
+        "name": "ATB2236 (Suite)",
+        "node_type": "room",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.5488077,
+              53.2287695
+            ],
+            [
+              -0.5488447,
+              53.2287802
+            ],
+            [
+              -0.54890643407,
+              53.22879785809
+            ],
+            [
+              -0.54895091206,
+              53.22881091921
+            ],
+            [
+              -0.54898690839,
+              53.22876560624
+            ],
+            [
+              -0.5488437,
+              53.2287246
+            ],
+            [
+              -0.5488077,
+              53.2287695
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "ATB",
+        "connected_nodes": "c_atb2_001, s_atb1_154, s_atb3_155",
+        "geometry_type": "Polygon",
+        "id": "s_atb2_154",
+        "level": "2",
+        "name": "East Stairs",
+        "node_type": "Stairs",
+        "NAV_FEATURE": "Yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.5499227,
+              53.2290915
+            ],
+            [
+              -0.54989365594,
+              53.22908294251
+            ],
+            [
+              -0.54983454145,
+              53.22906593533
+            ],
+            [
+              -0.54979131054,
+              53.22905342246
+            ],
+            [
+              -0.54982769351,
+              53.2290094603
+            ],
+            [
+              -0.5499587,
+              53.2290469
+            ],
+            [
+              -0.5499227,
+              53.2290915
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "ATB",
+        "connected_nodes": "c_atb2_026, s_atb1_176, s_atb3_176",
+        "geometry_type": "Polygon",
+        "id": "s_atb2_176",
+        "level": "2",
+        "name": "West Stairs",
+        "node_type": "Stairs",
+        "NAV_FEATURE": "Yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.5497375074,
+              53.22901027465
+            ],
+            [
+              -0.54976946891,
+              53.22901963092
+            ],
+            [
+              -0.54978601113,
+              53.22899907216
+            ],
+            [
+              -0.54975414232,
+              53.22898973563
+            ],
+            [
+              -0.5497375074,
+              53.22901027465
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "ATB",
+        "connected_nodes": "c_atb2_025",
+        "geometry_type": "Polygon",
+        "id": "wcd_atb2_174",
+        "level": "2",
+        "name": "Disabled & Gender Neutral Toilet",
+        "node_type": "wcd",
+        "NAV_FEATURE": "Yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54905701058,
+              53.22878802297
+            ],
+            [
+              -0.54904044427,
+              53.22880867674
+            ],
+            [
+              -0.54900804995,
+              53.22879928697
+            ],
+            [
+              -0.5490247586,
+              53.22877867028
+            ],
+            [
+              -0.54905701058,
+              53.22878802297
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "ATB",
+        "connected_nodes": "c_atb2_002",
+        "geometry_type": "Polygon",
+        "id": "wcd_atb2_155",
+        "level": "2",
+        "name": "Disabled & Gender Neutral Toilet",
+        "node_type": "wcd",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54966838828,
+              53.22901563428
+            ],
+            [
+              -0.54970188928,
+              53.22897464546
+            ],
+            [
+              -0.54974164871,
+              53.2289861276
+            ],
+            [
+              -0.54975414232,
+              53.22898973563
+            ],
+            [
+              -0.5497375074,
+              53.22901027465
+            ],
+            [
+              -0.54972100128,
+              53.22903065463
+            ],
+            [
+              -0.54966838828,
+              53.22901563428
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "ATB",
+        "connected_nodes": "c_atb2_063",
+        "geometry_type": "Polygon",
+        "id": "wcf_atb2_170",
+        "level": "2",
+        "name": "Female Toilets",
+        "node_type": "wcf",
+        "NAV_FEATURE": "Yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54902385373,
+              53.2288289393
+            ],
+            [
+              -0.54904044427,
+              53.22880867674
+            ],
+            [
+              -0.54905701058,
+              53.22878802297
+            ],
+            [
+              -0.54906771583,
+              53.22879113166
+            ],
+            [
+              -0.5491049511,
+              53.22880194438
+            ],
+            [
+              -0.54907179425,
+              53.2288428607
+            ],
+            [
+              -0.54902385373,
+              53.2288289393
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "ATB",
+        "connected_nodes": "c_atb2_055",
+        "geometry_type": "Polygon",
+        "id": "wcf_atb2_158",
+        "level": "2",
+        "name": "Female Toilets",
+        "node_type": "wcf",
+        "NAV_FEATURE": "Yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.5491049511,
+              53.22880194438
+            ],
+            [
+              -0.54916391705,
+              53.22881906745
+            ],
+            [
+              -0.54913088263,
+              53.22886001931
+            ],
+            [
+              -0.54907179425,
+              53.2288428607
+            ],
+            [
+              -0.5491049511,
+              53.22880194438
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "ATB",
+        "connected_nodes": "c_atb2_055",
+        "geometry_type": "Polygon",
+        "id": "wcm_atb2_160",
+        "level": "2",
+        "name": "Male Toilets",
+        "node_type": "wcm",
+        "NAV_FEATURE": "Yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54961403817,
+              53.22899969732
+            ],
+            [
+              -0.54964741155,
+              53.22895891281
+            ],
+            [
+              -0.54967956158,
+              53.22896819743
+            ],
+            [
+              -0.54970188928,
+              53.22897464546
+            ],
+            [
+              -0.54966838828,
+              53.22901563428
+            ],
+            [
+              -0.54961403817,
+              53.22899969732
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "ATB",
+        "connected_nodes": "c_atb2_063",
+        "geometry_type": "Polygon",
+        "id": "wcm_atb2_168",
+        "level": "2",
+        "name": "Male Toilets",
+        "node_type": "wcm",
+        "NAV_FEATURE": "Yes"
+      }
+    }
+  ]
+}

@@ -1,0 +1,2263 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54331966179,
+              53.22672996499
+            ],
+            [
+              -0.54329833018,
+              53.22673157915
+            ],
+            [
+              -0.54329463079,
+              53.22671679689
+            ],
+            [
+              -0.5432880583,
+              53.22669053405
+            ],
+            [
+              -0.54332196387,
+              53.2266875844
+            ],
+            [
+              -0.5433217,
+              53.2266853
+            ],
+            [
+              -0.54332975635,
+              53.22668775386
+            ],
+            [
+              -0.54331261061,
+              53.22670853191
+            ],
+            [
+              -0.54333268029,
+              53.22671460019
+            ],
+            [
+              -0.54331966179,
+              53.22672996499
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "SSB",
+        "geometry_type": "Polygon",
+        "level": "2",
+        "node_type": "Block",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.5432746547,
+              53.22675047686
+            ],
+            [
+              -0.54330008392,
+              53.22675807597
+            ],
+            [
+              -0.54325081228,
+              53.22681671886
+            ],
+            [
+              -0.5433266405,
+              53.22683956607
+            ],
+            [
+              -0.543306,
+              53.2268638
+            ],
+            [
+              -0.54317287396,
+              53.22682364531
+            ],
+            [
+              -0.54321281466,
+              53.22679482152
+            ],
+            [
+              -0.5432746547,
+              53.22675047686
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "SSB",
+        "geometry_type": "Polygon",
+        "level": "2",
+        "node_type": "Block",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54318183198,
+              53.22654510109
+            ],
+            [
+              -0.54318859639,
+              53.22657279789
+            ],
+            [
+              -0.54311549147,
+              53.2265791822
+            ],
+            [
+              -0.54310874045,
+              53.22655131926
+            ],
+            [
+              -0.54318183198,
+              53.22654510109
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "SSB",
+        "geometry_type": "Polygon",
+        "level": "2",
+        "node_type": "Block",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54348305708,
+              53.2268049203
+            ],
+            [
+              -0.54345165684,
+              53.22684151583
+            ],
+            [
+              -0.54340096551,
+              53.22682596773
+            ],
+            [
+              -0.54338142388,
+              53.22684976482
+            ],
+            [
+              -0.54350293271,
+              53.22688641029
+            ],
+            [
+              -0.54361700921,
+              53.22692065612
+            ],
+            [
+              -0.54363688481,
+              53.22689730897
+            ],
+            [
+              -0.54359354247,
+              53.22688421058
+            ],
+            [
+              -0.5436241911,
+              53.22684756509
+            ],
+            [
+              -0.54348305708,
+              53.2268049203
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "SSB",
+        "geometry_type": "Polygon",
+        "level": "2",
+        "node_type": "Block",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54372799558,
+              53.22687911121
+            ],
+            [
+              -0.54379956473,
+              53.22690065855
+            ],
+            [
+              -0.54377167197,
+              53.22693400441
+            ],
+            [
+              -0.54374311775,
+              53.22692549703
+            ],
+            [
+              -0.54369989779,
+              53.22691262017
+            ],
+            [
+              -0.54372799558,
+              53.22687911121
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "SSB",
+        "geometry_type": "Polygon",
+        "level": "2",
+        "node_type": "Block",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54374311775,
+              53.22692549703
+            ],
+            [
+              -0.54372189926,
+              53.22695080231
+            ],
+            [
+              -0.54367878629,
+              53.22693779738
+            ],
+            [
+              -0.54369989779,
+              53.22691262017
+            ],
+            [
+              -0.54374311775,
+              53.22692549703
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "SSB",
+        "connected_nodes": "c_ssb2_001, l_ssb1_164, l_ssb3_164",
+        "geometry_type": "Polygon",
+        "id": "l_ssb2_164",
+        "level": "2",
+        "name": "SSB2164 (Lift)",
+        "node_type": "Lift",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54329463079,
+              53.22671679689
+            ],
+            [
+              -0.54325448673,
+              53.22672020549
+            ],
+            [
+              -0.5432479729,
+              53.22669408363
+            ],
+            [
+              -0.5432880583,
+              53.22669053405
+            ],
+            [
+              -0.54329463079,
+              53.22671679689
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "SSB",
+        "connected_nodes": "c_ssb2_016, l_ssb1_251, l_ssb3_251",
+        "geometry_type": "Polygon",
+        "id": "l_ssb2_251",
+        "level": "2",
+        "name": "SSB2251 (Lift)",
+        "node_type": "Lift",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54322845785,
+              53.22661221903
+            ],
+            [
+              -0.54330323126,
+              53.22660586859
+            ],
+            [
+              -0.54329558973,
+              53.22657592061
+            ],
+            [
+              -0.54322073331,
+              53.22658237399
+            ],
+            [
+              -0.54322845785,
+              53.22661221903
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "SSB",
+        "connected_nodes": "c_ssb2_023",
+        "geometry_type": "Polygon",
+        "id": "r_ssb2_214",
+        "level": "2",
+        "name": "SSB2214 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54351168516,
+              53.22679477745
+            ],
+            [
+              -0.54345424451,
+              53.22677751977
+            ],
+            [
+              -0.54348906997,
+              53.22673627864
+            ],
+            [
+              -0.54354660922,
+              53.22675372654
+            ],
+            [
+              -0.54351168516,
+              53.22679477745
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "SSB",
+        "connected_nodes": "c_ssb2_008",
+        "geometry_type": "Polygon",
+        "id": "r_ssb2_106",
+        "level": "2",
+        "name": "SSB2106 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54320870769,
+              53.22653187984
+            ],
+            [
+              -0.54328297953,
+              53.22652597638
+            ],
+            [
+              -0.54327761947,
+              53.2265020061
+            ],
+            [
+              -0.54320269487,
+              53.22650858251
+            ],
+            [
+              -0.54320870769,
+              53.22653187984
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "SSB",
+        "connected_nodes": "c_ssb2_030",
+        "geometry_type": "Polygon",
+        "id": "r_ssb2_222",
+        "level": "2",
+        "name": "SSB2222 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54368027074,
+              53.22684535823
+            ],
+            [
+              -0.54373653132,
+              53.22686256019
+            ],
+            [
+              -0.54377124723,
+              53.22682161576
+            ],
+            [
+              -0.54371554269,
+              53.22680462581
+            ],
+            [
+              -0.54368027074,
+              53.22684535823
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "SSB",
+        "connected_nodes": "c_ssb2_006",
+        "geometry_type": "Polygon",
+        "id": "r_ssb2_113",
+        "level": "2",
+        "name": "SSB2113 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54323482012,
+              53.22663954156
+            ],
+            [
+              -0.54330938451,
+              53.22663288969
+            ],
+            [
+              -0.54330323126,
+              53.22660586859
+            ],
+            [
+              -0.54322845785,
+              53.22661221903
+            ],
+            [
+              -0.54323482012,
+              53.22663954156
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "SSB",
+        "connected_nodes": "c_ssb2_022",
+        "geometry_type": "Polygon",
+        "id": "r_ssb2_213",
+        "level": "2",
+        "name": "SSB2213 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54324170955,
+              53.22666658689
+            ],
+            [
+              -0.54331560585,
+              53.22666028498
+            ],
+            [
+              -0.54330938451,
+              53.22663288969
+            ],
+            [
+              -0.54323482012,
+              53.22663954156
+            ],
+            [
+              -0.54324170955,
+              53.22666658689
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "SSB",
+        "connected_nodes": "c_ssb2_022",
+        "geometry_type": "Polygon",
+        "id": "r_ssb2_212",
+        "level": "2",
+        "name": "SSB2212 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54357124521,
+              53.2268126695
+            ],
+            [
+              -0.54351168516,
+              53.22679477745
+            ],
+            [
+              -0.54354660922,
+              53.22675372654
+            ],
+            [
+              -0.54360723999,
+              53.22677191662
+            ],
+            [
+              -0.54357124521,
+              53.2268126695
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "SSB",
+        "connected_nodes": "c_ssb2_007",
+        "geometry_type": "Polygon",
+        "id": "r_ssb2_105",
+        "level": "2",
+        "name": "SSB2105 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54384783885,
+              53.22689621723
+            ],
+            [
+              -0.54390396484,
+              53.22691318726
+            ],
+            [
+              -0.54393893405,
+              53.22687200004
+            ],
+            [
+              -0.54388261848,
+              53.22685510377
+            ],
+            [
+              -0.54384783885,
+              53.22689621723
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "SSB",
+        "connected_nodes": "c_ssb2_004",
+        "geometry_type": "Polygon",
+        "id": "r_ssb2_117",
+        "level": "2",
+        "name": "SSB2117 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54373653132,
+              53.22686256019
+            ],
+            [
+              -0.5437724551,
+              53.22687348571
+            ],
+            [
+              -0.54380692952,
+              53.22683225678
+            ],
+            [
+              -0.54377124723,
+              53.22682161576
+            ],
+            [
+              -0.54373653132,
+              53.22686256019
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "SSB",
+        "connected_nodes": "c_ssb2_005",
+        "geometry_type": "Polygon",
+        "id": "r_ssb2_114",
+        "level": "2",
+        "name": "SSB2114 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54307483634,
+              53.2265020398
+            ],
+            [
+              -0.54300784374,
+              53.22650781196
+            ],
+            [
+              -0.54299737385,
+              53.22646653734
+            ],
+            [
+              -0.54306409004,
+              53.22646065449
+            ],
+            [
+              -0.54307483634,
+              53.2265020398
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "SSB",
+        "connected_nodes": "c_ssb2_031",
+        "geometry_type": "Polygon",
+        "id": "r_ssb2_226",
+        "level": "2",
+        "name": "SSB2226 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54314047619,
+              53.22649664041
+            ],
+            [
+              -0.54307483634,
+              53.2265020398
+            ],
+            [
+              -0.54306409004,
+              53.22646065449
+            ],
+            [
+              -0.54312998042,
+              53.2264553051
+            ],
+            [
+              -0.54314047619,
+              53.22649664041
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "SSB",
+        "connected_nodes": "c_ssb2_031",
+        "geometry_type": "Polygon",
+        "id": "r_ssb2_225",
+        "level": "2",
+        "name": "SSB2225 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.5432479729,
+              53.22669408363
+            ],
+            [
+              -0.5432880583,
+              53.22669053405
+            ],
+            [
+              -0.54332196387,
+              53.2266875844
+            ],
+            [
+              -0.5433217,
+              53.2266853
+            ],
+            [
+              -0.54331560585,
+              53.22666028498
+            ],
+            [
+              -0.54324170955,
+              53.22666658689
+            ],
+            [
+              -0.5432479729,
+              53.22669408363
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "SSB",
+        "connected_nodes": "c_ssb2_021",
+        "geometry_type": "Polygon",
+        "id": "r_ssb2_211",
+        "level": "2",
+        "name": "SSB2211 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54362869791,
+              53.22682995809
+            ],
+            [
+              -0.54357124521,
+              53.2268126695
+            ],
+            [
+              -0.54360723999,
+              53.22677191662
+            ],
+            [
+              -0.54366377854,
+              53.22678906854
+            ],
+            [
+              -0.54362869791,
+              53.22682995809
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "SSB",
+        "connected_nodes": "c_ssb2_007",
+        "geometry_type": "Polygon",
+        "id": "r_ssb2_104",
+        "level": "2",
+        "name": "SSB2104 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54379438703,
+              53.22695615164
+            ],
+            [
+              -0.54382319841,
+              53.22692170594
+            ],
+            [
+              -0.54388185027,
+              53.22693931402
+            ],
+            [
+              -0.54385248288,
+              53.22697399302
+            ],
+            [
+              -0.54379438703,
+              53.22695615164
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "SSB",
+        "connected_nodes": "c_ssb2_002",
+        "geometry_type": "Polygon",
+        "id": "r_ssb2_118",
+        "level": "2",
+        "name": "SSB2118 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54321497103,
+              53.22655755187
+            ],
+            [
+              -0.5432894099,
+              53.22655162342
+            ],
+            [
+              -0.54328297953,
+              53.22652597638
+            ],
+            [
+              -0.54320870769,
+              53.22653187984
+            ],
+            [
+              -0.54321497103,
+              53.22655755187
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "SSB",
+        "connected_nodes": "c_ssb2_027",
+        "geometry_type": "Polygon",
+        "id": "r_ssb2_221",
+        "level": "2",
+        "name": "SSB2221 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.5437724551,
+              53.22687348571
+            ],
+            [
+              -0.54380999368,
+              53.22688482664
+            ],
+            [
+              -0.54384487937,
+              53.22684373937
+            ],
+            [
+              -0.54380692952,
+              53.22683225678
+            ],
+            [
+              -0.5437724551,
+              53.22687348571
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "SSB",
+        "connected_nodes": "c_ssb2_005",
+        "geometry_type": "Polygon",
+        "id": "r_ssb2_115",
+        "level": "2",
+        "name": "SSB2115 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54320853786,
+              53.22649079108
+            ],
+            [
+              -0.54314047619,
+              53.22649664041
+            ],
+            [
+              -0.54312998042,
+              53.2264553051
+            ],
+            [
+              -0.54319912774,
+              53.22644918079
+            ],
+            [
+              -0.54320853786,
+              53.22649079108
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "SSB",
+        "connected_nodes": "c_ssb2_029",
+        "geometry_type": "Polygon",
+        "id": "r_ssb2_224",
+        "level": "2",
+        "name": "SSB2224 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54362869791,
+              53.22682995809
+            ],
+            [
+              -0.54368027074,
+              53.22684535823
+            ],
+            [
+              -0.54371554269,
+              53.22680462581
+            ],
+            [
+              -0.54366377854,
+              53.22678906854
+            ],
+            [
+              -0.54362869791,
+              53.22682995809
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "SSB",
+        "connected_nodes": "c_ssb2_006",
+        "geometry_type": "Polygon",
+        "id": "r_ssb2_112",
+        "level": "2",
+        "name": "SSB2112 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.5438142,
+              53.2270192
+            ],
+            [
+              -0.54375636496,
+              53.22700172493
+            ],
+            [
+              -0.54378360692,
+              53.22696907269
+            ],
+            [
+              -0.54379438703,
+              53.22695615164
+            ],
+            [
+              -0.54385248288,
+              53.22697399302
+            ],
+            [
+              -0.5438142,
+              53.2270192
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "SSB",
+        "connected_nodes": "c_ssb2_002",
+        "geometry_type": "Polygon",
+        "id": "r_ssb2_119",
+        "level": "2",
+        "name": "SSB2119 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54322073331,
+              53.22658237399
+            ],
+            [
+              -0.54329558973,
+              53.22657592061
+            ],
+            [
+              -0.5432894099,
+              53.22655162342
+            ],
+            [
+              -0.54321497103,
+              53.22655755187
+            ],
+            [
+              -0.54322073331,
+              53.22658237399
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "SSB",
+        "connected_nodes": "c_ssb2_026",
+        "geometry_type": "Polygon",
+        "id": "r_ssb2_220",
+        "level": "2",
+        "name": "SSB2220 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54380999368,
+              53.22688482664
+            ],
+            [
+              -0.54384783885,
+              53.22689621723
+            ],
+            [
+              -0.54388261848,
+              53.22685510377
+            ],
+            [
+              -0.54384487937,
+              53.22684373937
+            ],
+            [
+              -0.54380999368,
+              53.22688482664
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "SSB",
+        "connected_nodes": "c_ssb2_003",
+        "geometry_type": "Polygon",
+        "id": "r_ssb2_116",
+        "level": "2",
+        "name": "SSB2116 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54327362767,
+              53.2264851353
+            ],
+            [
+              -0.54320863935,
+              53.2264906575
+            ],
+            [
+              -0.54319912774,
+              53.22644918079
+            ],
+            [
+              -0.5432638,
+              53.2264436
+            ],
+            [
+              -0.54327362767,
+              53.2264851353
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "SSB",
+        "connected_nodes": "c_ssb2_030",
+        "geometry_type": "Polygon",
+        "id": "r_ssb2_223",
+        "level": "2",
+        "name": "SSB2223 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54306516676,
+              53.22671013171
+            ],
+            [
+              -0.54310779164,
+              53.22670615332
+            ],
+            [
+              -0.54311824628,
+              53.22674677748
+            ],
+            [
+              -0.54306765433,
+              53.22675144507
+            ],
+            [
+              -0.54301339003,
+              53.22675607636
+            ],
+            [
+              -0.5430029,
+              53.2267152
+            ],
+            [
+              -0.54306516676,
+              53.22671013171
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "SSB",
+        "connected_nodes": "c_ssb2_020",
+        "geometry_type": "Polygon",
+        "id": "r_ssb2_207",
+        "level": "2",
+        "name": "SSB2207 (Psychology Labs)",
+        "node_type": "Room",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54304595917,
+              53.22652190377
+            ],
+            [
+              -0.5430117,
+              53.2265247
+            ],
+            [
+              -0.5429586,
+              53.2265293
+            ],
+            [
+              -0.54298334821,
+              53.22663315318
+            ],
+            [
+              -0.54307126308,
+              53.22662554173
+            ],
+            [
+              -0.54306778029,
+              53.22661127717
+            ],
+            [
+              -0.54304595917,
+              53.22652190377
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "SSB",
+        "connected_nodes": "c_ssb2_025",
+        "geometry_type": "Polygon",
+        "id": "r_ssb2_219",
+        "level": "2",
+        "name": "SSB2219 (Psychology Labs)",
+        "node_type": "Room",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54345424451,
+              53.22677751977
+            ],
+            [
+              -0.54339428461,
+              53.22675937581
+            ],
+            [
+              -0.54342901801,
+              53.22671798762
+            ],
+            [
+              -0.54348906997,
+              53.22673627864
+            ],
+            [
+              -0.54345424451,
+              53.22677751977
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "SSB",
+        "connected_nodes": "c_ssb2_010",
+        "geometry_type": "Polygon",
+        "id": "r_ssb2_101",
+        "level": "2",
+        "name": "SSB2101 (Meeting/ Tutorial Room)",
+        "node_type": "Room",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54314855803,
+              53.22665301159
+            ],
+            [
+              -0.54320613405,
+              53.2266479663
+            ],
+            [
+              -0.5431983675,
+              53.22661457022
+            ],
+            [
+              -0.54314103694,
+              53.22661949459
+            ],
+            [
+              -0.54314855803,
+              53.22665301159
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "SSB",
+        "connected_nodes": "c_ssb2_024",
+        "geometry_type": "Polygon",
+        "id": "r_ssb2_215",
+        "level": "2",
+        "name": "SSB2215 (Psychology Labs)",
+        "node_type": "Room",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54350293271,
+              53.22688641029
+            ],
+            [
+              -0.54361700921,
+              53.22692065612
+            ],
+            [
+              -0.54363688481,
+              53.22689730897
+            ],
+            [
+              -0.54359354247,
+              53.22688421058
+            ],
+            [
+              -0.5436241911,
+              53.22684756509
+            ],
+            [
+              -0.54372799558,
+              53.22687911121
+            ],
+            [
+              -0.54369989779,
+              53.22691262017
+            ],
+            [
+              -0.54367878629,
+              53.22693779738
+            ],
+            [
+              -0.5436517,
+              53.2269701
+            ],
+            [
+              -0.54363,
+              53.226996
+            ],
+            [
+              -0.54345504834,
+              53.22694299048
+            ],
+            [
+              -0.54350293271,
+              53.22688641029
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "SSB",
+        "connected_nodes": "c_ssb2_006",
+        "geometry_type": "Polygon",
+        "id": "r_ssb2_111",
+        "level": "2",
+        "name": "SSB2111 (Clinical Labs)",
+        "node_type": "Room",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54313875793,
+              53.22674495969
+            ],
+            [
+              -0.54311824628,
+              53.22674677748
+            ],
+            [
+              -0.54306765433,
+              53.22675144507
+            ],
+            [
+              -0.5430789,
+              53.2267953
+            ],
+            [
+              -0.54317287396,
+              53.22682364531
+            ],
+            [
+              -0.54321281466,
+              53.22679482152
+            ],
+            [
+              -0.54313875793,
+              53.22674495969
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "SSB",
+        "category": "MeetingTutorial",
+        "connected_nodes": "r_ssb2_201",
+        "geometry_type": "Polygon",
+        "id": "r_ssb2_202",
+        "level": "2",
+        "name": "SSB2202 (Meeting/ Tutorial Room)",
+        "node_type": "Room",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.5432282306,
+              53.2267373786
+            ],
+            [
+              -0.54323064427,
+              53.22673725344
+            ],
+            [
+              -0.5432746547,
+              53.22675047686
+            ],
+            [
+              -0.54321281466,
+              53.22679482152
+            ],
+            [
+              -0.54313875793,
+              53.22674495969
+            ],
+            [
+              -0.54317353073,
+              53.22674187806
+            ],
+            [
+              -0.5432282306,
+              53.2267373786
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "SSB",
+        "connected_nodes": "c_ssb2_015, r_ssb2_202",
+        "geometry_type": "Polygon",
+        "id": "r_ssb2_201",
+        "level": "2",
+        "name": "SSB2201 (Learning Lounge)",
+        "node_type": "Room",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54311549147,
+              53.2265791822
+            ],
+            [
+              -0.54318859639,
+              53.22657279789
+            ],
+            [
+              -0.54319527725,
+              53.22660019467
+            ],
+            [
+              -0.54312214225,
+              53.22660663141
+            ],
+            [
+              -0.54311549147,
+              53.2265791822
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "SSB",
+        "connected_nodes": "c_ssb2_024",
+        "geometry_type": "Polygon",
+        "id": "r_ssb2_216",
+        "level": "2",
+        "name": "SSB2216 (Psychology Labs)",
+        "node_type": "Room",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54317353073,
+              53.22674187806
+            ],
+            [
+              -0.5432282306,
+              53.2267373786
+            ],
+            [
+              -0.54321845978,
+              53.22669688344
+            ],
+            [
+              -0.54316426098,
+              53.22670138291
+            ],
+            [
+              -0.54317353073,
+              53.22674187806
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "SSB",
+        "connected_nodes": "c_ssb2_019",
+        "geometry_type": "Polygon",
+        "id": "r_ssb2_203",
+        "level": "2",
+        "name": "SSB2203 (Psychology Labs)",
+        "node_type": "Room",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54337587034,
+              53.22678104817
+            ],
+            [
+              -0.54338167441,
+              53.22677422402
+            ],
+            [
+              -0.54348305708,
+              53.2268049203
+            ],
+            [
+              -0.54345165684,
+              53.22684151583
+            ],
+            [
+              -0.54340096551,
+              53.22682596773
+            ],
+            [
+              -0.54338142388,
+              53.22684976482
+            ],
+            [
+              -0.54350293271,
+              53.22688641029
+            ],
+            [
+              -0.54345504834,
+              53.22694299048
+            ],
+            [
+              -0.5432828,
+              53.2268908
+            ],
+            [
+              -0.543306,
+              53.2268638
+            ],
+            [
+              -0.5433266405,
+              53.22683956607
+            ],
+            [
+              -0.54337587034,
+              53.22678104817
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "SSB",
+        "connected_nodes": "c_ssb2_009",
+        "geometry_type": "Polygon",
+        "id": "r_ssb2_103",
+        "level": "2",
+        "name": "SSB2103 (Clinical Labs)",
+        "node_type": "Room",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54310435953,
+              53.22669083201
+            ],
+            [
+              -0.54315583923,
+              53.22668608669
+            ],
+            [
+              -0.54314855803,
+              53.22665301159
+            ],
+            [
+              -0.5430964468,
+              53.22665733392
+            ],
+            [
+              -0.54310435953,
+              53.22669083201
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "SSB",
+        "connected_nodes": "c_ssb2_019",
+        "geometry_type": "Polygon",
+        "id": "r_ssb2_206",
+        "level": "2",
+        "name": "SSB2206 (Psychology Labs)",
+        "node_type": "Room",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.5430964468,
+              53.22665733392
+            ],
+            [
+              -0.54314855803,
+              53.22665301159
+            ],
+            [
+              -0.54314103694,
+              53.22661949459
+            ],
+            [
+              -0.54308838289,
+              53.2266240419
+            ],
+            [
+              -0.5430964468,
+              53.22665733392
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "SSB",
+        "connected_nodes": "c_ssb2_024",
+        "geometry_type": "Polygon",
+        "id": "r_ssb2_217",
+        "level": "2",
+        "name": "SSB2217 (Psychology Labs)",
+        "node_type": "Room",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54311824628,
+              53.22674677748
+            ],
+            [
+              -0.54313875793,
+              53.22674495969
+            ],
+            [
+              -0.54317353073,
+              53.22674187806
+            ],
+            [
+              -0.54316426098,
+              53.22670138291
+            ],
+            [
+              -0.54310779164,
+              53.22670615332
+            ],
+            [
+              -0.54311824628,
+              53.22674677748
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "SSB",
+        "connected_nodes": "c_ssb2_019",
+        "geometry_type": "Polygon",
+        "id": "r_ssb2_205",
+        "level": "2",
+        "name": "SSB2205 (Psychology Labs)",
+        "node_type": "Room",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54306778029,
+              53.22661127717
+            ],
+            [
+              -0.54312214225,
+              53.22660663141
+            ],
+            [
+              -0.54311549147,
+              53.2265791822
+            ],
+            [
+              -0.54310874045,
+              53.22655131926
+            ],
+            [
+              -0.5430543103,
+              53.22655594984
+            ],
+            [
+              -0.54306778029,
+              53.22661127717
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "SSB",
+        "connected_nodes": "c_ssb2_024",
+        "geometry_type": "Polygon",
+        "id": "r_ssb2_218",
+        "level": "2",
+        "name": "SSB2218 (Psychology Labs)",
+        "node_type": "Room",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54315583923,
+              53.22668608669
+            ],
+            [
+              -0.54321463115,
+              53.22668128726
+            ],
+            [
+              -0.54320686461,
+              53.22664789121
+            ],
+            [
+              -0.54314855803,
+              53.22665301159
+            ],
+            [
+              -0.54315583923,
+              53.22668608669
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "SSB",
+        "connected_nodes": "c_ssb2_019",
+        "geometry_type": "Polygon",
+        "id": "r_ssb2_204",
+        "level": "2",
+        "name": "SSB2204 (Psychology Labs)",
+        "node_type": "Room",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54307126308,
+              53.22662554173
+            ],
+            [
+              -0.54308838289,
+              53.2266240419
+            ],
+            [
+              -0.5430964468,
+              53.22665733392
+            ],
+            [
+              -0.54310435953,
+              53.22669083201
+            ],
+            [
+              -0.5430614554,
+              53.22669453029
+            ],
+            [
+              -0.54299925213,
+              53.22669989214
+            ],
+            [
+              -0.54298334821,
+              53.22663315318
+            ],
+            [
+              -0.54307126308,
+              53.22662554173
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "SSB",
+        "connected_nodes": "c_ssb2_020",
+        "geometry_type": "Polygon",
+        "id": "r_ssb2_209",
+        "level": "2",
+        "name": "SSB2209 (Psychology Labs)",
+        "node_type": "Room",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54317339735,
+              53.22651105501
+            ],
+            [
+              -0.54304595917,
+              53.22652190377
+            ],
+            [
+              -0.5430543103,
+              53.22655594984
+            ],
+            [
+              -0.54310874045,
+              53.22655131926
+            ],
+            [
+              -0.54318183198,
+              53.22654510109
+            ],
+            [
+              -0.54317339735,
+              53.22651105501
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "SSB",
+        "connected_nodes": "c_ssb2_028, s_ssb1_255, s_ssb3_255",
+        "geometry_type": "Polygon",
+        "id": "s_ssb2_255",
+        "level": "2",
+        "name": "SSB2255 (Stair 2)",
+        "node_type": "Stairs",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54378360692,
+              53.22696907269
+            ],
+            [
+              -0.54375636496,
+              53.22700172493
+            ],
+            [
+              -0.5436517,
+              53.2269701
+            ],
+            [
+              -0.54367878629,
+              53.22693779738
+            ],
+            [
+              -0.54372189926,
+              53.22695080231
+            ],
+            [
+              -0.54378360692,
+              53.22696907269
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "SSB",
+        "connected_nodes": "c_ssb2_002, s_ssb1_165, s_ssb3_165",
+        "geometry_type": "Polygon",
+        "id": "s_ssb2_165",
+        "level": "2",
+        "name": "SSB2165 (Stair 1)",
+        "node_type": "Stairs",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54330008392,
+              53.22675807597
+            ],
+            [
+              -0.54337587034,
+              53.22678104817
+            ],
+            [
+              -0.5433266405,
+              53.22683956607
+            ],
+            [
+              -0.54325081228,
+              53.22681671886
+            ],
+            [
+              -0.54330008392,
+              53.22675807597
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "SSB",
+        "connected_nodes": "c_ssb2_012, s_ssb1_001, s_ssb3_001",
+        "geometry_type": "Polygon",
+        "id": "s_ssb2_001",
+        "level": "2",
+        "name": "SSB2001 (Stairs)",
+        "node_type": "Stairs",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.5430029,
+              53.2267152
+            ],
+            [
+              -0.54306516676,
+              53.22671013171
+            ],
+            [
+              -0.5430614554,
+              53.22669453029
+            ],
+            [
+              -0.54299925213,
+              53.22669989214
+            ],
+            [
+              -0.5430029,
+              53.2267152
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "SSB",
+        "connected_nodes": "c_ssb2_020",
+        "geometry_type": "Polygon",
+        "id": "wcd_ssb2_253",
+        "level": "2",
+        "name": "Disabled & Gender Neutral Toilet",
+        "node_type": "wcd",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.5433710308,
+              53.2267003255
+            ],
+            [
+              -0.54335378165,
+              53.22672098042
+            ],
+            [
+              -0.54333268029,
+              53.22671460019
+            ],
+            [
+              -0.54331261061,
+              53.22670853191
+            ],
+            [
+              -0.54332975635,
+              53.22668775386
+            ],
+            [
+              -0.5433710308,
+              53.2267003255
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "SSB",
+        "connected_nodes": "c_ssb2_013",
+        "geometry_type": "Polygon",
+        "id": "wcd_ssb2_153",
+        "level": "2",
+        "name": "Disabled & Gender Neutral Toilet",
+        "node_type": "wcd",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54335378165,
+              53.22672098042
+            ],
+            [
+              -0.5433363278,
+              53.22674177793
+            ],
+            [
+              -0.54331503243,
+              53.22673542869
+            ],
+            [
+              -0.54331966179,
+              53.22672996499
+            ],
+            [
+              -0.54333268029,
+              53.22671460019
+            ],
+            [
+              -0.54335378165,
+              53.22672098042
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "SSB",
+        "connected_nodes": "c_ssb2_013",
+        "geometry_type": "Polygon",
+        "id": "wcn_ssb2_152",
+        "level": "2",
+        "name": "Gender Neutral Toilet",
+        "node_type": "wcn",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54339428461,
+              53.22675937581
+            ],
+            [
+              -0.54336138118,
+              53.22674942701
+            ],
+            [
+              -0.54339593234,
+              53.22670791018
+            ],
+            [
+              -0.54342901801,
+              53.22671798762
+            ],
+            [
+              -0.54339428461,
+              53.22675937581
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "SSB",
+        "connected_nodes": "c_ssb2_013",
+        "geometry_type": "Polygon",
+        "id": "wcn_ssb2_154",
+        "level": "2",
+        "name": "Gender Neutral Toilet",
+        "node_type": "wcn",
+        "NAV_FEATURE": "yes"
+      }
+    }
+  ]
+}

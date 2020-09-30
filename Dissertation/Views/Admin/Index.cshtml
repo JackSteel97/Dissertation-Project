@@ -1,0 +1,117 @@
+﻿@{
+    ViewData["Title"] = "Admin";
+}
+
+@section Scripts {
+    <script src="~/js/admin.js" asp-append-version="true"></script>
+}
+
+@section Styles {
+    <link rel="stylesheet" href="~/css/admin.css" asp-append-version="true" />
+}
+
+<div id="admin-app">
+    <b-row>
+        <b-col>
+            <b-alert class="text-center w-100" variant="info" :show="uploading">
+                <b-spinner label="Uploading"></b-spinner>
+                <p class="mb-0">Uploading, please wait...</p>
+            </b-alert>
+            <b-alert class="text-center w-100" variant="info" :show="generatingTimetable">
+                <b-spinner label="Generating"></b-spinner>
+                <p class="mb-0">Generating, this may take a moment...</p>
+            </b-alert>
+        </b-col>
+    </b-row>
+
+    <b-row>
+        <b-col cols="12" sm="4">
+            <h3 class="text-center">Upload Floor File</h3>
+            <h6 class="text-center">Upload the .JSON output from JOSM for an indoor floor here.</h6>
+            <b-form-file v-model="floorFile"
+                         :state="Boolean(floorFile.length)"
+                         placeholder="Choose Floor File..."
+                         drop-placeholder="Drop floor file here..."
+                         accept=".json"
+                         multiple
+                         name="floorFile">
+            </b-form-file>
+            <div class='text-center mt-3'>
+                <b-btn variant="primary" v-on:click="uploadButtonClicked">Upload</b-btn>
+            </div>
+        </b-col>
+
+        <b-col cols="12" sm="4">
+            <h3 class="text-center">Add Building</h3>
+            <h6 class="text-center">Add a building for building to building navigation.</h6>
+            <b-input-group prepend="Building Code">
+                <b-form-input type="text"
+                              v-model="newBuildingCode"
+                              placeholder="MB">
+                </b-form-input>
+            </b-input-group>
+            <b-input-group prepend="Building Name">
+                <b-form-input type="text"
+                              v-model="newBuildingName"
+                              placeholder="Minerva Building">
+                </b-form-input>
+            </b-input-group>
+            <div class='text-center mt-3'>
+                <b-btn variant="primary" v-on:click="addBuilding">Add</b-btn>
+            </div>
+        </b-col>
+
+        <b-col cols="12" sm="4">
+            <h3 class="text-center">Upload Outdoors File</h3>
+            <h6 class="text-center">Upload the .JSON output from JOSM for an the outdoor background map here.</h6>
+            <b-form-file v-model="backgroundFloorFile"
+                         :state="Boolean(backgroundFloorFile)"
+                         placeholder="Choose Background Floor File..."
+                         drop-placeholder="Drop background floor file here..."
+                         accept=".json"
+                         name="backgroundFloorFile">
+            </b-form-file>
+            <div class='text-center mt-3'>
+                <b-btn variant="primary" v-on:click="uploadBackgroundButtonClicked">Upload</b-btn>
+            </div>
+        </b-col>
+    </b-row>
+
+    <b-row>
+        <b-col cols="12" sm="4">
+            <h3 class="text-center">Delete Building</h3>
+            <h6 class="text-center">Delete a building from building-to-building navigation.</h6>
+            <label for="delBuildingCode">Building:</label>
+
+            <vue-multiselect id="delBuildingCode"
+                             v-model="deleteBuilding.selected"
+                             :options="deleteBuilding.options"
+                             :allow-empty="false"
+                             :show-labels="false"
+                             placeholder="Select a Building"
+                             track-by="buildingCode"
+                             label="buildingName">
+            </vue-multiselect>
+            <div class='text-center mt-3'>
+                <b-btn variant="danger" v-on:click="deleteBuildingClicked">Delete</b-btn>
+            </div>
+        </b-col>
+
+        <b-col cols="12" sm="4">
+            <h3 class="text-center">Generate Timetable Data</h3>
+            <h6 class="text-center">Randomly Generate some timetable data for testing. May take some time.</h6>
+
+            <div class='text-center mt-3'>
+                <b-btn variant="primary" :disabled="generatingTimetable" v-on:click="generateTimetableData">Generate</b-btn>
+            </div>
+        </b-col>
+
+        <b-col cols="12" sm="4">
+            <h3 class="text-center">Import Timetable Data</h3>
+            <h6 class="text-center">Import the .CSV output from the timetable export (stored locally).</h6>
+            <div class='text-center mt-3'>
+                <b-btn variant="primary" v-on:click="importTimetableClicked">Import</b-btn>
+            </div>
+        </b-col>
+    </b-row>
+</div>

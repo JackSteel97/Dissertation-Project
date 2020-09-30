@@ -1,0 +1,1227 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54322143737,
+              53.22670221867
+            ],
+            [
+              -0.54322965842,
+              53.226736934
+            ],
+            [
+              -0.54320777981,
+              53.22673913017
+            ],
+            [
+              -0.5431990453,
+              53.22670417023
+            ],
+            [
+              -0.54322143737,
+              53.22670221867
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "SSB",
+        "geometry_type": "Polygon",
+        "level": "0",
+        "node_type": "Block",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54378497722,
+              53.22696792786
+            ],
+            [
+              -0.54382975097,
+              53.22691503486
+            ],
+            [
+              -0.54388036802,
+              53.22685456385
+            ],
+            [
+              -0.5439386,
+              53.2268723
+            ],
+            [
+              -0.5438142,
+              53.2270192
+            ],
+            [
+              -0.5437559311,
+              53.22700159384
+            ],
+            [
+              -0.54378497722,
+              53.22696792786
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "SSB",
+        "geometry_type": "Polygon",
+        "level": "0",
+        "node_type": "Block",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54317385243,
+              53.22670636588
+            ],
+            [
+              -0.54318254207,
+              53.22674124696
+            ],
+            [
+              -0.5430679514,
+              53.22675119427
+            ],
+            [
+              -0.54305930168,
+              53.22671634943
+            ],
+            [
+              -0.54317385243,
+              53.22670636588
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "SSB",
+        "geometry_type": "Polygon",
+        "level": "0",
+        "node_type": "Block",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54329109531,
+              53.22671489295
+            ],
+            [
+              -0.5433023219,
+              53.22671396685
+            ],
+            [
+              -0.5433247309,
+              53.2266878245
+            ],
+            [
+              -0.54328543461,
+              53.22669125115
+            ],
+            [
+              -0.54329109531,
+              53.22671489295
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "SSB",
+        "geometry_type": "Polygon",
+        "level": "0",
+        "node_type": "Block",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.5430578,
+              53.2267103
+            ],
+            [
+              -0.5430029,
+              53.2267152
+            ],
+            [
+              -0.5429586,
+              53.2265293
+            ],
+            [
+              -0.5430117,
+              53.2265247
+            ],
+            [
+              -0.5430578,
+              53.2267103
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "SSB",
+        "geometry_type": "Polygon",
+        "level": "0",
+        "node_type": "Block",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54313853616,
+              53.22651394646
+            ],
+            [
+              -0.54312455647,
+              53.22645552172
+            ],
+            [
+              -0.5429975,
+              53.2264664
+            ],
+            [
+              -0.5430117,
+              53.2265247
+            ],
+            [
+              -0.54313853616,
+              53.22651394646
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "SSB",
+        "geometry_type": "Polygon",
+        "level": "0",
+        "node_type": "Block",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.5431936804,
+              53.22647730929
+            ],
+            [
+              -0.54320075219,
+              53.22650757947
+            ],
+            [
+              -0.54327752289,
+              53.22650088548
+            ],
+            [
+              -0.54327021312,
+              53.22647037124
+            ],
+            [
+              -0.5431936804,
+              53.22647730929
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "SSB",
+        "geometry_type": "Polygon",
+        "level": "0",
+        "node_type": "Block",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.5436517,
+              53.2269701
+            ],
+            [
+              -0.54364654434,
+              53.22696850938
+            ],
+            [
+              -0.54350395273,
+              53.22692478269
+            ],
+            [
+              -0.54336507322,
+              53.22688225615
+            ],
+            [
+              -0.543306,
+              53.2268638
+            ],
+            [
+              -0.5432828,
+              53.2268908
+            ],
+            [
+              -0.54363,
+              53.226996
+            ],
+            [
+              -0.5436517,
+              53.2269701
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "SSB",
+        "geometry_type": "Polygon",
+        "level": "0",
+        "node_type": "Block",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54324579117,
+              53.22669465117
+            ],
+            [
+              -0.54325228841,
+              53.22671821366
+            ],
+            [
+              -0.54329109531,
+              53.22671489295
+            ],
+            [
+              -0.54328543461,
+              53.22669125115
+            ],
+            [
+              -0.54324579117,
+              53.22669465117
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "SSB",
+        "connected_nodes": "c_ssb0_009, l_ssb1_251",
+        "geometry_type": "Polygon",
+        "id": "l_ssb0_251",
+        "level": "0",
+        "name": "SSB0251 (Lift)",
+        "node_type": "Lift",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.5436751271,
+              53.22693486206
+            ],
+            [
+              -0.54372150717,
+              53.22694898271
+            ],
+            [
+              -0.54375160676,
+              53.22691383092
+            ],
+            [
+              -0.54370488822,
+              53.22689966175
+            ],
+            [
+              -0.5436751271,
+              53.22693486206
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "SSB",
+        "connected_nodes": "c_ssb0_004, l_ssb1_164",
+        "geometry_type": "Polygon",
+        "id": "l_ssb0_164",
+        "level": "0",
+        "name": "SSB0164 (Lift)",
+        "node_type": "Lift",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54315632907,
+              53.22659607325
+            ],
+            [
+              -0.54303191124,
+              53.22660659263
+            ],
+            [
+              -0.54301971252,
+              53.22655922949
+            ],
+            [
+              -0.5431448844,
+              53.22654843367
+            ],
+            [
+              -0.54315632907,
+              53.22659607325
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "SSB",
+        "connected_nodes": "r_ssb0_205",
+        "geometry_type": "Polygon",
+        "id": "r_ssb0_208",
+        "level": "0",
+        "name": "SSB0208 (Professional Development Centre)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54327752289,
+              53.22650088548
+            ],
+            [
+              -0.54328597204,
+              53.22653615598
+            ],
+            [
+              -0.54320950372,
+              53.22654287713
+            ],
+            [
+              -0.54320075219,
+              53.22650757947
+            ],
+            [
+              -0.54327752289,
+              53.22650088548
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "SSB",
+        "connected_nodes": "c_ssb0_015",
+        "geometry_type": "Polygon",
+        "id": "r_ssb0_209",
+        "level": "0",
+        "name": "SSB0209 (Professional Development Centre)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54336507322,
+              53.22688225615
+            ],
+            [
+              -0.54350395273,
+              53.22692478269
+            ],
+            [
+              -0.54356150602,
+              53.22685626774
+            ],
+            [
+              -0.54342236698,
+              53.22681536094
+            ],
+            [
+              -0.54336507322,
+              53.22688225615
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "SSB",
+        "connected_nodes": "c_ssb0_005",
+        "geometry_type": "Polygon",
+        "id": "r_ssb0_105",
+        "level": "0",
+        "name": "SSB0105 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54320950372,
+              53.22654287713
+            ],
+            [
+              -0.54318376476,
+              53.2265450904
+            ],
+            [
+              -0.5431448844,
+              53.22654843367
+            ],
+            [
+              -0.54315632907,
+              53.22659607325
+            ],
+            [
+              -0.54316760287,
+              53.22664300153
+            ],
+            [
+              -0.54320587147,
+              53.22663963567
+            ],
+            [
+              -0.54323288509,
+              53.22663725973
+            ],
+            [
+              -0.54322479655,
+              53.22660532255
+            ],
+            [
+              -0.54330084648,
+              53.22659861457
+            ],
+            [
+              -0.54328597204,
+              53.22653615598
+            ],
+            [
+              -0.54320950372,
+              53.22654287713
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "SSB",
+        "connected_nodes": "r_ssb0_207, r_ssb0_208, c_ssb0_015,c_ssb0_014",
+        "geometry_type": "Polygon",
+        "id": "r_ssb0_205",
+        "level": "0",
+        "name": "SSB0205 (Professional Development Centre)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54356150602,
+              53.22685626774
+            ],
+            [
+              -0.54370488822,
+              53.22689966175
+            ],
+            [
+              -0.5436751271,
+              53.22693486206
+            ],
+            [
+              -0.54364654434,
+              53.22696850938
+            ],
+            [
+              -0.54350395273,
+              53.22692478269
+            ],
+            [
+              -0.54356150602,
+              53.22685626774
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "SSB",
+        "connected_nodes": "c_ssb0_005",
+        "geometry_type": "Polygon",
+        "id": "r_ssb0_104",
+        "level": "0",
+        "name": "SSB0104 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54323288509,
+              53.22663725973
+            ],
+            [
+              -0.54324579117,
+              53.22669465117
+            ],
+            [
+              -0.54328543461,
+              53.22669125115
+            ],
+            [
+              -0.5433247309,
+              53.2266878245
+            ],
+            [
+              -0.54332632211,
+              53.22668581358
+            ],
+            [
+              -0.54332249559,
+              53.22668471788
+            ],
+            [
+              -0.54330084648,
+              53.22659861457
+            ],
+            [
+              -0.54322479655,
+              53.22660532255
+            ],
+            [
+              -0.54323288509,
+              53.22663725973
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "SSB",
+        "connected_nodes": "c_ssb0_014",
+        "geometry_type": "Polygon",
+        "id": "r_ssb0_206",
+        "level": "0",
+        "name": "SSB0206 (Professional Development Centre)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54343819025,
+              53.22679662737
+            ],
+            [
+              -0.5435958488,
+              53.22684412271
+            ],
+            [
+              -0.54364703917,
+              53.22678349706
+            ],
+            [
+              -0.54348955197,
+              53.22673552989
+            ],
+            [
+              -0.54343819025,
+              53.22679662737
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "SSB",
+        "category": "SeminarTablets",
+        "connected_nodes": "c_ssb0_005",
+        "geometry_type": "Polygon",
+        "id": "r_ssb0_102",
+        "level": "0",
+        "name": "SSB0102 (Seminar Room)",
+        "node_type": "Room",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54303191124,
+              53.22660659263
+            ],
+            [
+              -0.54304366823,
+              53.22665369127
+            ],
+            [
+              -0.54316760287,
+              53.22664300153
+            ],
+            [
+              -0.54315632907,
+              53.22659607325
+            ],
+            [
+              -0.54303191124,
+              53.22660659263
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "SSB",
+        "connected_nodes": "r_ssb0_205",
+        "geometry_type": "Polygon",
+        "id": "r_ssb0_207",
+        "level": "0",
+        "name": "SSB0207 (Professional Development Centre)",
+        "node_type": "Room",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.5435958488,
+              53.22684412271
+            ],
+            [
+              -0.54382975097,
+              53.22691503486
+            ],
+            [
+              -0.54388036802,
+              53.22685456385
+            ],
+            [
+              -0.54364703917,
+              53.22678349706
+            ],
+            [
+              -0.5435958488,
+              53.22684412271
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "SSB",
+        "category": "SeminarTablets",
+        "connected_nodes": "c_ssb0_001, c_ssb0_005",
+        "geometry_type": "Polygon",
+        "id": "r_ssb0_103",
+        "level": "0",
+        "name": "SSB0103 (Seminar Room)",
+        "node_type": "Room",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54320587147,
+              53.22663963567
+            ],
+            [
+              -0.54322143737,
+              53.22670221867
+            ],
+            [
+              -0.5431990453,
+              53.22670417023
+            ],
+            [
+              -0.54317385243,
+              53.22670636588
+            ],
+            [
+              -0.54305930168,
+              53.22671634943
+            ],
+            [
+              -0.5430578,
+              53.2267103
+            ],
+            [
+              -0.54304366823,
+              53.22665369127
+            ],
+            [
+              -0.54316760287,
+              53.22664300153
+            ],
+            [
+              -0.54320587147,
+              53.22663963567
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "SSB",
+        "category": "SeminarTablets",
+        "connected_nodes": "c_ssb0_012",
+        "geometry_type": "Polygon",
+        "id": "r_ssb0_203",
+        "level": "0",
+        "name": "SSB0203 (Seminar Room)",
+        "node_type": "Room",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54372150717,
+              53.22694898271
+            ],
+            [
+              -0.54378497722,
+              53.22696792786
+            ],
+            [
+              -0.5437559311,
+              53.22700159384
+            ],
+            [
+              -0.5436517,
+              53.2269701
+            ],
+            [
+              -0.54364654434,
+              53.22696850938
+            ],
+            [
+              -0.5436751271,
+              53.22693486206
+            ],
+            [
+              -0.54372150717,
+              53.22694898271
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "SSB",
+        "connected_nodes": "c_ssb0_003, s_ssb1_165",
+        "geometry_type": "Polygon",
+        "id": "s_ssb0_165",
+        "level": "0",
+        "name": "SSB0165 (Stair 1)",
+        "node_type": "Stairs",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54328460853,
+              53.22676632464
+            ],
+            [
+              -0.54322670753,
+              53.22680754901
+            ],
+            [
+              -0.54330891804,
+              53.22684845584
+            ],
+            [
+              -0.54334220004,
+              53.22681045959
+            ],
+            [
+              -0.54331941533,
+              53.22679887018
+            ],
+            [
+              -0.54330144836,
+              53.22681978665
+            ],
+            [
+              -0.54326955863,
+              53.22680400338
+            ],
+            [
+              -0.54330679648,
+              53.22677701438
+            ],
+            [
+              -0.54328460853,
+              53.22676632464
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "SSB",
+        "connected_nodes": "c_ssb0_007, s_ssb1_001",
+        "geometry_type": "Polygon",
+        "id": "s_ssb0_001",
+        "level": "0",
+        "name": "SSB0001 (Stairs)",
+        "node_type": "Stairs",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54318376476,
+              53.2265450904
+            ],
+            [
+              -0.54317555864,
+              53.22651080759
+            ],
+            [
+              -0.54313853616,
+              53.22651394646
+            ],
+            [
+              -0.5430117,
+              53.2265247
+            ],
+            [
+              -0.54301971252,
+              53.22655922949
+            ],
+            [
+              -0.5431448844,
+              53.22654843367
+            ],
+            [
+              -0.54318376476,
+              53.2265450904
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "SSB",
+        "connected_nodes": "c_ssb0_015, s_ssb1_255",
+        "geometry_type": "Polygon",
+        "id": "s_ssb0_255",
+        "level": "0",
+        "name": "SSB0255 (Stair 2)",
+        "node_type": "Stairs",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54336394161,
+              53.22683820147
+            ],
+            [
+              -0.54333465756,
+              53.22682950064
+            ],
+            [
+              -0.54336166948,
+              53.22679691924
+            ],
+            [
+              -0.54339075,
+              53.22680570351
+            ],
+            [
+              -0.54336394161,
+              53.22683820147
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "SSB",
+        "connected_nodes": "c_ssb0_006",
+        "geometry_type": "Polygon",
+        "id": "wcd_ssb0_156",
+        "level": "0",
+        "name": "Disabled & Gender Neutral Toilet",
+        "node_type": "wcd",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54327021312,
+              53.22647037124
+            ],
+            [
+              -0.5431936804,
+              53.22647730929
+            ],
+            [
+              -0.543187424,
+              53.22645013914
+            ],
+            [
+              -0.5432638,
+              53.2264436
+            ],
+            [
+              -0.54327021312,
+              53.22647037124
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "SSB",
+        "connected_nodes": "c_ssb0_016",
+        "geometry_type": "Polygon",
+        "id": "wcd_ssb0_253",
+        "level": "0",
+        "name": "Disabled & Gender Neutral Toilet",
+        "node_type": "wcd",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.543306,
+              53.2268638
+            ],
+            [
+              -0.54333465756,
+              53.22682950064
+            ],
+            [
+              -0.54336394161,
+              53.22683820147
+            ],
+            [
+              -0.54339075,
+              53.22680570351
+            ],
+            [
+              -0.54342236698,
+              53.22681536094
+            ],
+            [
+              -0.54336507322,
+              53.22688225615
+            ],
+            [
+              -0.543306,
+              53.2268638
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "SSB",
+        "connected_nodes": "c_ssb0_006",
+        "geometry_type": "Polygon",
+        "id": "wcf_ssb0_158",
+        "level": "0",
+        "name": "SSB0158 (Female WC)",
+        "node_type": "wcf",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54338225616,
+              53.22677973278
+            ],
+            [
+              -0.54343819025,
+              53.22679662737
+            ],
+            [
+              -0.54348955197,
+              53.22673552989
+            ],
+            [
+              -0.54343400188,
+              53.22671861053
+            ],
+            [
+              -0.54338225616,
+              53.22677973278
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "SSB",
+        "connected_nodes": "c_ssb0_006",
+        "geometry_type": "Polygon",
+        "id": "wcm_ssb0_155",
+        "level": "0",
+        "name": "SSB0155 (Male WC)",
+        "node_type": "wcm",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54339464457,
+              53.22670662314
+            ],
+            [
+              -0.54334683048,
+              53.22676322184
+            ],
+            [
+              -0.54337511799,
+              53.22677762923
+            ],
+            [
+              -0.54338225616,
+              53.22677973278
+            ],
+            [
+              -0.54343400188,
+              53.22671861053
+            ],
+            [
+              -0.54339464457,
+              53.22670662314
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "SSB",
+        "connected_nodes": "c_ssb0_008",
+        "id": "wcs_ssb0_001",
+        "level": "0",
+        "name": "Shower Room",
+        "node_type": "wcs",
+        "NAV_FEATURE": "yes"
+      }
+    }
+  ]
+}

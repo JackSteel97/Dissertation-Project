@@ -1,0 +1,1673 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54389638425,
+              53.22648499544
+            ],
+            [
+              -0.54376542701,
+              53.22645532667
+            ],
+            [
+              -0.54381430464,
+              53.22637780159
+            ],
+            [
+              -0.5442533,
+              53.2264761
+            ],
+            [
+              -0.54422391215,
+              53.22652287338
+            ],
+            [
+              -0.54412658261,
+              53.22650100549
+            ],
+            [
+              -0.54408686423,
+              53.22649201978
+            ],
+            [
+              -0.54404116965,
+              53.2264819223
+            ],
+            [
+              -0.54404650567,
+              53.22647353036
+            ],
+            [
+              -0.54396999381,
+              53.22645609664
+            ],
+            [
+              -0.54389638425,
+              53.22648499544
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "DCB",
+        "geometry_type": "Polygon",
+        "level": "1",
+        "node_type": "Block",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54395616027,
+              53.22649853787
+            ],
+            [
+              -0.54391909564,
+              53.22649014077
+            ],
+            [
+              -0.54397279744,
+              53.22646941557
+            ],
+            [
+              -0.54401131606,
+              53.22647822084
+            ],
+            [
+              -0.54400786905,
+              53.22648367107
+            ],
+            [
+              -0.5439706268,
+              53.22647526284
+            ],
+            [
+              -0.54395616027,
+              53.22649853787
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "DCB",
+        "geometry_type": "Polygon",
+        "level": "1",
+        "node_type": "Block",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54400786905,
+              53.22648367107
+            ],
+            [
+              -0.5439706268,
+              53.22647526284
+            ],
+            [
+              -0.54395616027,
+              53.22649853787
+            ],
+            [
+              -0.54399316443,
+              53.22650692127
+            ],
+            [
+              -0.54400786905,
+              53.22648367107
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "DCB",
+        "connected_nodes": "c_dcb1_027, l_dcb0_913, l_dcb2_913",
+        "geometry_type": "Polygon",
+        "id": "l_dcb1_913",
+        "level": "1",
+        "name": "DCB1913 (Lift West)",
+        "node_type": "Lift",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54405589954,
+              53.22661351796
+            ],
+            [
+              -0.54404130201,
+              53.22663668737
+            ],
+            [
+              -0.54400524035,
+              53.22662858095
+            ],
+            [
+              -0.5440198859,
+              53.22660546904
+            ],
+            [
+              -0.54405589954,
+              53.22661351796
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "DCB",
+        "connected_nodes": "c_dcb1_019, l_dcb0_902, l_dcb2_902",
+        "geometry_type": "Polygon",
+        "id": "l_dcb1_902",
+        "level": "1",
+        "name": "DCB1902 (Lift North)",
+        "node_type": "Lift",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54401468037,
+              53.22672677976
+            ],
+            [
+              -0.54403264374,
+              53.22669848351
+            ],
+            [
+              -0.54407689991,
+              53.22670856645
+            ],
+            [
+              -0.54408014469,
+              53.22670344989
+            ],
+            [
+              -0.54410665994,
+              53.22670949023
+            ],
+            [
+              -0.54408574489,
+              53.22674277824
+            ],
+            [
+              -0.54401468037,
+              53.22672677976
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "DCB",
+        "connected_nodes": "c_dcb1_013",
+        "geometry_type": "Polygon",
+        "id": "r_dcb1_203",
+        "level": "1",
+        "name": "DCB1203 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54394640948,
+              53.22672631397
+            ],
+            [
+              -0.54390426078,
+              53.22671678176
+            ],
+            [
+              -0.54387793913,
+              53.22675840197
+            ],
+            [
+              -0.54391996405,
+              53.22676790408
+            ],
+            [
+              -0.54394640948,
+              53.22672631397
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "DCB",
+        "connected_nodes": "c_dcb1_009",
+        "geometry_type": "Polygon",
+        "id": "r_dcb1_207",
+        "level": "1",
+        "name": "DCB1207 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54403264374,
+              53.22669848351
+            ],
+            [
+              -0.54405047331,
+              53.22666988685
+            ],
+            [
+              -0.54412140582,
+              53.22668602096
+            ],
+            [
+              -0.54410665994,
+              53.22670949023
+            ],
+            [
+              -0.54408014469,
+              53.22670344989
+            ],
+            [
+              -0.54407689991,
+              53.22670856645
+            ],
+            [
+              -0.54403264374,
+              53.22669848351
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "DCB",
+        "connected_nodes": "c_dcb1_015",
+        "geometry_type": "Polygon",
+        "id": "r_dcb1_202",
+        "level": "1",
+        "name": "DCB1202 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54390426078,
+              53.22671678176
+            ],
+            [
+              -0.54386184444,
+              53.22670710935
+            ],
+            [
+              -0.54383537163,
+              53.22674877717
+            ],
+            [
+              -0.54387793913,
+              53.22675840197
+            ],
+            [
+              -0.54390426078,
+              53.22671678176
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "DCB",
+        "connected_nodes": "c_dcb1_008",
+        "geometry_type": "Polygon",
+        "id": "r_dcb1_208",
+        "level": "1",
+        "name": "DCB1208 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54405047331,
+              53.22666988685
+            ],
+            [
+              -0.54406806875,
+              53.22664241164
+            ],
+            [
+              -0.5441386683,
+              53.22665854629
+            ],
+            [
+              -0.54412140582,
+              53.22668602096
+            ],
+            [
+              -0.54405047331,
+              53.22666988685
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "DCB",
+        "connected_nodes": "c_dcb1_016",
+        "geometry_type": "Polygon",
+        "id": "r_dcb1_201",
+        "level": "1",
+        "name": "DCB1201 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54386184444,
+              53.22670710935
+            ],
+            [
+              -0.54381985487,
+              53.22669757394
+            ],
+            [
+              -0.54379331341,
+              53.22673922158
+            ],
+            [
+              -0.54383537163,
+              53.22674877717
+            ],
+            [
+              -0.54386184444,
+              53.22670710935
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "DCB",
+        "connected_nodes": "c_dcb1_006",
+        "geometry_type": "Polygon",
+        "id": "r_dcb1_209",
+        "level": "1",
+        "name": "DCB1209 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54398842437,
+              53.22673588623
+            ],
+            [
+              -0.54394640948,
+              53.22672631397
+            ],
+            [
+              -0.54391996405,
+              53.22676790408
+            ],
+            [
+              -0.5439622896,
+              53.22677747417
+            ],
+            [
+              -0.54398842437,
+              53.22673588623
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "DCB",
+        "connected_nodes": "c_dcb1_010",
+        "geometry_type": "Polygon",
+        "id": "r_dcb1_206",
+        "level": "1",
+        "name": "DCB1206 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54381985487,
+              53.22669757394
+            ],
+            [
+              -0.54377761014,
+              53.22668809922
+            ],
+            [
+              -0.54375128849,
+              53.22672971946
+            ],
+            [
+              -0.54379331341,
+              53.22673922158
+            ],
+            [
+              -0.54381985487,
+              53.22669757394
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "DCB",
+        "connected_nodes": "c_dcb1_005",
+        "geometry_type": "Polygon",
+        "id": "r_dcb1_210",
+        "level": "1",
+        "name": "DCB1210 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.5440513,
+              53.2267976
+            ],
+            [
+              -0.5440646201,
+              53.22677640002
+            ],
+            [
+              -0.54404478662,
+              53.22677209779
+            ],
+            [
+              -0.54400932819,
+              53.22675347396
+            ],
+            [
+              -0.54399891387,
+              53.22675110811
+            ],
+            [
+              -0.54400614355,
+              53.22673995243
+            ],
+            [
+              -0.54398842437,
+              53.22673588623
+            ],
+            [
+              -0.5439622896,
+              53.22677747417
+            ],
+            [
+              -0.5440513,
+              53.2267976
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "DCB",
+        "connected_nodes": "c_dcb1_012",
+        "geometry_type": "Polygon",
+        "id": "r_dcb1_205",
+        "level": "1",
+        "name": "DCB1205 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54377761014,
+              53.22668809922
+            ],
+            [
+              -0.54372591846,
+              53.22667628513
+            ],
+            [
+              -0.54369950737,
+              53.2267180219
+            ],
+            [
+              -0.54375128849,
+              53.22672971946
+            ],
+            [
+              -0.54377761014,
+              53.22668809922
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "DCB",
+        "connected_nodes": "c_dcb1_003",
+        "geometry_type": "Polygon",
+        "id": "r_dcb1_211",
+        "level": "1",
+        "name": "DCB1211 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54399891387,
+              53.22675110811
+            ],
+            [
+              -0.54400614355,
+              53.22673995243
+            ],
+            [
+              -0.54401468037,
+              53.22672677976
+            ],
+            [
+              -0.54408574489,
+              53.22674277824
+            ],
+            [
+              -0.5440646201,
+              53.22677640002
+            ],
+            [
+              -0.54404478662,
+              53.22677209779
+            ],
+            [
+              -0.54400932819,
+              53.22675347396
+            ],
+            [
+              -0.54399891387,
+              53.22675110811
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "DCB",
+        "connected_nodes": "c_dcb1_012",
+        "geometry_type": "Polygon",
+        "id": "r_dcb1_204",
+        "level": "1",
+        "name": "DCB1204 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54372591846,
+              53.22667628513
+            ],
+            [
+              -0.54367453907,
+              53.22666451363
+            ],
+            [
+              -0.54364786184,
+              53.22670635498
+            ],
+            [
+              -0.54369950737,
+              53.2267180219
+            ],
+            [
+              -0.54372591846,
+              53.22667628513
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "DCB",
+        "connected_nodes": "c_dcb1_002",
+        "geometry_type": "Polygon",
+        "id": "r_dcb1_212",
+        "level": "1",
+        "name": "DCB1212 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54367453907,
+              53.22666451363
+            ],
+            [
+              -0.54362690503,
+              53.22665370509
+            ],
+            [
+              -0.54360066371,
+              53.22669569274
+            ],
+            [
+              -0.54364786184,
+              53.22670635498
+            ],
+            [
+              -0.54367453907,
+              53.22666451363
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "DCB",
+        "connected_nodes": "c_dcb1_002",
+        "geometry_type": "Polygon",
+        "id": "r_dcb1_213",
+        "level": "1",
+        "name": "DCB1213 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54408432631,
+              53.22656861643
+            ],
+            [
+              -0.54409353645,
+              53.22655388002
+            ],
+            [
+              -0.54412658261,
+              53.22650100549
+            ],
+            [
+              -0.54422391215,
+              53.22652287338
+            ],
+            [
+              -0.54418141016,
+              53.22659051901
+            ],
+            [
+              -0.54408432631,
+              53.22656861643
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "DCB",
+        "category": "SeminarTables",
+        "connected_nodes": "c_dcb1_021",
+        "geometry_type": "Polygon",
+        "id": "r_dcb1_107",
+        "level": "1",
+        "name": "DCB1107 (Seminar Rooms)",
+        "node_type": "Room",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54360395243,
+              53.22663024829
+            ],
+            [
+              -0.54373465785,
+              53.22665962679
+            ],
+            [
+              -0.54374090021,
+              53.22664945066
+            ],
+            [
+              -0.54376740635,
+              53.22660782628
+            ],
+            [
+              -0.54368105634,
+              53.2265882213
+            ],
+            [
+              -0.54359381738,
+              53.22656841448
+            ],
+            [
+              -0.54356129706,
+              53.22662048375
+            ],
+            [
+              -0.54360395243,
+              53.22663024829
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "DCB",
+        "category": "SeminarTables",
+        "connected_nodes": "c_dcb1_004",
+        "geometry_type": "Polygon",
+        "id": "r_dcb1_111",
+        "level": "1",
+        "name": "DCB1111 (Seminar Rooms)",
+        "node_type": "Room",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54376542701,
+              53.22645532667
+            ],
+            [
+              -0.54381430464,
+              53.22637780159
+            ],
+            [
+              -0.54364338722,
+              53.22633953025
+            ],
+            [
+              -0.54359516698,
+              53.22641689775
+            ],
+            [
+              -0.54367673886,
+              53.22643523409
+            ],
+            [
+              -0.54376542701,
+              53.22645532667
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "DCB",
+        "category": "LectureFlat",
+        "connected_nodes": "c_dcb1_032",
+        "geometry_type": "Polygon",
+        "id": "r_dcb1_102",
+        "level": "1",
+        "name": "DCB1102 (Moot Court)",
+        "node_type": "Room",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54393761479,
+              53.22664648008
+            ],
+            [
+              -0.54394776267,
+              53.22663047826
+            ],
+            [
+              -0.54398368019,
+              53.22657388753
+            ],
+            [
+              -0.543898472,
+              53.22655459889
+            ],
+            [
+              -0.54385201431,
+              53.22662685618
+            ],
+            [
+              -0.54393761479,
+              53.22664648008
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "DCB",
+        "category": "SeminarTables",
+        "connected_nodes": "c_dcb1_037",
+        "geometry_type": "Polygon",
+        "id": "r_dcb1_103",
+        "level": "1",
+        "name": "DCB1103 (Seminar Rooms)",
+        "node_type": "Room",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54376740635,
+              53.22660782628
+            ],
+            [
+              -0.54385201431,
+              53.22662685618
+            ],
+            [
+              -0.543898472,
+              53.22655459889
+            ],
+            [
+              -0.54381369589,
+              53.22653554015
+            ],
+            [
+              -0.54376740635,
+              53.22660782628
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "DCB",
+        "category": "SeminarTables",
+        "connected_nodes": "c_dcb1_028",
+        "geometry_type": "Polygon",
+        "id": "r_dcb1_104",
+        "level": "1",
+        "name": "DCB1104 (Seminar Rooms)",
+        "node_type": "Room",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54368105634,
+              53.2265882213
+            ],
+            [
+              -0.54376740635,
+              53.22660782628
+            ],
+            [
+              -0.54381369589,
+              53.22653554015
+            ],
+            [
+              -0.54372745521,
+              53.22651622269
+            ],
+            [
+              -0.54368105634,
+              53.2265882213
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "DCB",
+        "category": "SeminarTables",
+        "connected_nodes": "c_dcb1_029",
+        "geometry_type": "Polygon",
+        "id": "r_dcb1_105",
+        "level": "1",
+        "name": "DCB1105 (Seminar Rooms)",
+        "node_type": "Room",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54359516698,
+              53.22641689775
+            ],
+            [
+              -0.54355693099,
+              53.2264783708
+            ],
+            [
+              -0.5435402,
+              53.2264746
+            ],
+            [
+              -0.5433824,
+              53.2264388
+            ],
+            [
+              -0.54347074857,
+              53.22630096686
+            ],
+            [
+              -0.54364338722,
+              53.22633953025
+            ],
+            [
+              -0.54359516698,
+              53.22641689775
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "DCB",
+        "category": "LectureRaked",
+        "connected_nodes": "c_dcb1_033",
+        "geometry_type": "Polygon",
+        "id": "r_dcb1_101",
+        "level": "1",
+        "name": "DCB1101 (Lecture Theatre)",
+        "node_type": "Room",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54392519403,
+              53.22666606592
+            ],
+            [
+              -0.54391827941,
+              53.22667698945
+            ],
+            [
+              -0.54383251892,
+              53.22665784453
+            ],
+            [
+              -0.54385201431,
+              53.22662685618
+            ],
+            [
+              -0.54393761479,
+              53.22664648008
+            ],
+            [
+              -0.54392519403,
+              53.22666606592
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "DCB",
+        "category": "MeetingTutorial",
+        "connected_nodes": "c_dcb1_011",
+        "geometry_type": "Polygon",
+        "id": "r_dcb1_109",
+        "level": "1",
+        "name": "DCB1109 (Group Room)",
+        "node_type": "Room",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.5436135,
+              53.2265369
+            ],
+            [
+              -0.54359381738,
+              53.22656841448
+            ],
+            [
+              -0.54368105634,
+              53.2265882213
+            ],
+            [
+              -0.54372745521,
+              53.22651622269
+            ],
+            [
+              -0.5436382046,
+              53.2264966881
+            ],
+            [
+              -0.5436135,
+              53.2265369
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "DCB",
+        "category": "SeminarTables",
+        "connected_nodes": "c_dcb1_030",
+        "geometry_type": "Polygon",
+        "id": "r_dcb1_106",
+        "level": "1",
+        "name": "DCB1106 (Seminar Rooms)",
+        "node_type": "Room",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54383251892,
+              53.22665784453
+            ],
+            [
+              -0.54382589241,
+              53.22666836561
+            ],
+            [
+              -0.54374090021,
+              53.22664945066
+            ],
+            [
+              -0.54376740635,
+              53.22660782628
+            ],
+            [
+              -0.54385201431,
+              53.22662685618
+            ],
+            [
+              -0.54383251892,
+              53.22665784453
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "DCB",
+        "category": "MeetingTutorial",
+        "connected_nodes": "c_dcb1_007",
+        "geometry_type": "Polygon",
+        "id": "r_dcb1_110",
+        "level": "1",
+        "name": "DCB1110 (Group Room)",
+        "node_type": "Room",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54406806875,
+              53.22664241164
+            ],
+            [
+              -0.54409594672,
+              53.22659811002
+            ],
+            [
+              -0.54416659458,
+              53.22661409927
+            ],
+            [
+              -0.5441386683,
+              53.22665854629
+            ],
+            [
+              -0.54406806875,
+              53.22664241164
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "DCB",
+        "connected_nodes": "c_dcb1_017",
+        "geometry_type": "Polygon",
+        "id": "r_dcb1_108",
+        "level": "1",
+        "name": "DCB1108 (Group Rooms)",
+        "node_type": "Room",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54409594672,
+              53.22659811002
+            ],
+            [
+              -0.54406944067,
+              53.22659207332
+            ],
+            [
+              -0.54408432631,
+              53.22656861643
+            ],
+            [
+              -0.54418141016,
+              53.22659051901
+            ],
+            [
+              -0.54416659458,
+              53.22661409927
+            ],
+            [
+              -0.54409594672,
+              53.22659811002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "DCB",
+        "connected_nodes": "c_dcb1_020, s_dcb0_920, s_dcb2_920",
+        "geometry_type": "Polygon",
+        "id": "s_dcb1_920",
+        "level": "1",
+        "name": "DCB1920 (Stairs West)",
+        "node_type": "Stairs",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54356740546,
+              53.22668817956
+            ],
+            [
+              -0.54360395243,
+              53.22663024829
+            ],
+            [
+              -0.54356129706,
+              53.22662048375
+            ],
+            [
+              -0.543525,
+              53.2266786
+            ],
+            [
+              -0.54356740546,
+              53.22668817956
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "DCB",
+        "connected_nodes": "c_dcb1_001, s_dcb0_903, s_dcb2_903",
+        "geometry_type": "Polygon",
+        "id": "s_dcb1_903",
+        "level": "1",
+        "name": "DCB1903 (Stairs)",
+        "node_type": "Stairs",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54401131606,
+              53.22647822084
+            ],
+            [
+              -0.54397279744,
+              53.22646941557
+            ],
+            [
+              -0.54391909564,
+              53.22649014077
+            ],
+            [
+              -0.54389638425,
+              53.22648499544
+            ],
+            [
+              -0.54396999381,
+              53.22645609664
+            ],
+            [
+              -0.54404650567,
+              53.22647353036
+            ],
+            [
+              -0.54404116965,
+              53.2264819223
+            ],
+            [
+              -0.54403950457,
+              53.22648461299
+            ],
+            [
+              -0.54401131606,
+              53.22647822084
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "DCB",
+        "connected_nodes": "c_dcb1_025, s_dcb0_900, s_dcb2_900",
+        "geometry_type": "Polygon",
+        "id": "s_dcb1_900",
+        "level": "1",
+        "name": "DCB1900 (Stairs)",
+        "node_type": "Stairs",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.5436382046,
+              53.2264966881
+            ],
+            [
+              -0.54355693099,
+              53.2264783708
+            ],
+            [
+              -0.5435402,
+              53.2264746
+            ],
+            [
+              -0.5435146,
+              53.2265145
+            ],
+            [
+              -0.5436135,
+              53.2265369
+            ],
+            [
+              -0.5436382046,
+              53.2264966881
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "DCB",
+        "connected_nodes": "c_dcb1_034, s_dcb0_905, s_dcb2_905",
+        "geometry_type": "Polygon",
+        "id": "s_dcb1_905",
+        "level": "1",
+        "name": "DCB1905 (Stairs)",
+        "node_type": "Stairs",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54406160898,
+              53.22654673016
+            ],
+            [
+              -0.54404053666,
+              53.22654180331
+            ],
+            [
+              -0.54405866965,
+              53.22651224176
+            ],
+            [
+              -0.54407223559,
+              53.22651530077
+            ],
+            [
+              -0.54408008119,
+              53.22651708744
+            ],
+            [
+              -0.54406160898,
+              53.22654673016
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "DCB",
+        "connected_nodes": "c_dcb1_022",
+        "geometry_type": "Polygon",
+        "id": "wcd_dcb1_911",
+        "level": "1",
+        "name": "Disabled & Gender Neutral Toilet",
+        "node_type": "wcd",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54394776267,
+              53.22663047826
+            ],
+            [
+              -0.54393761479,
+              53.22664648008
+            ],
+            [
+              -0.54392519403,
+              53.22666606592
+            ],
+            [
+              -0.54401018623,
+              53.22668515335
+            ],
+            [
+              -0.54403299487,
+              53.22664955127
+            ],
+            [
+              -0.54394776267,
+              53.22663047826
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "DCB",
+        "connected_nodes": "c_dcb1_011",
+        "geometry_type": "Polygon",
+        "id": "wcf_dcb1_921",
+        "level": "1",
+        "name": "Female Toilet",
+        "node_type": "wcf",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54409353645,
+              53.22655388002
+            ],
+            [
+              -0.54406160898,
+              53.22654673016
+            ],
+            [
+              -0.54408008119,
+              53.22651708744
+            ],
+            [
+              -0.54407223559,
+              53.22651530077
+            ],
+            [
+              -0.54408686423,
+              53.22649201978
+            ],
+            [
+              -0.54412658261,
+              53.22650100549
+            ],
+            [
+              -0.54409353645,
+              53.22655388002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "DCB",
+        "connected_nodes": "c_dcb1_021",
+        "geometry_type": "Polygon",
+        "id": "wcf_dcb1_913",
+        "level": "1",
+        "name": "Female Toilet",
+        "node_type": "wcf",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54408686423,
+              53.22649201978
+            ],
+            [
+              -0.54407223559,
+              53.22651530077
+            ],
+            [
+              -0.54405866965,
+              53.22651224176
+            ],
+            [
+              -0.54404053666,
+              53.22654180331
+            ],
+            [
+              -0.54400818735,
+              53.22653469561
+            ],
+            [
+              -0.54403950457,
+              53.22648461299
+            ],
+            [
+              -0.54404116965,
+              53.2264819223
+            ],
+            [
+              -0.54408686423,
+              53.22649201978
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "DCB",
+        "connected_nodes": "c_dcb1_023",
+        "geometry_type": "Polygon",
+        "id": "wcm_dcb1_911",
+        "level": "1",
+        "name": "Male Toilet",
+        "node_type": "wcm",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54404130201,
+              53.22663668737
+            ],
+            [
+              -0.54403299487,
+              53.22664955127
+            ],
+            [
+              -0.54394776267,
+              53.22663047826
+            ],
+            [
+              -0.54398368019,
+              53.22657388753
+            ],
+            [
+              -0.5440336191,
+              53.22658515604
+            ],
+            [
+              -0.5440198859,
+              53.22660546904
+            ],
+            [
+              -0.54400524035,
+              53.22662858095
+            ],
+            [
+              -0.54404130201,
+              53.22663668737
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "DCB",
+        "connected_nodes": "c_dcb1_016",
+        "geometry_type": "Polygon",
+        "id": "wcm_dcb1_919",
+        "level": "1",
+        "name": "Male Toilet",
+        "node_type": "wcm",
+        "NAV_FEATURE": "yes"
+      }
+    }
+  ]
+}

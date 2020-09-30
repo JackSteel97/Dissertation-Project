@@ -1,0 +1,26 @@
+﻿#map {
+    height: 720px;
+}
+
+.leaflet-container {
+    background-color: white;
+}
+
+.multiselect__content-wrapper {
+    overflow-x: hidden;
+    overflow-y: scroll;
+    word-wrap: normal;
+    white-space: unset;
+}
+
+.multiselect__option {
+    white-space: unset;
+}
+
+.multiselect__single {
+    max-height: none;
+}
+
+.multiselect--active {
+    z-index: 2000;
+}

@@ -1,0 +1,97 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54881125014,
+              53.22865255154
+            ],
+            [
+              -0.54878854116,
+              53.22864675075
+            ],
+            [
+              -0.54876800733,
+              53.22864116229
+            ],
+            [
+              -0.54878013647,
+              53.22862402422
+            ],
+            [
+              -0.54880177222,
+              53.22862971511
+            ],
+            [
+              -0.54883602735,
+              53.22858379117
+            ],
+            [
+              -0.5488605726,
+              53.22859044795
+            ],
+            [
+              -0.54881125014,
+              53.22865255154
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "NAV_FEATURE": "yes",
+        "building": "AB",
+        "connected_nodes": "c_ab0_002,c_ab0_008",
+        "id": "s_ab0_002",
+        "level": "0",
+        "name": "Arts Bridge North Stairs",
+        "node_type": "stairs",
+        "corridor_width": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54898649176,
+              53.22804820566
+            ],
+            [
+              -0.54896051279,
+              53.22804119152
+            ],
+            [
+              -0.54900539974,
+              53.22797936862
+            ],
+            [
+              -0.54903166084,
+              53.22798647979
+            ],
+            [
+              -0.54898649176,
+              53.22804820566
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "NAV_FEATURE": "yes",
+        "building": "AB",
+        "connected_nodes": "c_ab0_001,c_ab0_003",
+        "id": "s_ab0_001",
+        "level": "0",
+        "name": "Arts Bridge South Stairs",
+        "node_type": "stairs",
+        "corridor_width": "1"
+      }
+    }
+  ]
+}

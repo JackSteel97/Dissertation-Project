@@ -1,0 +1,2574 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.55588706148,
+              53.22716156933
+            ],
+            [
+              -0.55583867724,
+              53.22714330213
+            ],
+            [
+              -0.5558003194,
+              53.22712900739
+            ],
+            [
+              -0.5558836,
+              53.2270494
+            ],
+            [
+              -0.55597043423,
+              53.22708195294
+            ],
+            [
+              -0.55588706148,
+              53.22716156933
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "JBL",
+        "geometry_type": "Polygon",
+        "level": "1",
+        "node_type": "Block",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.5557364749,
+              53.22728602475
+            ],
+            [
+              -0.55571642742,
+              53.22727850492
+            ],
+            [
+              -0.5556731,
+              53.2273205
+            ],
+            [
+              -0.555664,
+              53.2273292
+            ],
+            [
+              -0.5556843,
+              53.2273364
+            ],
+            [
+              -0.5557364749,
+              53.22728602475
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "JBL",
+        "geometry_type": "Polygon",
+        "level": "1",
+        "node_type": "Block",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.55571642742,
+              53.22727850492
+            ],
+            [
+              -0.55563552482,
+              53.22724822677
+            ],
+            [
+              -0.55559219042,
+              53.22729014548
+            ],
+            [
+              -0.5556731,
+              53.2273205
+            ],
+            [
+              -0.55571642742,
+              53.22727850492
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "JBL",
+        "geometry_type": "Polygon",
+        "level": "1",
+        "node_type": "Block",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.55515288,
+              53.22703044716
+            ],
+            [
+              -0.55509760342,
+              53.22700952575
+            ],
+            [
+              -0.55506859681,
+              53.22699854715
+            ],
+            [
+              -0.5550996,
+              53.2269688
+            ],
+            [
+              -0.55518408292,
+              53.22700039552
+            ],
+            [
+              -0.55515288,
+              53.22703044716
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "JBL",
+        "geometry_type": "Polygon",
+        "level": "1",
+        "node_type": "Block",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.55648438302,
+              53.22748682299
+            ],
+            [
+              -0.55644307575,
+              53.22752642593
+            ],
+            [
+              -0.55651581916,
+              53.22755372802
+            ],
+            [
+              -0.5565571,
+              53.2275141
+            ],
+            [
+              -0.55648438302,
+              53.22748682299
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "JBL",
+        "geometry_type": "Polygon",
+        "level": "1",
+        "node_type": "Block",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.55578663828,
+              53.22733760686
+            ],
+            [
+              -0.55580613228,
+              53.22734489071
+            ],
+            [
+              -0.5557869,
+              53.2273632
+            ],
+            [
+              -0.5557783,
+              53.2273713
+            ],
+            [
+              -0.555759,
+              53.2273644
+            ],
+            [
+              -0.55578663828,
+              53.22733760686
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "JBL",
+        "geometry_type": "Polygon",
+        "level": "1",
+        "node_type": "Block",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.55649402763,
+              53.22757464704
+            ],
+            [
+              -0.55644999071,
+              53.22755821346
+            ],
+            [
+              -0.55643673163,
+              53.22757108799
+            ],
+            [
+              -0.55648052005,
+              53.22758761378
+            ],
+            [
+              -0.55649402763,
+              53.22757464704
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "JBL",
+        "geometry_type": "Polygon",
+        "level": "1",
+        "node_type": "Block",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.5557996,
+              53.2272016
+            ],
+            [
+              -0.55583937508,
+              53.22721660026
+            ],
+            [
+              -0.55588023079,
+              53.22717799531
+            ],
+            [
+              -0.55583962891,
+              53.22716267112
+            ],
+            [
+              -0.5557996,
+              53.2272016
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "JBL",
+        "geometry_type": "Polygon",
+        "level": "1",
+        "node_type": "Block",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.55643673163,
+              53.22757108799
+            ],
+            [
+              -0.55640780278,
+              53.22756015037
+            ],
+            [
+              -0.55638166651,
+              53.22758514648
+            ],
+            [
+              -0.5564547,
+              53.2276124
+            ],
+            [
+              -0.55648052005,
+              53.22758761378
+            ],
+            [
+              -0.55643673163,
+              53.22757108799
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "JBL",
+        "geometry_type": "Polygon",
+        "level": "1",
+        "node_type": "Block",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.55508142242,
+              53.22709786586
+            ],
+            [
+              -0.55511467103,
+              53.22706600782
+            ],
+            [
+              -0.55503095868,
+              53.22703466042
+            ],
+            [
+              -0.5549984,
+              53.2270659
+            ],
+            [
+              -0.55508142242,
+              53.22709786586
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "JBL",
+        "geometry_type": "Polygon",
+        "level": "1",
+        "node_type": "Block",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.5557777,
+              53.2272224
+            ],
+            [
+              -0.55573304873,
+              53.22726490864
+            ],
+            [
+              -0.55569028977,
+              53.22724888182
+            ],
+            [
+              -0.55573453683,
+              53.22720625762
+            ],
+            [
+              -0.5557777,
+              53.2272224
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "JBL",
+        "geometry_type": "Polygon",
+        "level": "1",
+        "node_type": "Block",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.55508658255,
+              53.22702015805
+            ],
+            [
+              -0.5551174132,
+              53.22703186566
+            ],
+            [
+              -0.55510129354,
+              53.22704660429
+            ],
+            [
+              -0.55507093096,
+              53.22703525779
+            ],
+            [
+              -0.55508658255,
+              53.22702015805
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "JBL",
+        "connected_nodes": "c_jbl1_029, l_jbl0_e01, l_jbl2_e01",
+        "geometry_type": "Polygon",
+        "id": "l_jbl1_e01",
+        "level": "1",
+        "name": "JBL1E01 (Lift 2)",
+        "node_type": "Lift",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.5557777,
+              53.2272224
+            ],
+            [
+              -0.55581767859,
+              53.22723745044
+            ],
+            [
+              -0.55583937508,
+              53.22721660026
+            ],
+            [
+              -0.5557996,
+              53.2272016
+            ],
+            [
+              -0.5557777,
+              53.2272224
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "JBL",
+        "connected_nodes": "c_jbl1_002, l_jbl0_c01, l_jbl2_c01",
+        "geometry_type": "Polygon",
+        "id": "l_jbl1_c01",
+        "level": "1",
+        "name": "JBL1C01 (Lift 1)",
+        "node_type": "Lift",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.55618901757,
+              53.2274559468
+            ],
+            [
+              -0.55614864785,
+              53.22744092728
+            ],
+            [
+              -0.55610613022,
+              53.22748232592
+            ],
+            [
+              -0.55614623249,
+              53.22749729071
+            ],
+            [
+              -0.55618901757,
+              53.2274559468
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "JBL",
+        "connected_nodes": "c_jbl1_014",
+        "geometry_type": "Polygon",
+        "id": "r_jbl1_w18",
+        "level": "1",
+        "name": "JBL1W18 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.55593146678,
+              53.22733879989
+            ],
+            [
+              -0.55597189643,
+              53.22735393804
+            ],
+            [
+              -0.55601661114,
+              53.22731134815
+            ],
+            [
+              -0.55597597893,
+              53.22729612663
+            ],
+            [
+              -0.55593146678,
+              53.22733879989
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "JBL",
+        "connected_nodes": "c_jbl1_011",
+        "geometry_type": "Polygon",
+        "id": "r_jbl1_w05",
+        "level": "1",
+        "name": "JBL1W05 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.55593587256,
+              53.22728108317
+            ],
+            [
+              -0.55589120792,
+              53.22732373458
+            ],
+            [
+              -0.55584882961,
+              53.22730780296
+            ],
+            [
+              -0.55589285592,
+              53.22726494809
+            ],
+            [
+              -0.55593587256,
+              53.22728108317
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "JBL",
+        "category": "MeetingTutorial",
+        "connected_nodes": "c_jbl1_009",
+        "geometry_type": "Polygon",
+        "id": "r_jbl1_w01",
+        "level": "1",
+        "name": "JBL1W01 (Meeting Room)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.55597189643,
+              53.22735393804
+            ],
+            [
+              -0.55601216269,
+              53.22736905679
+            ],
+            [
+              -0.55605673261,
+              53.22732637833
+            ],
+            [
+              -0.55601661114,
+              53.22731134815
+            ],
+            [
+              -0.55597189643,
+              53.22735393804
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "JBL",
+        "connected_nodes": "c_jbl1_011",
+        "geometry_type": "Polygon",
+        "id": "r_jbl1_w07",
+        "level": "1",
+        "name": "JBL1W07 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.55591347507,
+              53.22735272423
+            ],
+            [
+              -0.55587556527,
+              53.22733857044
+            ],
+            [
+              -0.55583240974,
+              53.22738018272
+            ],
+            [
+              -0.555870536,
+              53.22739441016
+            ],
+            [
+              -0.55591347507,
+              53.22735272423
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "JBL",
+        "connected_nodes": "c_jbl1_010",
+        "geometry_type": "Polygon",
+        "id": "r_jbl1_w04",
+        "level": "1",
+        "name": "JBL1W04 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.55614864785,
+              53.22744092728
+            ],
+            [
+              -0.55611150619,
+              53.2274271342
+            ],
+            [
+              -0.55606869092,
+              53.22746835486
+            ],
+            [
+              -0.55610613022,
+              53.22748232592
+            ],
+            [
+              -0.55614864785,
+              53.22744092728
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "JBL",
+        "connected_nodes": "c_jbl1_013",
+        "geometry_type": "Polygon",
+        "id": "r_jbl1_w16",
+        "level": "1",
+        "name": "JBL1W16 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.55622709139,
+              53.22752746445
+            ],
+            [
+              -0.5562568516,
+              53.22749825469
+            ],
+            [
+              -0.55626986782,
+              53.22748594037
+            ],
+            [
+              -0.55631087548,
+              53.22750126112
+            ],
+            [
+              -0.55626753701,
+              53.22754255735
+            ],
+            [
+              -0.55622709139,
+              53.22752746445
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "JBL",
+        "connected_nodes": "c_jbl1_015",
+        "geometry_type": "Polygon",
+        "id": "r_jbl1_w24",
+        "level": "1",
+        "name": "JBL1W24 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.55601216269,
+              53.22736905679
+            ],
+            [
+              -0.55604968677,
+              53.22738334477
+            ],
+            [
+              -0.55609407558,
+              53.22734036763
+            ],
+            [
+              -0.55605673261,
+              53.22732637833
+            ],
+            [
+              -0.55601216269,
+              53.22736905679
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "JBL",
+        "connected_nodes": "c_jbl1_012",
+        "geometry_type": "Polygon",
+        "id": "r_jbl1_w09",
+        "level": "1",
+        "name": "JBL1W09 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.55611150619,
+              53.2274271342
+            ],
+            [
+              -0.55607158213,
+              53.22741210123
+            ],
+            [
+              -0.55602879388,
+              53.22745346665
+            ],
+            [
+              -0.55606869092,
+              53.22746835486
+            ],
+            [
+              -0.55611150619,
+              53.2274271342
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "JBL",
+        "connected_nodes": "c_jbl1_013",
+        "geometry_type": "Polygon",
+        "id": "r_jbl1_w14",
+        "level": "1",
+        "name": "JBL1W14 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.55603210607,
+              53.22739735647
+            ],
+            [
+              -0.5559926598,
+              53.22738262088
+            ],
+            [
+              -0.55595024159,
+              53.2274241536
+            ],
+            [
+              -0.55598945396,
+              53.22743878633
+            ],
+            [
+              -0.55603210607,
+              53.22739735647
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "JBL",
+        "connected_nodes": "c_jbl1_012",
+        "geometry_type": "Polygon",
+        "id": "r_jbl1_w10",
+        "level": "1",
+        "name": "JBL1W10 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.5559926598,
+              53.22738262088
+            ],
+            [
+              -0.55595376218,
+              53.22736775103
+            ],
+            [
+              -0.55591073753,
+              53.22740941202
+            ],
+            [
+              -0.55595024159,
+              53.2274241536
+            ],
+            [
+              -0.5559926598,
+              53.22738262088
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "JBL",
+        "connected_nodes": "c_jbl1_011",
+        "geometry_type": "Polygon",
+        "id": "r_jbl1_w08",
+        "level": "1",
+        "name": "JBL1W08 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.55620702611,
+              53.22744248311
+            ],
+            [
+              -0.55624701843,
+              53.22745749341
+            ],
+            [
+              -0.55626082351,
+              53.22744425963
+            ],
+            [
+              -0.55629214306,
+              53.22741456697
+            ],
+            [
+              -0.55625195727,
+              53.22739951272
+            ],
+            [
+              -0.55620702611,
+              53.22744248311
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "JBL",
+        "connected_nodes": "c_jbl1_014",
+        "geometry_type": "Polygon",
+        "id": "r_jbl1_w19",
+        "level": "1",
+        "name": "JBL1W19 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.55607158213,
+              53.22741210123
+            ],
+            [
+              -0.55603210607,
+              53.22739735647
+            ],
+            [
+              -0.55598945396,
+              53.22743878633
+            ],
+            [
+              -0.55602879388,
+              53.22745346665
+            ],
+            [
+              -0.55607158213,
+              53.22741210123
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "JBL",
+        "connected_nodes": "c_jbl1_012",
+        "geometry_type": "Polygon",
+        "id": "r_jbl1_w12",
+        "level": "1",
+        "name": "JBL1W12 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.55626082351,
+              53.22744425963
+            ],
+            [
+              -0.55629885812,
+              53.22745871949
+            ],
+            [
+              -0.5563302984,
+              53.22742880339
+            ],
+            [
+              -0.55629214306,
+              53.22741456697
+            ],
+            [
+              -0.55626082351,
+              53.22744425963
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "JBL",
+        "connected_nodes": "c_jbl1_016",
+        "geometry_type": "Polygon",
+        "id": "r_jbl1_w21",
+        "level": "1",
+        "name": "JBL1W21 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.55604968677,
+              53.22738334477
+            ],
+            [
+              -0.55608902987,
+              53.22739807223
+            ],
+            [
+              -0.556133991,
+              53.22735532062
+            ],
+            [
+              -0.55609407558,
+              53.22734036763
+            ],
+            [
+              -0.55604968677,
+              53.22738334477
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "JBL",
+        "connected_nodes": "c_jbl1_012",
+        "geometry_type": "Polygon",
+        "id": "r_jbl1_w11",
+        "level": "1",
+        "name": "JBL1W11 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.55629885812,
+              53.22745871949
+            ],
+            [
+              -0.55628511692,
+              53.22747204881
+            ],
+            [
+              -0.55632559914,
+              53.22748705676
+            ],
+            [
+              -0.55637067439,
+              53.22744398606
+            ],
+            [
+              -0.5563302984,
+              53.22742880339
+            ],
+            [
+              -0.55629885812,
+              53.22745871949
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "JBL",
+        "connected_nodes": "c_jbl1_016",
+        "geometry_type": "Polygon",
+        "id": "r_jbl1_w23",
+        "level": "1",
+        "name": "JBL1W23 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.55608902987,
+              53.22739807223
+            ],
+            [
+              -0.55612840437,
+              53.22741291398
+            ],
+            [
+              -0.5561733183,
+              53.22737005328
+            ],
+            [
+              -0.556133991,
+              53.22735532062
+            ],
+            [
+              -0.55608902987,
+              53.22739807223
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "JBL",
+        "connected_nodes": "c_jbl1_013",
+        "geometry_type": "Polygon",
+        "id": "r_jbl1_w13",
+        "level": "1",
+        "name": "JBL1W13 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.55595376218,
+              53.22736775103
+            ],
+            [
+              -0.55591347507,
+              53.22735272423
+            ],
+            [
+              -0.555870536,
+              53.22739441016
+            ],
+            [
+              -0.55591073753,
+              53.22740941202
+            ],
+            [
+              -0.55595376218,
+              53.22736775103
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "JBL",
+        "connected_nodes": "c_jbl1_011",
+        "geometry_type": "Polygon",
+        "id": "r_jbl1_w06",
+        "level": "1",
+        "name": "JBL1W06 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.55612840437,
+              53.22741291398
+            ],
+            [
+              -0.55616774914,
+              53.22742774649
+            ],
+            [
+              -0.55621244773,
+              53.2273847118
+            ],
+            [
+              -0.5561733183,
+              53.22737005328
+            ],
+            [
+              -0.55612840437,
+              53.22741291398
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "JBL",
+        "connected_nodes": "c_jbl1_013",
+        "geometry_type": "Polygon",
+        "id": "r_jbl1_w15",
+        "level": "1",
+        "name": "JBL1W15 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.55621677776,
+              53.22748334611
+            ],
+            [
+              -0.55622972398,
+              53.22747116491
+            ],
+            [
+              -0.55618901757,
+              53.2274559468
+            ],
+            [
+              -0.55614623249,
+              53.22749729071
+            ],
+            [
+              -0.5561867822,
+              53.22751241331
+            ],
+            [
+              -0.55621677776,
+              53.22748334611
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "JBL",
+        "connected_nodes": "c_jbl1_014",
+        "geometry_type": "Polygon",
+        "id": "r_jbl1_w20",
+        "level": "1",
+        "name": "JBL1W20 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.55616774914,
+              53.22742774649
+            ],
+            [
+              -0.55620702611,
+              53.22744248311
+            ],
+            [
+              -0.55625195727,
+              53.22739951272
+            ],
+            [
+              -0.55621244773,
+              53.2273847118
+            ],
+            [
+              -0.55616774914,
+              53.22742774649
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "JBL",
+        "connected_nodes": "c_jbl1_014",
+        "geometry_type": "Polygon",
+        "id": "r_jbl1_w17",
+        "level": "1",
+        "name": "JBL1W17 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.5562568516,
+              53.22749825469
+            ],
+            [
+              -0.55621677776,
+              53.22748334611
+            ],
+            [
+              -0.5561867822,
+              53.22751241331
+            ],
+            [
+              -0.55622709139,
+              53.22752746445
+            ],
+            [
+              -0.5562568516,
+              53.22749825469
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "JBL",
+        "connected_nodes": "c_jbl1_015",
+        "geometry_type": "Polygon",
+        "id": "r_jbl1_w22",
+        "level": "1",
+        "name": "JBL1W22 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.55589120792,
+              53.22732373458
+            ],
+            [
+              -0.55593146678,
+              53.22733879989
+            ],
+            [
+              -0.55597597893,
+              53.22729612663
+            ],
+            [
+              -0.55593587256,
+              53.22728108317
+            ],
+            [
+              -0.55589120792,
+              53.22732373458
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "JBL",
+        "connected_nodes": "c_jbl1_010",
+        "geometry_type": "Polygon",
+        "id": "r_jbl1_w03",
+        "level": "1",
+        "name": "JBL1W03 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.55580613228,
+              53.22734489071
+            ],
+            [
+              -0.55583033223,
+              53.2273216892
+            ],
+            [
+              -0.55587556527,
+              53.22733857044
+            ],
+            [
+              -0.55583240974,
+              53.22738018272
+            ],
+            [
+              -0.5557869,
+              53.2273632
+            ],
+            [
+              -0.55580613228,
+              53.22734489071
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "JBL",
+        "category": "MeetingTutorial",
+        "connected_nodes": "c_jbl1_009",
+        "geometry_type": "Polygon",
+        "id": "r_jbl1_w02",
+        "level": "1",
+        "name": "JBL1W02 (Meeting Room)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.55521740359,
+              53.22707091536
+            ],
+            [
+              -0.55514083081,
+              53.22704205177
+            ],
+            [
+              -0.55515288,
+              53.22703044716
+            ],
+            [
+              -0.55518408292,
+              53.22700039552
+            ],
+            [
+              -0.55526083714,
+              53.22702910059
+            ],
+            [
+              -0.55521740359,
+              53.22707091536
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "JBL",
+        "connected_nodes": "c_jbl1_028",
+        "geometry_type": "Polygon",
+        "id": "r_jbl1_e16",
+        "level": "1",
+        "name": "JBL1E16 (Molecular Biology Lab)",
+        "node_type": "Room",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.55518111564,
+              53.2271057036
+            ],
+            [
+              -0.55520306608,
+              53.22708473954
+            ],
+            [
+              -0.55516466742,
+              53.22707029833
+            ],
+            [
+              -0.55514284665,
+              53.22709131885
+            ],
+            [
+              -0.55518111564,
+              53.2271057036
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "JBL",
+        "connected_nodes": "c_jbl1_027",
+        "geometry_type": "Polygon",
+        "id": "r_jbl1_e18",
+        "level": "1",
+        "name": "JBL1E18 (Molecular Biology Lab)",
+        "node_type": "Room",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.55512045119,
+              53.22711289298
+            ],
+            [
+              -0.55508142242,
+              53.22709786586
+            ],
+            [
+              -0.55511467103,
+              53.22706600782
+            ],
+            [
+              -0.55512548612,
+              53.22705564505
+            ],
+            [
+              -0.55516466742,
+              53.22707029833
+            ],
+            [
+              -0.55514284665,
+              53.22709131885
+            ],
+            [
+              -0.55512045119,
+              53.22711289298
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "JBL",
+        "connected_nodes": "c_jbl1_028",
+        "geometry_type": "Polygon",
+        "id": "r_jbl1_e17",
+        "level": "1",
+        "name": "JBL1E17 (Molecular Biology Lab)",
+        "node_type": "Room",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.55557224421,
+              53.22720452638
+            ],
+            [
+              -0.55553291105,
+              53.22718979081
+            ],
+            [
+              -0.55557700761,
+              53.22714734398
+            ],
+            [
+              -0.55561608618,
+              53.22716195881
+            ],
+            [
+              -0.55557224421,
+              53.22720452638
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "JBL",
+        "connected_nodes": "c_jbl1_021",
+        "geometry_type": "Polygon",
+        "id": "r_jbl1_e08",
+        "level": "1",
+        "name": "JBL1E08 (Molecular Biology Lab)",
+        "node_type": "Room",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.5559804035,
+              53.22719650975
+            ],
+            [
+              -0.55588706148,
+              53.22716156933
+            ],
+            [
+              -0.55597043423,
+              53.22708195294
+            ],
+            [
+              -0.5561026,
+              53.2271315
+            ],
+            [
+              -0.5560588,
+              53.2271742
+            ],
+            [
+              -0.55601982878,
+              53.22721127021
+            ],
+            [
+              -0.5559804035,
+              53.22719650975
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "JBL",
+        "connected_nodes": "c_jbl1_007",
+        "geometry_type": "Polygon",
+        "id": "r_jbl1_c04",
+        "level": "1",
+        "name": "JBL1C04 (Learning Lounge)",
+        "node_type": "Room",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.55531573656,
+              53.22708132148
+            ],
+            [
+              -0.55535565804,
+              53.22709622976
+            ],
+            [
+              -0.55537943739,
+              53.22707345549
+            ],
+            [
+              -0.55533975424,
+              53.22705861453
+            ],
+            [
+              -0.55531573656,
+              53.22708132148
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "JBL",
+        "connected_nodes": "r_jbl1_e12",
+        "geometry_type": "Polygon",
+        "id": "r_jbl1_e14",
+        "level": "1",
+        "name": "JBL1E14 (Molecular Biology Lab)",
+        "node_type": "Room",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.55514284665,
+              53.22709131885
+            ],
+            [
+              -0.55518111564,
+              53.2271057036
+            ],
+            [
+              -0.55515839888,
+              53.22712740132
+            ],
+            [
+              -0.555148,
+              53.2271235
+            ],
+            [
+              -0.55512045119,
+              53.22711289298
+            ],
+            [
+              -0.55514284665,
+              53.22709131885
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "JBL",
+        "connected_nodes": "c_jbl1_027",
+        "geometry_type": "Polygon",
+        "id": "r_jbl1_e19",
+        "level": "1",
+        "name": "JBL1E19 (Molecular Biology Lab)",
+        "node_type": "Room",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.55553291105,
+              53.22718979081
+            ],
+            [
+              -0.55548748784,
+              53.22717285264
+            ],
+            [
+              -0.55553194064,
+              53.22713048958
+            ],
+            [
+              -0.55557700761,
+              53.22714734398
+            ],
+            [
+              -0.55553291105,
+              53.22718979081
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "JBL",
+        "connected_nodes": "c_jbl1_022",
+        "geometry_type": "Polygon",
+        "id": "r_jbl1_e09",
+        "level": "1",
+        "name": "JBL1E09 (Molecular Biology Lab)",
+        "node_type": "Room",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.55535565804,
+              53.22709622976
+            ],
+            [
+              -0.55531573656,
+              53.22708132148
+            ],
+            [
+              -0.55529568927,
+              53.22710042457
+            ],
+            [
+              -0.55533561108,
+              53.22711542939
+            ],
+            [
+              -0.55535565804,
+              53.22709622976
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "JBL",
+        "connected_nodes": "r_jbl1_e12",
+        "geometry_type": "Polygon",
+        "id": "r_jbl1_e13",
+        "level": "1",
+        "name": "JBL1E13 (Molecular Biology Lab)",
+        "node_type": "Room",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.55559219042,
+              53.22729014548
+            ],
+            [
+              -0.55554759973,
+              53.22727341657
+            ],
+            [
+              -0.55559120345,
+              53.22723163667
+            ],
+            [
+              -0.55563552482,
+              53.22724822677
+            ],
+            [
+              -0.55559219042,
+              53.22729014548
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "JBL",
+        "connected_nodes": "c_jbl1_019",
+        "geometry_type": "Polygon",
+        "id": "r_jbl1_e03",
+        "level": "1",
+        "name": "JBL1E03 (Molecular Biology Lab)",
+        "node_type": "Room",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.55548748784,
+              53.22717285264
+            ],
+            [
+              -0.55545276998,
+              53.227159959
+            ],
+            [
+              -0.55549716507,
+              53.22711748401
+            ],
+            [
+              -0.55553194064,
+              53.22713048958
+            ],
+            [
+              -0.55548748784,
+              53.22717285264
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "JBL",
+        "connected_nodes": "c_jbl1_023",
+        "geometry_type": "Polygon",
+        "id": "r_jbl1_e10",
+        "level": "1",
+        "name": "JBL1E10 (Molecular Biology Lab)",
+        "node_type": "Room",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.55537494425,
+              53.22713016499
+            ],
+            [
+              -0.55533561108,
+              53.22711542939
+            ],
+            [
+              -0.55535565804,
+              53.22709622976
+            ],
+            [
+              -0.55537943739,
+              53.22707345549
+            ],
+            [
+              -0.55541860637,
+              53.22708810415
+            ],
+            [
+              -0.55537494425,
+              53.22713016499
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "JBL",
+        "connected_nodes": "c_jbl1_025, r_jbl1_e13, r_jbl1_e14",
+        "geometry_type": "Polygon",
+        "id": "r_jbl1_e12",
+        "level": "1",
+        "name": "JBL1E12 (Molecular Biology Lab)",
+        "node_type": "Room",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.55560599447,
+              53.2272171351
+            ],
+            [
+              -0.55557224421,
+              53.22720452638
+            ],
+            [
+              -0.55561608618,
+              53.22716195881
+            ],
+            [
+              -0.55565039825,
+              53.22717479103
+            ],
+            [
+              -0.55560599447,
+              53.2272171351
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "JBL",
+        "connected_nodes": "c_jbl1_020",
+        "geometry_type": "Polygon",
+        "id": "r_jbl1_e07",
+        "level": "1",
+        "name": "JBL1E07 (Molecular Biology Lab)",
+        "node_type": "Room",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.55569028977,
+              53.22724888182
+            ],
+            [
+              -0.55565116417,
+              53.2272340734
+            ],
+            [
+              -0.55569535553,
+              53.22719160439
+            ],
+            [
+              -0.55573453683,
+              53.22720625762
+            ],
+            [
+              -0.55569028977,
+              53.22724888182
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "JBL",
+        "connected_nodes": "c_jbl1_018",
+        "geometry_type": "Polygon",
+        "id": "r_jbl1_e04",
+        "level": "1",
+        "name": "JBL1E04 (Molecular Biology Lab)",
+        "node_type": "Room",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.55537494425,
+              53.22713016499
+            ],
+            [
+              -0.55545276998,
+              53.227159959
+            ],
+            [
+              -0.55549716507,
+              53.22711748401
+            ],
+            [
+              -0.55541860637,
+              53.22708810415
+            ],
+            [
+              -0.55537494425,
+              53.22713016499
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "JBL",
+        "connected_nodes": "c_jbl1_024",
+        "geometry_type": "Polygon",
+        "id": "r_jbl1_e06",
+        "level": "1",
+        "name": "JBL1E06 (Molecular Biology Lab)",
+        "node_type": "Room",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.55565116417,
+              53.2272340734
+            ],
+            [
+              -0.55560599447,
+              53.2272171351
+            ],
+            [
+              -0.55565039825,
+              53.22717479103
+            ],
+            [
+              -0.55569535553,
+              53.22719160439
+            ],
+            [
+              -0.55565116417,
+              53.2272340734
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "JBL",
+        "connected_nodes": "c_jbl1_019",
+        "geometry_type": "Polygon",
+        "id": "r_jbl1_e05",
+        "level": "1",
+        "name": "JBL1E05 (Molecular Biology Lab)",
+        "node_type": "Room",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.55529568927,
+              53.22710042457
+            ],
+            [
+              -0.55521740359,
+              53.22707091536
+            ],
+            [
+              -0.55526083714,
+              53.22702910059
+            ],
+            [
+              -0.55533975424,
+              53.22705861453
+            ],
+            [
+              -0.55531573656,
+              53.22708132148
+            ],
+            [
+              -0.55529568927,
+              53.22710042457
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "JBL",
+        "connected_nodes": "c_jbl1_026",
+        "geometry_type": "Polygon",
+        "id": "r_jbl1_e15",
+        "level": "1",
+        "name": "JBL1E15 (Molecular Biology Lab)",
+        "node_type": "Room",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.55589285592,
+              53.22726494809
+            ],
+            [
+              -0.55585257079,
+              53.22724986925
+            ],
+            [
+              -0.5558996437,
+              53.2272050549
+            ],
+            [
+              -0.55593999191,
+              53.2272200943
+            ],
+            [
+              -0.5559139,
+              53.2272448
+            ],
+            [
+              -0.55589285592,
+              53.22726494809
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "JBL",
+        "connected_nodes": "c_jbl1_004, s_jbl0_c02,s_jbl2_c02",
+        "geometry_type": "Polygon",
+        "id": "s_jbl1_c02",
+        "level": "1",
+        "name": "Main Stairs",
+        "node_type": "Stairs",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.55644307575,
+              53.22752642593
+            ],
+            [
+              -0.55642103145,
+              53.22754728436
+            ],
+            [
+              -0.55644999071,
+              53.22755821346
+            ],
+            [
+              -0.55649402763,
+              53.22757464704
+            ],
+            [
+              -0.55651581916,
+              53.22755372802
+            ],
+            [
+              -0.55644307575,
+              53.22752642593
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "JBL",
+        "connected_nodes": "c_jbl1_017, s_jbl0_w01, s_jbl2_w01",
+        "geometry_type": "Polygon",
+        "id": "s_jbl1_w01",
+        "level": "1",
+        "name": "JBL1W01 (Stairs 1)",
+        "node_type": "Stairs",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.55512548612,
+              53.22705564505
+            ],
+            [
+              -0.55510129354,
+              53.22704660429
+            ],
+            [
+              -0.55507093096,
+              53.22703525779
+            ],
+            [
+              -0.55508658255,
+              53.22702015805
+            ],
+            [
+              -0.55509760342,
+              53.22700952575
+            ],
+            [
+              -0.55506859681,
+              53.22699854715
+            ],
+            [
+              -0.55503095868,
+              53.22703466042
+            ],
+            [
+              -0.55511467103,
+              53.22706600782
+            ],
+            [
+              -0.55512548612,
+              53.22705564505
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "JBL",
+        "connected_nodes": "c_jbl1_029, s_jbl0_e02, s_jbl2_e02",
+        "geometry_type": "Polygon",
+        "id": "s_jbl1_e02",
+        "level": "1",
+        "name": "JBL1E02 (Stairs 5)",
+        "node_type": "Stairs",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.555759,
+              53.2273644
+            ],
+            [
+              -0.55578663828,
+              53.22733760686
+            ],
+            [
+              -0.55581070038,
+              53.22731428053
+            ],
+            [
+              -0.5557364749,
+              53.22728602475
+            ],
+            [
+              -0.5556843,
+              53.2273364
+            ],
+            [
+              -0.5556755,
+              53.2273449
+            ],
+            [
+              -0.5557498,
+              53.2273732
+            ],
+            [
+              -0.555759,
+              53.2273644
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "JBL",
+        "connected_nodes": "c_jbl1_001, s_jbl0_c01, s_jbl2_c01",
+        "geometry_type": "Polygon",
+        "id": "s_jbl1_c01",
+        "level": "1",
+        "name": "JBL1C01 (Stairs 2)",
+        "node_type": "Stairs",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.55596609977,
+              53.22721042305
+            ],
+            [
+              -0.5559804035,
+              53.22719650975
+            ],
+            [
+              -0.55601982878,
+              53.22721127021
+            ],
+            [
+              -0.55600531102,
+              53.22722507978
+            ],
+            [
+              -0.55596609977,
+              53.22721042305
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "JBL",
+        "connected_nodes": "c_jbl1_006",
+        "geometry_type": "Polygon",
+        "id": "wcd_jbl1_c05",
+        "level": "1",
+        "name": "Disabled & Gender Neutral Toilet",
+        "node_type": "wcd",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.55583962891,
+              53.22716267112
+            ],
+            [
+              -0.55582439701,
+              53.22715698018
+            ],
+            [
+              -0.5557860458,
+              53.22714265141
+            ],
+            [
+              -0.5557453,
+              53.2271816
+            ],
+            [
+              -0.5557996,
+              53.2272016
+            ],
+            [
+              -0.55583962891,
+              53.22716267112
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "JBL",
+        "connected_nodes": "c_jbl1_008",
+        "geometry_type": "Polygon",
+        "id": "wcf_jbl1_c02",
+        "level": "1",
+        "name": "JBL1C02 (Female WC)",
+        "node_type": "wcf",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.55593999191,
+              53.2272200943
+            ],
+            [
+              -0.55595458325,
+              53.2272061183
+            ],
+            [
+              -0.55596609977,
+              53.22721042305
+            ],
+            [
+              -0.55600531102,
+              53.22722507978
+            ],
+            [
+              -0.5559645,
+              53.2272639
+            ],
+            [
+              -0.5559139,
+              53.2272448
+            ],
+            [
+              -0.55593999191,
+              53.2272200943
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "JBL",
+        "connected_nodes": "c_jbl1_006",
+        "geometry_type": "Polygon",
+        "id": "wcm_jbl1_c06",
+        "level": "1",
+        "name": "JBL1C06 (Male WC)",
+        "node_type": "wcm",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.55582439701,
+              53.22715698018
+            ],
+            [
+              -0.55583867724,
+              53.22714330213
+            ],
+            [
+              -0.5558003194,
+              53.22712900739
+            ],
+            [
+              -0.5557860458,
+              53.22714265141
+            ],
+            [
+              -0.55582439701,
+              53.22715698018
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "JBL",
+        "connected_nodes": "c_jbl1_008",
+        "geometry_type": "Polygon",
+        "id": "wcs_jbl1_c01",
+        "level": "1",
+        "name": "Shower Room",
+        "node_type": "wcs",
+        "NAV_FEATURE": "yes"
+      }
+    }
+  ]
+}

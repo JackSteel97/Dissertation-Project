@@ -1,0 +1,544 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.55632664678,
+              53.22882304354
+            ],
+            [
+              -0.55629819636,
+              53.22880581187
+            ],
+            [
+              -0.55631814533,
+              53.22879384496
+            ],
+            [
+              -0.55634657522,
+              53.22881126394
+            ],
+            [
+              -0.55632664678,
+              53.22882304354
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "CSB",
+        "geometry_type": "Polygon",
+        "level": "0",
+        "node_type": "Block",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.55622662408,
+              53.22877808424
+            ],
+            [
+              -0.5561993195,
+              53.22876172471
+            ],
+            [
+              -0.55622501476,
+              53.22874642378
+            ],
+            [
+              -0.55625217971,
+              53.22876306205
+            ],
+            [
+              -0.55622662408,
+              53.22877808424
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "CSB",
+        "geometry_type": "Polygon",
+        "level": "0",
+        "node_type": "Block",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.55629819636,
+              53.22880581187
+            ],
+            [
+              -0.55627577477,
+              53.2287922644
+            ],
+            [
+              -0.55629978892,
+              53.22877819007
+            ],
+            [
+              -0.55632191719,
+              53.22879158705
+            ],
+            [
+              -0.55631814533,
+              53.22879384496
+            ],
+            [
+              -0.55629819636,
+              53.22880581187
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "CSB",
+        "connected_nodes": "c_csb0_009, l_csb1_053",
+        "geometry_type": "Polygon",
+        "id": "l_csb0_053",
+        "level": "0",
+        "name": "CSB0053 (Lift)",
+        "node_type": "Lift",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.55625304296,
+              53.22886656546
+            ],
+            [
+              -0.55627810873,
+              53.22885173996
+            ],
+            [
+              -0.55621187341,
+              53.22881155038
+            ],
+            [
+              -0.55616421164,
+              53.22878263063
+            ],
+            [
+              -0.5561993195,
+              53.22876172471
+            ],
+            [
+              -0.55622501476,
+              53.22874642378
+            ],
+            [
+              -0.55625197016,
+              53.22873037245
+            ],
+            [
+              -0.55623196666,
+              53.22871826189
+            ],
+            [
+              -0.55618540753,
+              53.22869007398
+            ],
+            [
+              -0.5559983,
+              53.2288007
+            ],
+            [
+              -0.55613357814,
+              53.22888270492
+            ],
+            [
+              -0.55620775566,
+              53.22883915372
+            ],
+            [
+              -0.55625304296,
+              53.22886656546
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "CSB",
+        "connected_nodes": "r_csb0_002, c_csb0_002, c_csb0_008",
+        "geometry_type": "Polygon",
+        "id": "r_csb0_001",
+        "level": "0",
+        "name": "CSB0001 (Estates & CS Support Desk)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.55631550499,
+              53.2287687821
+            ],
+            [
+              -0.55634149742,
+              53.22875342107
+            ],
+            [
+              -0.55641378852,
+              53.22871069838
+            ],
+            [
+              -0.5564646,
+              53.2287415
+            ],
+            [
+              -0.55636648191,
+              53.22879949719
+            ],
+            [
+              -0.55631550499,
+              53.2287687821
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "CSB",
+        "connected_nodes": "c_csb0_006",
+        "geometry_type": "Polygon",
+        "id": "r_csb0_005",
+        "level": "0",
+        "name": "CSB0005 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.55625304296,
+              53.22886656546
+            ],
+            [
+              -0.55620775566,
+              53.22883915372
+            ],
+            [
+              -0.55613357814,
+              53.22888270492
+            ],
+            [
+              -0.5561791,
+              53.2289103
+            ],
+            [
+              -0.55625304296,
+              53.22886656546
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "CSB",
+        "category": "MeetingTutorial",
+        "connected_nodes": "r_csb0_001, c_csb0_002",
+        "geometry_type": "Polygon",
+        "id": "r_csb0_002",
+        "level": "0",
+        "name": "CSB0002 (Meeting Room)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.55626676422,
+              53.2287081696
+            ],
+            [
+              -0.55625800513,
+              53.22870287604
+            ],
+            [
+              -0.55623196666,
+              53.22871826189
+            ],
+            [
+              -0.55618540753,
+              53.22869007398
+            ],
+            [
+              -0.5562838,
+              53.2286319
+            ],
+            [
+              -0.55633874509,
+              53.22866520745
+            ],
+            [
+              -0.55626676422,
+              53.2287081696
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "CSB",
+        "connected_nodes": "c_csb0_008",
+        "geometry_type": "Polygon",
+        "id": "r_csb0_006",
+        "level": "0",
+        "name": "CSB0006 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.55634149742,
+              53.22875342107
+            ],
+            [
+              -0.55626676422,
+              53.2287081696
+            ],
+            [
+              -0.55633874509,
+              53.22866520745
+            ],
+            [
+              -0.55641378852,
+              53.22871069838
+            ],
+            [
+              -0.55634149742,
+              53.22875342107
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "CSB",
+        "connected_nodes": "c_csb0_007",
+        "geometry_type": "Polygon",
+        "id": "r_csb0_004",
+        "level": "0",
+        "name": "CSB0004 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.55634657522,
+              53.22881126394
+            ],
+            [
+              -0.55631814533,
+              53.22879384496
+            ],
+            [
+              -0.55632191719,
+              53.22879158705
+            ],
+            [
+              -0.55629978892,
+              53.22877819007
+            ],
+            [
+              -0.55631550499,
+              53.2287687821
+            ],
+            [
+              -0.55636648191,
+              53.22879949719
+            ],
+            [
+              -0.55634657522,
+              53.22881126394
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "CSB",
+        "connected_nodes": "c_csb0_005, s_csb1_051",
+        "geometry_type": "Polygon",
+        "id": "s_csb0_060",
+        "level": "0",
+        "name": "CSB0060 (Stairs)",
+        "node_type": "Stairs",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.55624740207,
+              53.22879053336
+            ],
+            [
+              -0.55627242201,
+              53.2287754304
+            ],
+            [
+              -0.55625217971,
+              53.22876306205
+            ],
+            [
+              -0.55622662408,
+              53.22877808424
+            ],
+            [
+              -0.55624740207,
+              53.22879053336
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "CSB",
+        "connected_nodes": "c_csb0_004",
+        "geometry_type": "Polygon",
+        "id": "wcd_csb0_057",
+        "level": "0",
+        "name": "Disabled & Gender Neutral Toilet",
+        "node_type": "wcd",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.55621187341,
+              53.22881155038
+            ],
+            [
+              -0.55624740207,
+              53.22879053336
+            ],
+            [
+              -0.55622662408,
+              53.22877808424
+            ],
+            [
+              -0.5561993195,
+              53.22876172471
+            ],
+            [
+              -0.55616421164,
+              53.22878263063
+            ],
+            [
+              -0.55621187341,
+              53.22881155038
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "CSB",
+        "connected_nodes": "c_csb0_003",
+        "geometry_type": "Polygon",
+        "id": "wcf_csb0_056",
+        "level": "0",
+        "name": "CSB0056 (Female WC)",
+        "node_type": "wcf",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.55625217971,
+              53.22876306205
+            ],
+            [
+              -0.55622501476,
+              53.22874642378
+            ],
+            [
+              -0.55625197016,
+              53.22873037245
+            ],
+            [
+              -0.55629978896,
+              53.22875917344
+            ],
+            [
+              -0.55627242201,
+              53.2287754304
+            ],
+            [
+              -0.55625217971,
+              53.22876306205
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "CSB",
+        "connected_nodes": "c_csb0_004",
+        "geometry_type": "Polygon",
+        "id": "wcm_csb0_059",
+        "level": "0",
+        "name": "CSB0059 (Male WC)",
+        "node_type": "wcm",
+        "NAV_FEATURE": "yes"
+      }
+    }
+  ]
+}

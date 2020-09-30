@@ -1,0 +1,858 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54884172917,
+              53.22926470908
+            ],
+            [
+              -0.54883788748,
+              53.22926364547
+            ],
+            [
+              -0.54884946056,
+              53.22924849627
+            ],
+            [
+              -0.54880436878,
+              53.2292360492
+            ],
+            [
+              -0.54879250757,
+              53.2292511984
+            ],
+            [
+              -0.5487891461,
+              53.22925022104
+            ],
+            [
+              -0.54880297617,
+              53.22923247031
+            ],
+            [
+              -0.54885541517,
+              53.22924672838
+            ],
+            [
+              -0.54884172917,
+              53.22926470908
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "SS",
+        "geometry_type": "Polygon",
+        "level": "1",
+        "node_type": "block",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54887510981,
+              53.22928537797
+            ],
+            [
+              -0.5488926375,
+              53.22929026481
+            ],
+            [
+              -0.54888089635,
+              53.22930565115
+            ],
+            [
+              -0.54886310454,
+              53.22930074276
+            ],
+            [
+              -0.54887510981,
+              53.22928537797
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "SS",
+        "geometry_type": "Polygon",
+        "level": "1",
+        "node_type": "block",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54885911879,
+              53.2292809403
+            ],
+            [
+              -0.54883172278,
+              53.22927330461
+            ],
+            [
+              -0.54882347516,
+              53.22928399996
+            ],
+            [
+              -0.5488507091,
+              53.2292914973
+            ],
+            [
+              -0.54885911879,
+              53.2292809403
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "SS",
+        "geometry_type": "Polygon",
+        "level": "1",
+        "node_type": "block",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.5488541246,
+              53.22931247835
+            ],
+            [
+              -0.54884850614,
+              53.22931944927
+            ],
+            [
+              -0.54883217898,
+              53.2293148499
+            ],
+            [
+              -0.54883762937,
+              53.22930793647
+            ],
+            [
+              -0.5488541246,
+              53.22931247835
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "SS",
+        "geometry_type": "Polygon",
+        "level": "1",
+        "node_type": "block",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54881988558,
+              53.22928849333
+            ],
+            [
+              -0.54877133629,
+              53.22927501141
+            ],
+            [
+              -0.54878235204,
+              53.22926038048
+            ],
+            [
+              -0.54880003903,
+              53.22926540474
+            ],
+            [
+              -0.54879417448,
+              53.22927346113
+            ],
+            [
+              -0.5488123943,
+              53.22927848969
+            ],
+            [
+              -0.54882497582,
+              53.2292820039
+            ],
+            [
+              -0.54881988558,
+              53.22928849333
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "SS",
+        "geometry_type": "Polygon",
+        "level": "1",
+        "node_type": "block",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.5488123943,
+              53.22927848969
+            ],
+            [
+              -0.54879417448,
+              53.22927346113
+            ],
+            [
+              -0.54880003903,
+              53.22926540474
+            ],
+            [
+              -0.54881848647,
+              53.2292706275
+            ],
+            [
+              -0.5488123943,
+              53.22927848969
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "SS",
+        "connected_nodes": "c_ss1_002,l_ss0_59",
+        "geometry_type": "Polygon",
+        "id": "l_ss1_59",
+        "level": "1",
+        "name": "Lift",
+        "node_type": "lift",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54892632512,
+              53.22929349096
+            ],
+            [
+              -0.54891028434,
+              53.22931381719
+            ],
+            [
+              -0.54893951754,
+              53.22932189383
+            ],
+            [
+              -0.54896183886,
+              53.22929287262
+            ],
+            [
+              -0.5489469013,
+              53.2292887772
+            ],
+            [
+              -0.54894037044,
+              53.2292971998
+            ],
+            [
+              -0.54892632512,
+              53.22929349096
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "SS",
+        "connected_nodes": "c_ss1_006",
+        "geometry_type": "Polygon",
+        "id": "r_ss1_05",
+        "level": "1",
+        "name": "SS105 (Interview Room 5)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54869798411,
+              53.22921463692
+            ],
+            [
+              -0.54871527169,
+              53.22919224367
+            ],
+            [
+              -0.5487572421,
+              53.22920391461
+            ],
+            [
+              -0.54873976243,
+              53.22922630785
+            ],
+            [
+              -0.54869798411,
+              53.22921463692
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "SS",
+        "connected_nodes": "c_ss1_003",
+        "geometry_type": "Polygon",
+        "id": "r_ss1_13",
+        "level": "1",
+        "name": "SS113 (Assessment Centre)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54882346315,
+              53.22928487492
+            ],
+            [
+              -0.54882024574,
+              53.22928895686
+            ],
+            [
+              -0.54880703995,
+              53.22928524862
+            ],
+            [
+              -0.54879244154,
+              53.22930387608
+            ],
+            [
+              -0.54883220299,
+              53.22931482834
+            ],
+            [
+              -0.54884982672,
+              53.22929217642
+            ],
+            [
+              -0.54882346315,
+              53.22928487492
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "SS",
+        "connected_nodes": "c_ss1_005",
+        "geometry_type": "Polygon",
+        "id": "r_ss1_08",
+        "level": "1",
+        "name": "Kitchen",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54863488443,
+              53.22919715926
+            ],
+            [
+              -0.5486553414,
+              53.22920282225
+            ],
+            [
+              -0.54867262898,
+              53.22918065897
+            ],
+            [
+              -0.54865164378,
+              53.22917502472
+            ],
+            [
+              -0.54863488443,
+              53.22919715926
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "SS",
+        "connected_nodes": "c_ss1_003",
+        "geometry_type": "Polygon",
+        "id": "r_ss1_11",
+        "level": "1",
+        "name": "SS111 (Store)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54890481249,
+              53.22927679922
+            ],
+            [
+              -0.54893284637,
+              53.22928465152
+            ],
+            [
+              -0.54894791271,
+              53.2292650432
+            ],
+            [
+              -0.54892025361,
+              53.22925728064
+            ],
+            [
+              -0.54890481249,
+              53.22927679922
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "SS",
+        "connected_nodes": "c_ss1_006",
+        "geometry_type": "Polygon",
+        "id": "r_ss1_03",
+        "level": "1",
+        "name": "SS103 (Interview Room 3)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54892557995,
+              53.2292932041
+            ],
+            [
+              -0.54890978102,
+              53.2293137288
+            ],
+            [
+              -0.54888144859,
+              53.22930588112
+            ],
+            [
+              -0.54889724752,
+              53.22928529892
+            ],
+            [
+              -0.54892557995,
+              53.2292932041
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "SS",
+        "connected_nodes": "c_ss1_006",
+        "geometry_type": "Polygon",
+        "id": "r_ss1_06",
+        "level": "1",
+        "name": "SS106 (Interview Room 6)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54884507183,
+              53.22926042156
+            ],
+            [
+              -0.54887475476,
+              53.22926858796
+            ],
+            [
+              -0.54888997102,
+              53.22924862067
+            ],
+            [
+              -0.54886021312,
+              53.22924049914
+            ],
+            [
+              -0.54884507183,
+              53.22926042156
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "SS",
+        "connected_nodes": "c_ss1_004",
+        "geometry_type": "Polygon",
+        "id": "r_ss1_01",
+        "level": "1",
+        "name": "SS101 (Interview Room 1)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54893374586,
+              53.22928487587
+            ],
+            [
+              -0.54896222949,
+              53.22929254869
+            ],
+            [
+              -0.54897737078,
+              53.22927303011
+            ],
+            [
+              -0.54894888715,
+              53.22926522268
+            ],
+            [
+              -0.54893374586,
+              53.22928487587
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "SS",
+        "connected_nodes": "c_ss1_006",
+        "geometry_type": "Polygon",
+        "id": "r_ss1_04",
+        "level": "1",
+        "name": "SS104 (Interview Room 4)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54874019463,
+              53.2292263869
+            ],
+            [
+              -0.54875739817,
+              53.22920399366
+            ],
+            [
+              -0.5488128625,
+              53.22921943214
+            ],
+            [
+              -0.54879549088,
+              53.22924168703
+            ],
+            [
+              -0.54874019463,
+              53.2292263869
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "SS",
+        "connected_nodes": "c_ss1_003",
+        "geometry_type": "Polygon",
+        "id": "r_ss1_14",
+        "level": "1",
+        "name": "SS114 (Waiting Room)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.5486560137,
+              53.22920302348
+            ],
+            [
+              -0.5486733493,
+              53.22918063022
+            ],
+            [
+              -0.54871464742,
+              53.22919204245
+            ],
+            [
+              -0.54869731181,
+              53.22921446444
+            ],
+            [
+              -0.5486560137,
+              53.22920302348
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "SS",
+        "connected_nodes": "c_ss1_003",
+        "geometry_type": "Polygon",
+        "id": "r_ss1_12",
+        "level": "1",
+        "name": "SS112 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54892370713,
+              53.22934227364
+            ],
+            [
+              -0.54884720957,
+              53.22932111654
+            ],
+            [
+              -0.54886324861,
+              53.22930117395
+            ],
+            [
+              -0.5489391459,
+              53.22932237418
+            ],
+            [
+              -0.54892370713,
+              53.22934227364
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "SS",
+        "connected_nodes": "c_ss1_005",
+        "geometry_type": "Polygon",
+        "id": "r_ss1_07",
+        "level": "1",
+        "name": "SS107 (Meeting Room)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54878006411,
+              53.22931725738
+            ],
+            [
+              -0.54858436626,
+              53.22926241702
+            ],
+            [
+              -0.54863438021,
+              53.22919785681
+            ],
+            [
+              -0.5487946145,
+              53.22924238098
+            ],
+            [
+              -0.54876879117,
+              53.22927574803
+            ],
+            [
+              -0.54880438678,
+              53.22928564028
+            ],
+            [
+              -0.54878006411,
+              53.22931725738
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "SS",
+        "connected_nodes": "c_ss1_003",
+        "geometry_type": "Polygon",
+        "id": "r_ss1_09",
+        "level": "1",
+        "name": "SS109 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54887550433,
+              53.22926876744
+            ],
+            [
+              -0.54889049572,
+              53.2292490245
+            ],
+            [
+              -0.54891942909,
+              53.22925705629
+            ],
+            [
+              -0.54890398796,
+              53.22927661974
+            ],
+            [
+              -0.54887550433,
+              53.22926876744
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "SS",
+        "connected_nodes": "c_ss1_004",
+        "geometry_type": "Polygon",
+        "id": "r_ss1_02",
+        "level": "1",
+        "name": "SS102 (Interview Room 2)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54884437847,
+              53.22925501609
+            ],
+            [
+              -0.54884940059,
+              53.22924855477
+            ],
+            [
+              -0.54880450139,
+              53.22923608082
+            ],
+            [
+              -0.54879333281,
+              53.22925021497
+            ],
+            [
+              -0.54882818778,
+              53.22925986208
+            ],
+            [
+              -0.54883335981,
+              53.22925317641
+            ],
+            [
+              -0.54880824924,
+              53.22924635612
+            ],
+            [
+              -0.54880899881,
+              53.22924527923
+            ],
+            [
+              -0.54884437847,
+              53.22925501609
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "SS",
+        "connected_nodes": "c_ss1_001,s_ss0_58",
+        "geometry_type": "Polygon",
+        "id": "s_ss1_001",
+        "level": "1",
+        "name": "Stairs",
+        "node_type": "stairs",
+        "NAV_FEATURE": "yes"
+      }
+    }
+  ]
+}

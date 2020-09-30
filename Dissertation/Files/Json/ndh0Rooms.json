@@ -1,0 +1,1243 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54808477423,
+              53.2277671991
+            ],
+            [
+              -0.54807542191,
+              53.22777970361
+            ],
+            [
+              -0.54814200259,
+              53.2277977256
+            ],
+            [
+              -0.54810761287,
+              53.22784408778
+            ],
+            [
+              -0.54817937422,
+              53.22786353419
+            ],
+            [
+              -0.54821323308,
+              53.22781884666
+            ],
+            [
+              -0.54818663695,
+              53.22781149452
+            ],
+            [
+              -0.54819704348,
+              53.22779738526
+            ],
+            [
+              -0.54808477423,
+              53.2277671991
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "NDH",
+        "geometry_type": "Polygon",
+        "level": "0",
+        "node_type": "block",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54880747245,
+              53.22794132313
+            ],
+            [
+              -0.54879572557,
+              53.22795664942
+            ],
+            [
+              -0.54893474531,
+              53.22799400049
+            ],
+            [
+              -0.54900159708,
+              53.22790482849
+            ],
+            [
+              -0.54895308851,
+              53.22789171096
+            ],
+            [
+              -0.54889738122,
+              53.22796539443
+            ],
+            [
+              -0.54880747245,
+              53.22794132313
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "NDH",
+        "geometry_type": "Polygon",
+        "level": "0",
+        "node_type": "block",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54792274643,
+              53.22774079042
+            ],
+            [
+              -0.54787964444,
+              53.22781918924
+            ],
+            [
+              -0.54780598551,
+              53.22779958053
+            ],
+            [
+              -0.54784669295,
+              53.22772587876
+            ],
+            [
+              -0.54792274643,
+              53.22774079042
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "NDH",
+        "geometry_type": "Polygon",
+        "level": "0",
+        "node_type": "block",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54861362643,
+              53.22801877046
+            ],
+            [
+              -0.54859507239,
+              53.22804358098
+            ],
+            [
+              -0.54871230017,
+              53.22807524323
+            ],
+            [
+              -0.54873097469,
+              53.22805028847
+            ],
+            [
+              -0.54861362643,
+              53.22801877046
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "NDH",
+        "geometry_type": "Polygon",
+        "level": "0",
+        "node_type": "block",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54829087209,
+              53.2278039489
+            ],
+            [
+              -0.54826968373,
+              53.22783205684
+            ],
+            [
+              -0.5483776251,
+              53.22786121632
+            ],
+            [
+              -0.54838835632,
+              53.22784698057
+            ],
+            [
+              -0.54845858817,
+              53.22786595313
+            ],
+            [
+              -0.5484690453,
+              53.22785208097
+            ],
+            [
+              -0.54829087209,
+              53.2278039489
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "NDH",
+        "geometry_type": "Polygon",
+        "level": "0",
+        "node_type": "block",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54851202141,
+              53.22784805958
+            ],
+            [
+              -0.54848175458,
+              53.22783995193
+            ],
+            [
+              -0.54849460085,
+              53.22782275938
+            ],
+            [
+              -0.5485248752,
+              53.22783076335
+            ],
+            [
+              -0.54851202141,
+              53.22784805958
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "NDH",
+        "connected_nodes": "c_ndh0_012,l_ndh1_001",
+        "geometry_type": "Polygon",
+        "id": "l_ndh0_001",
+        "level": "0",
+        "name": "Lift 1",
+        "node_type": "lift",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54854467652,
+              53.22785662513
+            ],
+            [
+              -0.54851440969,
+              53.22784851748
+            ],
+            [
+              -0.54852725596,
+              53.22783132493
+            ],
+            [
+              -0.54855753031,
+              53.22783932891
+            ],
+            [
+              -0.54854467652,
+              53.22785662513
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "NDH",
+        "connected_nodes": "c_ndh0_012,l_ndh1_003",
+        "geometry_type": "Polygon",
+        "id": "l_ndh0_003",
+        "level": "0",
+        "name": "Lift 3",
+        "node_type": "lift",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54837641394,
+              53.22786300846
+            ],
+            [
+              -0.54835656657,
+              53.22788935397
+            ],
+            [
+              -0.54831608881,
+              53.2278784261
+            ],
+            [
+              -0.54833593618,
+              53.22785208059
+            ],
+            [
+              -0.54837641394,
+              53.22786300846
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "NDH",
+        "connected_nodes": "c_ndh0_013",
+        "geometry_type": "Polygon",
+        "id": "r_ndh0_015",
+        "level": "0",
+        "name": "NDH0015 (Office)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54828817628,
+              53.227803537
+            ],
+            [
+              -0.54826724387,
+              53.22783139147
+            ],
+            [
+              -0.54819007778,
+              53.22781061008
+            ],
+            [
+              -0.5482110102,
+              53.22778275559
+            ],
+            [
+              -0.54828817628,
+              53.227803537
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "NDH",
+        "connected_nodes": "c_ndh0_003",
+        "geometry_type": "Polygon",
+        "id": "r_ndh0_018",
+        "level": "0",
+        "name": "NDH0018 (College of Arts Reception)",
+        "node_type": "other",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54886382732,
+              53.22795457587
+            ],
+            [
+              -0.54880870738,
+              53.22793968231
+            ],
+            [
+              -0.54881756271,
+              53.22792778189
+            ],
+            [
+              -0.5488479841,
+              53.22793553519
+            ],
+            [
+              -0.54885653824,
+              53.22792478875
+            ],
+            [
+              -0.548881538,
+              53.2279314602
+            ],
+            [
+              -0.54886382732,
+              53.22795457587
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "NDH",
+        "connected_nodes": "c_ndh0_017",
+        "geometry_type": "Polygon",
+        "id": "r_ndh0_008",
+        "level": "0",
+        "name": "NDH0008 (Photography)",
+        "node_type": "room",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54887860128,
+              53.22789171096
+            ],
+            [
+              -0.54883015295,
+              53.22787880981
+            ],
+            [
+              -0.54884304439,
+              53.227862041
+            ],
+            [
+              -0.54889111622,
+              53.22787505937
+            ],
+            [
+              -0.54887860128,
+              53.22789171096
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "NDH",
+        "connected_nodes": "c_ndh0_018",
+        "geometry_type": "Polygon",
+        "id": "r_ndh0_006",
+        "level": "0",
+        "name": "NDH0006 (Photography)",
+        "node_type": "room",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.5478521447,
+              53.22771111134
+            ],
+            [
+              -0.54780322951,
+              53.22779946333
+            ],
+            [
+              -0.54778961519,
+              53.22781756645
+            ],
+            [
+              -0.54764383346,
+              53.22778518278
+            ],
+            [
+              -0.54774982641,
+              53.22769133128
+            ],
+            [
+              -0.5478521447,
+              53.22771111134
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "NDH",
+        "category": "LectureRaked",
+        "connected_nodes": "c_ndh0_007",
+        "geometry_type": "Polygon",
+        "id": "r_ndh0_020",
+        "level": "0",
+        "name": "NDH0020 (Lecture Theatre)",
+        "node_type": "room",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54870489814,
+              53.22793188393
+            ],
+            [
+              -0.54862104353,
+              53.22790952555
+            ],
+            [
+              -0.54868851275,
+              53.22782052466
+            ],
+            [
+              -0.5487719005,
+              53.22784301832
+            ],
+            [
+              -0.54870489814,
+              53.22793188393
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "NDH",
+        "connected_nodes": "c_ndh0_015",
+        "geometry_type": "Polygon",
+        "id": "r_ndh0_004",
+        "level": "0",
+        "name": "NDH0004 (Photography)",
+        "node_type": "room",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54884717086,
+              53.22793360588
+            ],
+            [
+              -0.54881879764,
+              53.22792617713
+            ],
+            [
+              -0.54883476134,
+              53.22790482849
+            ],
+            [
+              -0.5488628936,
+              53.22791268998
+            ],
+            [
+              -0.54884717086,
+              53.22793360588
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "NDH",
+        "connected_nodes": "c_ndh0_017",
+        "geometry_type": "Polygon",
+        "id": "r_ndh0_009",
+        "level": "0",
+        "name": "NDH0009 (Photography)",
+        "node_type": "room",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54856804893,
+              53.22782430103
+            ],
+            [
+              -0.54849727401,
+              53.22780526481
+            ],
+            [
+              -0.54851987922,
+              53.22777520712
+            ],
+            [
+              -0.5485904207,
+              53.22779403149
+            ],
+            [
+              -0.54856804893,
+              53.22782430103
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "NDH",
+        "connected_nodes": "c_ndh0_010",
+        "geometry_type": "Polygon",
+        "id": "r_ndh0_002",
+        "level": "0",
+        "name": "NDH0002 (Art Shop)",
+        "node_type": "room",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54833311923,
+              53.22785162615
+            ],
+            [
+              -0.54831356581,
+              53.22787763651
+            ],
+            [
+              -0.54826445974,
+              53.22786440728
+            ],
+            [
+              -0.54828401316,
+              53.22783839691
+            ],
+            [
+              -0.54833311923,
+              53.22785162615
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "NDH",
+        "connected_nodes": "c_ndh0_013",
+        "geometry_type": "Polygon",
+        "id": "r_ndh0_014",
+        "level": "0",
+        "name": "NDH0014 (Workshop)",
+        "node_type": "room",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54862023028,
+              53.22790930918
+            ],
+            [
+              -0.54868692391,
+              53.22782016855
+            ],
+            [
+              -0.54859347602,
+              53.22779484402
+            ],
+            [
+              -0.54852633811,
+              53.22788397117
+            ],
+            [
+              -0.54862023028,
+              53.22790930918
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "NDH",
+        "connected_nodes": "c_ndh0_015",
+        "geometry_type": "Polygon",
+        "id": "r_ndh0_003",
+        "level": "0",
+        "name": "NDH0003 (Photography)",
+        "node_type": "room",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54828142018,
+              53.22783760521
+            ],
+            [
+              -0.54826178987,
+              53.22786364764
+            ],
+            [
+              -0.54819595663,
+              53.22784586427
+            ],
+            [
+              -0.54821558694,
+              53.22781982183
+            ],
+            [
+              -0.54828142018,
+              53.22783760521
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "NDH",
+        "connected_nodes": "c_ndh0_013",
+        "geometry_type": "Polygon",
+        "id": "r_ndh0_013",
+        "level": "0",
+        "name": "NDH0013 (Workshop)",
+        "node_type": "room",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54877351074,
+              53.22795038577
+            ],
+            [
+              -0.54870718665,
+              53.22793289458
+            ],
+            [
+              -0.54877453602,
+              53.22784374858
+            ],
+            [
+              -0.548840439,
+              53.22786134681
+            ],
+            [
+              -0.54877351074,
+              53.22795038577
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "NDH",
+        "connected_nodes": "c_ndh0_017",
+        "geometry_type": "Polygon",
+        "id": "r_ndh0_005",
+        "level": "0",
+        "name": "NDH0005 (Photography)",
+        "node_type": "room",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54835526484,
+              53.22789082181
+            ],
+            [
+              -0.54832016729,
+              53.22793764369
+            ],
+            [
+              -0.54798159375,
+              53.22784658282
+            ],
+            [
+              -0.54801678543,
+              53.22779972704
+            ],
+            [
+              -0.54811721744,
+              53.22782681185
+            ],
+            [
+              -0.54810354664,
+              53.22784500286
+            ],
+            [
+              -0.54818126426,
+              53.22786606304
+            ],
+            [
+              -0.54819505178,
+              53.22784778413
+            ],
+            [
+              -0.54835526484,
+              53.22789082181
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "NDH",
+        "connected_nodes": "c_ndh0_013",
+        "geometry_type": "Polygon",
+        "id": "r_ndh0_012",
+        "level": "0",
+        "name": "NDH0012 (Workshop)",
+        "node_type": "room",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54873208914,
+              53.22804864766
+            ],
+            [
+              -0.54845808576,
+              53.22797491926
+            ],
+            [
+              -0.54851431263,
+              53.22790033878
+            ],
+            [
+              -0.54878811269,
+              53.2279740087
+            ],
+            [
+              -0.54873208914,
+              53.22804864766
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "NDH",
+        "connected_nodes": "c_ndh0_013",
+        "geometry_type": "Polygon",
+        "id": "r_ndh0_010",
+        "level": "0",
+        "name": "NDH0010 (Workshop)",
+        "node_type": "room",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54889637219,
+              53.22796388884
+            ],
+            [
+              -0.5488656496,
+              53.22795559461
+            ],
+            [
+              -0.54888408315,
+              53.22793056767
+            ],
+            [
+              -0.54885805931,
+              53.22792335529
+            ],
+            [
+              -0.54886605622,
+              53.22791232936
+            ],
+            [
+              -0.54883578166,
+              53.22790369479
+            ],
+            [
+              -0.54884941105,
+              53.2278855872
+            ],
+            [
+              -0.54888003575,
+              53.22789371465
+            ],
+            [
+              -0.5488937442,
+              53.22787564086
+            ],
+            [
+              -0.54895030992,
+              53.22789113848
+            ],
+            [
+              -0.54889637219,
+              53.22796388884
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "NDH",
+        "connected_nodes": "c_ndh0_018",
+        "geometry_type": "Polygon",
+        "id": "r_ndh0_007",
+        "level": "0",
+        "name": "NDH0007 (Photography)",
+        "node_type": "room",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54851133826,
+              53.22789964008
+            ],
+            [
+              -0.54845553308,
+              53.22797413041
+            ],
+            [
+              -0.54832278586,
+              53.22793841564
+            ],
+            [
+              -0.54838966022,
+              53.22784927507
+            ],
+            [
+              -0.54845734782,
+              53.22786752693
+            ],
+            [
+              -0.54844637654,
+              53.22788224471
+            ],
+            [
+              -0.54851133826,
+              53.22789964008
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "NDH",
+        "connected_nodes": "c_ndh0_013",
+        "geometry_type": "Polygon",
+        "id": "r_ndh0_011",
+        "level": "0",
+        "name": "NDH0011 (Workshop)",
+        "node_type": "room",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54879081598,
+              53.2279745902
+            ],
+            [
+              -0.54875420489,
+              53.22802351709
+            ],
+            [
+              -0.54880223153,
+              53.22803652639
+            ],
+            [
+              -0.54883893299,
+              53.2279877077
+            ],
+            [
+              -0.54879081598,
+              53.2279745902
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "NDH",
+        "connected_nodes": "c_ndh0_019,s_ndh1_001",
+        "geometry_type": "Polygon",
+        "id": "s_ndh0_001",
+        "level": "0",
+        "name": "Stairs 1",
+        "node_type": "stairs",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54842447351,
+              53.22782454896
+            ],
+            [
+              -0.54835343504,
+              53.22780544512
+            ],
+            [
+              -0.54836641684,
+              53.22778836976
+            ],
+            [
+              -0.54842147655,
+              53.22780301093
+            ],
+            [
+              -0.54842447351,
+              53.22782454896
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "NDH",
+        "connected_nodes": "c_ndh0_008,s_ndh1_002",
+        "geometry_type": "Polygon",
+        "id": "s_ndh0_002",
+        "level": "0",
+        "name": "Stairs 2",
+        "node_type": "stairs",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54799391291,
+              53.22775989879
+            ],
+            [
+              -0.54793769357,
+              53.22783489874
+            ],
+            [
+              -0.54797884529,
+              53.22784596526
+            ],
+            [
+              -0.54803478601,
+              53.22777098787
+            ],
+            [
+              -0.54799391291,
+              53.22775989879
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "NDH",
+        "connected_nodes": "c_ndh0_005,s_ndh1_003",
+        "geometry_type": "Polygon",
+        "id": "s_ndh0_003",
+        "level": "0",
+        "name": "Stairs 3",
+        "node_type": "stairs",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54806735347,
+              53.22781139985
+            ],
+            [
+              -0.5480877599,
+              53.22778517376
+            ],
+            [
+              -0.54803776038,
+              53.22777139807
+            ],
+            [
+              -0.54801739913,
+              53.22779793971
+            ],
+            [
+              -0.54806735347,
+              53.22781139985
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "NDH",
+        "connected_nodes": "c_ndh0_004",
+        "geometry_type": "Polygon",
+        "id": "wcd_ndh0_001",
+        "level": "0",
+        "name": "Disabled & Gender Neutral Toilet",
+        "node_type": "wcd",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.54799101384,
+              53.22775928123
+            ],
+            [
+              -0.54792535183,
+              53.22774161083
+            ],
+            [
+              -0.54788176791,
+              53.22781984738
+            ],
+            [
+              -0.54793483969,
+              53.22783430823
+            ],
+            [
+              -0.54799101384,
+              53.22775928123
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "NDH",
+        "connected_nodes": "c_ndh0_006",
+        "geometry_type": "Polygon",
+        "id": "wcf_ndh0_001",
+        "level": "0",
+        "name": "Female Toilets",
+        "node_type": "wcf",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.5480885995,
+              53.22778541042
+            ],
+            [
+              -0.54813816227,
+              53.22779882549
+            ],
+            [
+              -0.54811856909,
+              53.22782502452
+            ],
+            [
+              -0.54806823825,
+              53.2278116275
+            ],
+            [
+              -0.5480885995,
+              53.22778541042
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "NDH",
+        "connected_nodes": "c_ndh0_004",
+        "geometry_type": "Polygon",
+        "id": "wcm_ndh0_001",
+        "level": "0",
+        "name": "Male Toilets",
+        "node_type": "wcm",
+        "NAV_FEATURE": "yes"
+      }
+    }
+  ]
+}

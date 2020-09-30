@@ -1,0 +1,83 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.55386624696,
+              53.22992283432
+            ],
+            [
+              -0.55384627052,
+              53.22991985924
+            ],
+            [
+              -0.55385090439,
+              53.22990841864
+            ],
+            [
+              -0.5538710489,
+              53.22991133622
+            ],
+            [
+              -0.55386624696,
+              53.22992283432
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "CB",
+        "connected_nodes": "c_cb0_001,c_cb0_002",
+        "id": "l_cb0_001",
+        "level": "0",
+        "name": "Courts Bridge North Lift",
+        "node_type": "lift",
+        "NAV_FEATURE": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.55380488715,
+              53.22991844695
+            ],
+            [
+              -0.55378491071,
+              53.22991547187
+            ],
+            [
+              -0.55379338632,
+              53.22989414261
+            ],
+            [
+              -0.55381353083,
+              53.22989706019
+            ],
+            [
+              -0.55380488715,
+              53.22991844695
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building": "CB",
+        "connected_nodes": "c_cb0_001,c_cb0_002",
+        "id": "s_cb0_001",
+        "level": "0",
+        "name": "Courts Bridge North Stairs",
+        "node_type": "stairs",
+        "NAV_FEATURE": "yes"
+      }
+    }
+  ]
+}
